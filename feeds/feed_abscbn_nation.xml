@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ABS-CBN News Nation</title>
+    <link>https://www.abs-cbn.com/news/nation</link>
+    <description>Latest national news from ABS-CBN</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_abscbn_nation.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://od2-image-api.abs-cbn.com/prod/newsfavicon.webp</url>
+      <title>ABS-CBN News Nation</title>
+      <link>https://www.abs-cbn.com/news/nation</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Mar 2026 16:46:07 +0000</lastBuildDate>
+    <item>
+      <title>Rhian Ramos to pursue possible legal action over driver’s assault claims</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/3/6/rhian-ramos-to-pursue-possible-legal-action-over-driver-s-assault-claims-0040</link>
+      <description>Actress Rhian Ramos said she is already looking into possible legal actions against her former driver, who alleged that she, Michelle Dee, and Sam Panlilio physically assaulted and illegally detained him back in January.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/3/6/rhian-ramos-to-pursue-possible-legal-action-over-driver-s-assault-claims-0040</guid>
+      <category>Nation</category>
+      <enclosure url="https://od2-image-api.abs-cbn.com/prod/20260305160340/22aaa9abd96e31f77cf13982f7f63df2523c230ee29005b13de8b76faa37c365.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 16:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘I am deeply sorry’: Suntay’s wife breaks silence on husband's Anne Curtis remark</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/3/5/-i-am-deeply-sorry-suntay-s-wife-breaks-silence-on-husband-s-anne-curtis-remark-2214</link>
+      <description>The wife of Rep. Bong Suntay has issued a public statement distancing herself and her children from the controversial remarks the Quezon City lawmaker made during a House impeachment hearing, after his comments referencing actress Anne Curtis sparked widespread backlash online.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/3/5/-i-am-deeply-sorry-suntay-s-wife-breaks-silence-on-husband-s-anne-curtis-remark-2214</guid>
+      <category>Nation</category>
+      <enclosure url="https://od2-image-api.abs-cbn.com/prod/2026030514038/d0dac7f402410aff526707642d7161db36703f55b1539328e22286b6d569249a.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 14:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>No double standard in impeachment proceedings — House justice panel members</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/3/5/no-double-standard-in-house-panel-impeachment-proceedings-rep-zamora-1923</link>
+      <description>Leaders of the House Committee on Justice asserted there was no double standard in its deliberations on the impeachment complaints against the country’s two highest officials.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/3/5/no-double-standard-in-house-panel-impeachment-proceedings-rep-zamora-1923</guid>
+      <category>Nation</category>
+      <enclosure url="https://od2-image-api.abs-cbn.com/prod/20260305110320/1ac547d9fbd490a55ca0cd4e075ae8bcbc1be9d430e80b024f4a678820e5e65a.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 11:23:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>DSWD urges stronger cooperation among ASEAN states amid global tensions</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/3/5/dswd-urges-stronger-cooperation-among-asean-states-amid-global-tensions-1910</link>
+      <description>Social Welfare Secretary Rex Gatchalian called on other members of the Association of Southeast Asian Nations (ASEAN) for stronger cooperation amid global headwinds.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/3/5/dswd-urges-stronger-cooperation-among-asean-states-amid-global-tensions-1910</guid>
+      <category>Nation</category>
+      <enclosure url="https://od2-image-api.abs-cbn.com/prod/20260305100320/81829eb8520cff51fd142afb3533f7e163ba53191e492d2f28b2173b6244a765.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 11:10:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Man wanted for inciting to sedition surrenders to police</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/3/5/man-wanted-for-inciting-to-sedition-surrenders-to-police-1856</link>
+      <description>The Quezon City Police District on Thursday said it has successfully served a warrant of arrest against an individual wanted for inciting to sedition.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/3/5/man-wanted-for-inciting-to-sedition-surrenders-to-police-1856</guid>
+      <category>Nation</category>
+      <enclosure url="https://od2-image-api.abs-cbn.com/prod/20260305100352/448ca911466daed6286105cb72fc866d82c0c498a88a13630a3f9fb7995aa7e2.png" length="0" type="image/png"/>
+      <pubDate>Thu, 05 Mar 2026 10:56:11 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
