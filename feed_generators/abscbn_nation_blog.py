@@ -141,6 +141,7 @@ def merge_articles(new_articles, cached_posts):
 
 def generate_rss_feed(posts):
     fg = FeedGenerator()
+    fg.load_extension('media')
     fg.title("ABS-CBN News Nation")
     fg.description(
         "Get the latest national news, covering politics, society, and current events in the Philippines."
@@ -158,7 +159,7 @@ def generate_rss_feed(posts):
         fe.link(href=post["url"])
 
         if post.get("image_url"):
-            fe.enclosure(url=post["image_url"], length="0", type=post.get("image_mime", "image/jpeg"))
+            fe.media.content({"url": post["image_url"], "medium": "image"})
         fe.id(post["url"])
 
         if post.get("date"):
