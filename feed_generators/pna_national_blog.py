@@ -3,23 +3,29 @@ import json
 import logging
 import re
 from datetime import datetime
-from pathlib import Path
 
 import pytz
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
+from utils import (get_cache_dir, get_feeds_dir, setup_feed_links,
+                   sort_posts_for_feed)
 
-from utils import get_cache_dir, get_feeds_dir, setup_feed_links, sort_posts_for_feed
-
-logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 logger = logging.getLogger(__name__)
 
 BLOG_URL = "https://www.pna.gov.ph/categories/national"
 FEED_NAME = "pna_national"
 PH_TZ = pytz.timezone("Asia/Manila")
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
 }
 
 
@@ -70,10 +76,14 @@ def parse_articles(html):
         pub_date = None
         if date_str:
             # Extract just the first date occurrence: "Month D, YYYY, H:MM am/pm"
-            date_match = re.search(r"([A-Za-z]+ \d{1,2}, \d{4}, \d{1,2}:\d{2} [aApP][mM])", date_str)
+            date_match = re.search(
+                r"([A-Za-z]+ \d{1,2}, \d{4}, \d{1,2}:\d{2} [aApP][mM])", date_str
+            )
             if date_match:
                 try:
-                    naive = datetime.strptime(date_match.group(1), "%B %d, %Y, %I:%M %p")
+                    naive = datetime.strptime(
+                        date_match.group(1), "%B %d, %Y, %I:%M %p"
+                    )
                     pub_date = PH_TZ.localize(naive).isoformat()
                 except ValueError:
                     logger.warning(f"Could not parse date: {date_match.group(1)!r}")
@@ -90,14 +100,16 @@ def parse_articles(html):
                     description = text
                     break
 
-        articles.append({
-            "id": article_id,
-            "url": url,
-            "title": title,
-            "description": description,
-            "date": pub_date,
-            "image_url": image_url,
-        })
+        articles.append(
+            {
+                "id": article_id,
+                "url": url,
+                "title": title,
+                "description": description,
+                "date": pub_date,
+                "image_url": image_url,
+            }
+        )
 
     return articles
 
@@ -212,17 +224,25 @@ def save_rss_feed(fg):
 def main(full=False):
     cache = load_cache()
 
-    if full or not cache["posts"]:
-        logger.info("Running full fetch across all pages")
-        new_articles = fetch_all_pages()
-    else:
-        logger.info("Running incremental fetch (page 1 only)")
-        html = fetch_page(1)
-        new_articles = parse_articles(html)
-        logger.info(f"Found {len(new_articles)} articles on page 1")
+    try:
+        if full or not cache["posts"]:
+            logger.info("Running full fetch across all pages")
+            new_articles = fetch_all_pages()
+        else:
+            logger.info("Running incremental fetch (page 1 only)")
+            html = fetch_page(1)
+            new_articles = parse_articles(html)
+            logger.info(f"Found {len(new_articles)} articles on page 1")
 
-    posts = merge_articles(new_articles, cache["posts"])
-    save_cache(posts)
+        posts = merge_articles(new_articles, cache["posts"])
+        save_cache(posts)
+    except Exception as e:
+        logger.warning(f"Error fetching PNA content: {e}. Falling back to cached data.")
+        posts = cache["posts"]
+        if not posts:
+            logger.error("No cached data available. Cannot generate feed.")
+            raise
+
     feed = generate_rss_feed(posts)
     save_rss_feed(feed)
     logger.info("Done!")
@@ -231,6 +251,8 @@ def main(full=False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate PNA National RSS feed")
-    parser.add_argument("--full", action="store_true", help="Fetch all pages (full reset)")
+    parser.add_argument(
+        "--full", action="store_true", help="Fetch all pages (full reset)"
+    )
     args = parser.parse_args()
     main(full=args.full)
