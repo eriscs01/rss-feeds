@@ -4,8 +4,10 @@ Fork of [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds).
 
 ## Available Feeds
 
-| Blog | Feed |
-| ---- | ---- |
+### News Outlets
+
+| Outlet | Feed |
+| ------ | ---- |
 | [ABS-CBN News Business](https://www.abs-cbn.com/news/business) | [feed_abscbn_business.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_abscbn_business.xml) |
 | [ABS-CBN News Calamity Hub](https://www.abs-cbn.com/calamity-hub) | [feed_abscbn_calamity_hub.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_abscbn_calamity_hub.xml) |
 | [ABS-CBN News Fact Check](https://www.abs-cbn.com/news/factcheck) | [feed_abscbn_factcheck.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_abscbn_factcheck.xml) |
@@ -15,9 +17,6 @@ Fork of [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds).
 | [ABS-CBN News Technology](https://www.abs-cbn.com/news/technology) | [feed_abscbn_technology.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_abscbn_technology.xml) |
 | [ABS-CBN News Weather & Traffic](https://www.abs-cbn.com/news/weather-traffic) | [feed_abscbn_weather_traffic.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_abscbn_weather_traffic.xml) |
 | [ABS-CBN News World](https://www.abs-cbn.com/news/world) | [feed_abscbn_world.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_abscbn_world.xml) |
-| [Makati City Government News](https://www.makati.gov.ph/content/news) | [feed_makati_news.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_makati_news.xml) |
-| [Malabon City Government News](https://malabon.gov.ph/news/) | [feed_malabon_news.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_malabon_news.xml) |
-| [Mandaluyong City Government News](https://mandaluyong.gov.ph/news/) | [feed_mandaluyong_news.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_mandaluyong_news.xml) |
 | [Manila Bulletin Luzon](https://mb.com.ph/category/luzon) | [feed_manilabulletin_luzon.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_luzon.xml) |
 | [Manila Bulletin Metro Manila](https://mb.com.ph/category/metro-manila) | [feed_manilabulletin_metro_manila.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_metro_manila.xml) |
 | [Manila Bulletin Mindanao](https://mb.com.ph/category/mindanao) | [feed_manilabulletin_mindanao.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_mindanao.xml) |
@@ -25,6 +24,14 @@ Fork of [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds).
 | [Manila Bulletin Philippines](https://mb.com.ph/category/philippines) | [feed_manilabulletin_philippines.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_philippines.xml) |
 | [Manila Bulletin Visayas](https://mb.com.ph/category/visayas) | [feed_manilabulletin_visayas.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_visayas.xml) |
 | [Manila Bulletin World](https://mb.com.ph/category/world) | [feed_manilabulletin_world.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_world.xml) |
+
+### Government
+
+| Office | Feed |
+| ------ | ---- |
+| [Makati City Government News](https://www.makati.gov.ph/content/news) | [feed_makati_news.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_makati_news.xml) |
+| [Malabon City Government News](https://malabon.gov.ph/news/) | [feed_malabon_news.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_malabon_news.xml) |
+| [Mandaluyong City Government News](https://mandaluyong.gov.ph/news/) | [feed_mandaluyong_news.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_mandaluyong_news.xml) |
 | [Marikina City Government News](https://marikina.gov.ph/news) | [feed_marikina_news.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_marikina_news.xml) |
 | [Muntinlupa City Government News & Announcements](https://muntinlupacity.gov.ph/category/news-announcement/) | [feed_muntinlupa_news.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_muntinlupa_news.xml) |
 | [Pasay City Government City Events](https://pasay.gov.ph/balita/city-events/) | [feed_pasay_city_events.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_pasay_city_events.xml) |

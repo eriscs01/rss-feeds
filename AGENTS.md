@@ -230,7 +230,7 @@ uv run feed_generators/<source>_blog.py --full
    	$(call print_success,<Source Name> feed generated)
    ```
 
-3. **Update README.md table** (alphabetical order):
+3. **Update README.md table** (alphabetical order) under the matching "Available Feeds" subsection — "News Outlets" or "Government":
    ```markdown
    | [Source Name](https://example.com/blog) | [feed_<source>.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_<source>.xml) |
    ```
