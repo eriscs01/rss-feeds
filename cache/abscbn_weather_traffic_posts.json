@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T12:04:33.597761+00:00",
+  "last_updated": "2026-10-13T12:41:09.680819+00:00",
   "posts": [
     {
       "id": "d544362ed1a48a19db71c98ca08d5784474a8aa7",
@@ -11,7 +11,8 @@
       "category": "Weather & Traffic",
       "tags": "PAGASA, Habagat, southwest monsoon, Pilandok",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260907000940/5901807e7670d50fd473aeb98ac23e0ea3f76dc8e7baaf31b2c666e671d22f0c.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/178873816027020220823-florita-class-supsension-ncr-GC-8.jpg\" alt=\"Students walk during a heavy downpour in Mandaluyong City on August 23, 2022. George Calvelo, ABS-CBN News/File\"/><figcaption>Students walk during a heavy downpour in Mandaluyong City on August 23, 2022. George Calvelo, ABS-CBN News/File</figcaption></figure><p>The southwest monsoon or Habagat will continue to affect Luzon and Visayas this week, according to PAGASA.</p>"
     },
     {
       "id": "53d7b0de902cd4cbb6cf819077d111eedda1ddaf",
@@ -23,7 +24,8 @@
       "category": "Weather & Traffic",
       "tags": "class suspensions, walang pasok, weather, habagat",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260907140912/c65632efc77e66dd472770a446ea184f353edb1983a13c46b668cf6b105151ed.png",
-      "image_mime": "image/png"
+      "image_mime": "image/png",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/20260907140912/c65632efc77e66dd472770a446ea184f353edb1983a13c46b668cf6b105151ed.png\" alt=\"\"/></figure><p>Several local government units announced the suspension of classes in their respective areas on Tuesday, September 8, due to inclement weather brought by the southwest monsoon or habagat.</p>"
     },
     {
       "id": "08d54168258fcd1cef0f30c36fcea442597ee817",
@@ -35,7 +37,8 @@
       "category": "Weather & Traffic",
       "tags": "NLEX,flood",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260907160916/8e2a7b731888c1cca254f2eb82861ba4de1aa60eb4c44a619da79b95d9533bcf.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/20260907160916/8e2a7b731888c1cca254f2eb82861ba4de1aa60eb4c44a619da79b95d9533bcf.jpg\" alt=\"\"/></figure><p>House Senior Deputy Speaker and South Cotabato 2nd District Rep. Ferdinand Hernandez has called for a House inquiry into the \u201drecurring flooding\u201d on a part of the North Luzon Expressway, which caused severe traffic congestion.</p>"
     },
     {
       "id": "1bf259e003ed4043f3878c41d1d785410b7c9a83",
@@ -47,7 +50,8 @@
       "category": "Weather & Traffic",
       "tags": "El Ni\u00f1o, PAGASA, Weather",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/2026090809090/04719809686f6da598e6aadeb909686923b3311c37cccfac13ccb81141bc6a59.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/178885428514520260723-el-nino-angat-dam-151-45-masl-GCS11.jpg\" alt=\"Barren slopes and dead trees normally submerged below the tree line, which marks the reservoir&#x27;s normal capacity, become visible as water levels dropped to 151.45 masl in this photo taken on July 23, 2026. Gigie Cruz, ABS-CBN News/File\"/><figcaption>Barren slopes and dead trees normally submerged below the tree line, which marks the reservoir&#x27;s normal capacity, become visible as water levels dropped to 151.45 masl in this photo taken on July 23, 2026. Gigie Cruz, ABS-CBN News/File</figcaption></figure><p>Record-breaking temperatures and high heat index are possible because of the ongoing El Ni\u00f1o, a PAGASA official said on Tuesday.</p>"
     },
     {
       "id": "7423921b7459dab4fb840bfac94f729f0d2d050f",
@@ -59,7 +63,8 @@
       "category": "Weather & Traffic",
       "tags": "Class suspensions,Walang Pasok,Weather,Habagat",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260909010952/6a4b1dbe740b643e06fa3237630c9cd0c0a6cab558603f129ecff22e0cbc3f11.png",
-      "image_mime": "image/png"
+      "image_mime": "image/png",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/20260909010952/6a4b1dbe740b643e06fa3237630c9cd0c0a6cab558603f129ecff22e0cbc3f11.png\" alt=\"\"/></figure><p>Several local government units announced the suspension of classes in their respective areas on Wednesday, September 9, due to inclement weather brought by the southwest monsoon or habagat.</p>"
     },
     {
       "id": "110c889db20f20b8dcd12d901edb93f76e6b187e",
@@ -71,7 +76,8 @@
       "category": "Weather & Traffic",
       "tags": "weather, traffic, rains",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260909020916/3f420f6bfc7ddf48d78c370bcaf908ffbfd8bf4593f00c9a7d7395fb0c4cbd0e.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/20260909020916/3f420f6bfc7ddf48d78c370bcaf908ffbfd8bf4593f00c9a7d7395fb0c4cbd0e.jpg\" alt=\"\"/></figure><p>Heavy rains spawned floods along some roads in Metro Manila on Wednesday, Sept. 9.</p>"
     },
     {
       "id": "01ff20b3ade60f7b9c6c6073bae547df6d31dae0",
@@ -83,7 +89,8 @@
       "category": "Weather & Traffic",
       "tags": "El Nino, Palace, DA, Claire Castro",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260909080952/2ff3f8b50e2af33dae0c2bbbdcf9a17b6cc48f4da71bfa28fdc508ee4378695d.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/178894038967220260409-heat-index-quiapo-manila-JC6556.jpg\" alt=\"People shield themselves from the heat in Manila, April 9, 2026. Jonathan Cellona, ABS-CBN News/File\"/><figcaption>People shield themselves from the heat in Manila, April 9, 2026. Jonathan Cellona, ABS-CBN News/File</figcaption></figure><p>The government is well-positioned to respond to the effects of El Ni\u00f1o , which is forecast by the United Nations&#x27; climate agency to be the strongest since comparable records began four decades ago.</p>"
     },
     {
       "id": "e48418432c7317941e43b852a4c1825cdb1ad330",
@@ -95,7 +102,8 @@
       "category": "Weather & Traffic",
       "tags": "weather, rains, Japan, Nagoya",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260910070924/4cccf772c1038a707bd9bf7d09d02b62dc44fcbb84a5396b86d44d0f2d22dc02.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1789021559069etienne-girardet-6JOU3r2TcPY-unsplash.jpg\" alt=\"Photo by Etienne Girardet on Unsplash\"/><figcaption>Photo by Etienne Girardet on Unsplash</figcaption></figure><p>No Filipino was affected by the record rainfall that lashed Nagoya earlier this week, Philippine Ambassador to Japan Mylene Albano said Thursday.</p>"
     },
     {
       "id": "4ac6f67cad3b2528bc9390b6ba94ed0b6ae4e2e7",
@@ -107,7 +115,8 @@
       "category": "Weather & Traffic",
       "tags": "rainfall, habagat, southwest monsoon, walang pasok, metro manila",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260910230944/936eeca0e1c7b4294496edb3a21e01867dfedba31a46f555092809e70c965b6b.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/20260910230944/936eeca0e1c7b4294496edb3a21e01867dfedba31a46f555092809e70c965b6b.jpg\" alt=\"walangpasok, walang pasok\"/><figcaption>walangpasok, walang pasok</figcaption></figure><p>Here is the list of local governments in Metro Manila that have declared suspension of classes,Friday, September 11, 2026 due to the rainfall caused by #Habagat.</p>"
     },
     {
       "id": "c51104bfe4d3a77008c8d2b57c1cd777716ba9fe",
@@ -119,7 +128,8 @@
       "category": "Weather & Traffic",
       "tags": "El NIno, extreme heat, weather",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260911020912/a03da1ad00b1e3d60f0cce3433c381beef986fd680f603fe2886928e80d21b28.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/178908920485720260409-heat-index-quiapo-manila-JC6650.jpg\" alt=\"People shield themselves from the heat in Manila, April 9, 2026. Jonathan Cellona, ABS-CBN News\"/><figcaption>People shield themselves from the heat in Manila, April 9, 2026. Jonathan Cellona, ABS-CBN News</figcaption></figure><p>Europe&#x27;s climate monitor said Thursday that August was the hottest month ever recorded around the world and warned of worse to come, as an unprecedented El Nino pattern grows stronger.</p>"
     },
     {
       "id": "bf3a5504b279621bcf687701b50c8b1e0501e589",
@@ -131,7 +141,8 @@
       "category": "Weather & Traffic",
       "tags": "weather, AI, artificial intelligence, ANC promo",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260911040936/839cc665747fab74b2e9d1d198cb607b145540489d10bf94ab24b848fa237a3e.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/178909786169620260904-flooding-pampanga-san-simon-MT22.jpg\" alt=\"Residents wade through thigh- to waist-deep floodwaters along Sto. Domingo Street in San Simon, Pampanga, Friday, Sept. 4, 2026. Maria Tan, ABS-CBN News\"/><figcaption>Residents wade through thigh- to waist-deep floodwaters along Sto. Domingo Street in San Simon, Pampanga, Friday, Sept. 4, 2026. Maria Tan, ABS-CBN News</figcaption></figure><p>A revolution in forecasting natural disasters is underway, say researchers in Switzerland who are training AI models on vast troves of NASA climate data to produce potentially-lifesaving data at lightning speed.</p>"
     },
     {
       "id": "6789dc16a292fdba0866525dc1d01aba99ee9490",
@@ -143,7 +154,8 @@
       "category": "Weather & Traffic",
       "tags": "Walang Pasok, Class Suspension, Barmm polls, weather",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260913150928/c65632efc77e66dd472770a446ea184f353edb1983a13c46b668cf6b105151ed.png",
-      "image_mime": "image/png"
+      "image_mime": "image/png",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/20260913150928/c65632efc77e66dd472770a446ea184f353edb1983a13c46b668cf6b105151ed.png\" alt=\"\"/></figure><p>A couple of local government units in Pampanga announced the suspension of classes in several public and private schools on Monday, September 9, due to flooding caused by the southwest monsoon or habagat.</p>"
     },
     {
       "id": "7700f7171a817e790af4125218b5e1cc6072aa04",
@@ -155,7 +167,8 @@
       "category": "Weather & Traffic",
       "tags": "PAGASA, Habagat, Southwest monsoon, Monsoon break, Thunderstorm",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260913160948/4572c9ee8f35cf3ef62d708a8d4f27b695a7a0409fb8363d0d7e19b94bed9768.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/178931471684820260828-habagat-cubao-qc-commuters-MT11.jpg\" alt=\"Commuters \u00a0and pedestrians brave the rain as they negotiate the busy streets of Cubao, in Quezon City on Friday, August 28, 2026. Maria Tan, ABS-CBN News\"/><figcaption>Commuters \u00a0and pedestrians brave the rain as they negotiate the busy streets of Cubao, in Quezon City on Friday, August 28, 2026. Maria Tan, ABS-CBN News</figcaption></figure><p>In the absence of the southwest monsoon or Habagat, afternoon or evening rains may still affect many parts of the country due to Easterlies and thunderstorms, according to PAGASA.</p>"
     },
     {
       "id": "9b7796a51603b49670b7a04e40dee431278bc500",
@@ -167,7 +180,8 @@
       "category": "Weather & Traffic",
       "tags": "PAGASA, LPA, low pressure area, Habagat, southwest monsoon, Dujuan",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260917100920/832133e895766c088357450fa1539d51db7e725da3daaa70f5aa644e22a205f8.gif",
-      "image_mime": "image/gif"
+      "image_mime": "image/gif",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1789636884829philippines_band_13_20260917054000.gif\" alt=\"RAMB/US NOAA/Himawari\"/><figcaption>RAMB/US NOAA/Himawari</figcaption></figure><p>A low pressure area that formed over the Sulu Sea early Thursday will continue to bring rainy weather over the central and southern parts of the country, according to PAGASA.</p>"
     },
     {
       "id": "9272568e404dde18e258cde27fbf0b5d1f701685",
@@ -179,7 +193,8 @@
       "category": "Weather & Traffic",
       "tags": "PAGASA, LPA, low pressure area, Habagat, southwest monsoon",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260918060924/4f346498ac36259e609e01436a57991d0792384794197de13ec67c72b460273c.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/178970916538220260917-weather-moderate-rain-school-dismissal-MT3420.jpg\" alt=\"Parents and guardians pick up young pupils from an elementary school in Quezon City following moderate rains on Thursday afternoon, September 17, 2026. Jonathan Cellona, ABS-CBN News\"/><figcaption>Parents and guardians pick up young pupils from an elementary school in Quezon City following moderate rains on Thursday afternoon, September 17, 2026. Jonathan Cellona, ABS-CBN News</figcaption></figure><p>A weak southwest monsoon or Habagat may return and bring rainy weather over the western sections of southern Luzon, Visayas, and Mindanao this weekend, according to PAGASA.</p>"
     },
     {
       "id": "9868b3c6fccc4fc599bf82367d864b02d55e3566",
@@ -191,7 +206,8 @@
       "category": "Weather & Traffic",
       "tags": "PAGASA, LPA, low pressure area, Queenie, Habagat, southwest monsoon",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260921040920/74e50a785ad9e4a00c3527c0533d9938092af8b13d8fdf342a6f86384faa7477.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/178996085687920220823-florita-class-supsension-ncr-GC-17.jpg\" alt=\"Students walk during a heavy downpour in Mandaluyong City on August 23, 2022. George Calvelo, ABS-CBN News/File\"/><figcaption>Students walk during a heavy downpour in Mandaluyong City on August 23, 2022. George Calvelo, ABS-CBN News/File</figcaption></figure><p>It will be assigned the local name Queenie once it enters the PAR.</p>"
     },
     {
       "id": "b47e0d8e9010eb79b748028cc547211433b9919e",
@@ -203,7 +219,8 @@
       "category": "Weather & Traffic",
       "tags": "New York, United States,\n\nenvironment,\n\nclimate,\n\nel ni\u00f1o,\n\nrecord\n\nweather, Agence France-Presse",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260922010920/ead9ffabe2ed430ef31719cc4a5c76b4f251c569778dd3ddf48a23d6858fe3c2.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179003653239520240502-el-nino-heat-metro-manila-JC-1.jpg\" alt=\"Members of the Parks Development Office pull out dried leaves and other debris from the center Island along Burgos Avenue in Manila on May 2, 2024, The heat index in various parts of the Philippines continues to climb, reaching dangerous levels as El Nino grips the country. Jonathan Cellona, ABS-CBN News/File\"/><figcaption>Members of the Parks Development Office pull out dried leaves and other debris from the center Island along Burgos Avenue in Manila on May 2, 2024, The heat index in various parts of the Philippines continues to climb, reaching dangerous levels as El Nino grips the country. Jonathan Cellona, ABS-CBN News/File</figcaption></figure><p>The strengthening El Ni\u00f1o weather pattern has tied for the most intense on record on a widely-used metric, a senior scientist told AFP Monday, even as its influence is already being felt from Central America to Indonesia.</p>"
     },
     {
       "id": "387462cbaca15955af3d52e0ac6a9d1d7c9d6c5f",
@@ -215,7 +232,8 @@
       "category": "Weather & Traffic",
       "tags": "weather, Japan, rain, typhoon",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260922030956/d1b09fcba7a513ac0670309c8b323912fbf7efc8523e501e3808c4e40ab05967.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1790045799939AFP__20260921__C8W84G7__v2__MidRes__JapanWeatherTyphoon.jpg\" alt=\"A pedestrian holds on to her umbrella amid strong winds and heavy rainfall in Chiba on September 21, 2026. Hundreds of flights were cancelled and more than one million people were under evacuation advisories in Japan on September 21 as Typhoon Dujuan approached Tokyo, potentially bringing record rainfall. Rie Kikuchi, AFP\"/><figcaption>A pedestrian holds on to her umbrella amid strong winds and heavy rainfall in Chiba on September 21, 2026. Hundreds of flights were cancelled and more than one million people were under evacuation advisories in Japan on September 21 as Typhoon Dujuan approached Tokyo, potentially bringing record rainfall. Rie Kikuchi, AFP</figcaption></figure><p>Typhoon Dujuan left at least two people dead and five injured in Japan, while thousands of houses near Tokyo remained without power after the storm swept through the region, authorities said Tuesday.</p>"
     },
     {
       "id": "d145f06bd3938a2a6c6c68b35cb5bd4bcb566c59",
@@ -227,7 +245,8 @@
       "category": "Weather & Traffic",
       "tags": "PAGASA, LPA, low pressure area, Queenie, Habagat, southwest monsoon",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260922120928/0cb519628512c75d24ec99fd4d8985d75048cf16b64511e7156e5166997113d7.gif",
-      "image_mime": "image/gif"
+      "image_mime": "image/gif",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1790076581353philippines_band_13 (2).gif\" alt=\"RAMMB/US NOAA/Himawari\"/><figcaption>RAMMB/US NOAA/Himawari</figcaption></figure><p>It may approach the Extreme Northern Luzon by weekend, when it may also begin pulling the southwest monsoon or Habagat over the western sections of the country.</p>"
     },
     {
       "id": "eb81ab9d58fb5d713c4136356bbda06cef7c55e2",
@@ -239,7 +258,8 @@
       "category": "Weather & Traffic",
       "tags": "Geneva, Switzerland, El Ni\u00f1o, climate change, weather, United Nations, World Health Organization, World Meteorological Organization",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260922140944/e08a8ca96b213dedf577ff38e58a5aafe24b8046bddae019bd050f291c495ebf.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/20260922140944/e08a8ca96b213dedf577ff38e58a5aafe24b8046bddae019bd050f291c495ebf.jpg\" alt=\"The sun rises by the Eiffel Tower and the Sacre Coeur Basilica ontop of the Montmartre hill in Paris on July 1, 2025, as the city is on red alert for high temperatures, with the top of the Eiffel Tower shut, polluting traffic banned and speed restrictions in place as a searing heatwave gripped Europe. Scientists say human-induced climate change is making such heatwave events more intense, frequent and widespread. Temperatures in France were expected to hit a peak today, according to the Meteo France weather agency, with the highest extreme heat warning in place in 16 departments across the country. (Photo by Thibaud MORITZ / AFP)\"/><figcaption>The sun rises by the Eiffel Tower and the Sacre Coeur Basilica ontop of the Montmartre hill in Paris on July 1, 2025, as the city is on red alert for high temperatures, with the top of the Eiffel Tower shut, polluting traffic banned and speed restrictions in place as a searing heatwave gripped Europe. Scientists say human-induced climate change is making such heatwave events more intense, frequent and widespread. Temperatures in France were expected to hit a peak today, according to the Meteo France weather agency, with the highest extreme heat warning in place in 16 departments across the country. (Photo by Thibaud MORITZ / AFP)</figcaption></figure><p>The World Health Organization (WHO) and the World Meteorological Organization (WMO) warned on Tuesday that a rapidly strengthening El Nino weather pattern poses growing risks to global health.</p>"
     },
     {
       "id": "a5a19b539e3b90cd9685c038d155d768f39dc103",
@@ -251,7 +271,8 @@
       "category": "Weather & Traffic",
       "tags": "PAGASA, El Ni\u00f1o, drought, weather, climate",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260923090916/17b44eddd3de44f395e8c964beed002ea11e5cf805b040f056f76809218a264c.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179015153559420260630-angat-dam-critical-level-159masl-GCS5137.jpg\" alt=\"Water levels in Angat Dam dipped below the critical mark after registering 159.95 masl on Tuesday morning, June 30, 2026. Gigie Cruz, ABS-CBN News\"/><figcaption>Water levels in Angat Dam dipped below the critical mark after registering 159.95 masl on Tuesday morning, June 30, 2026. Gigie Cruz, ABS-CBN News</figcaption></figure><p>The Philippines is bracing for a potentially more intense El Ni\u00f1o as the state weather bureau said the current strong El Ni\u00f1o may develop into a &quot;very strong&quot; event by the last quarter of 2026 and persist until early 2027.</p>"
     },
     {
       "id": "5b521c8e423c5d8d00a4262d4982bf69acb7f0b7",
@@ -263,7 +284,8 @@
       "category": "Weather & Traffic",
       "tags": "PAGASA, LPA, low pressure area, Queenie, Habagat, southwest monsoon",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260923170924/e62732ba0b68898701c8f95a0bd469468556d0bd5f2e6666fbba50912eb5f6e9.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1790180792464821570500_4453385224919781_4570136053951458468_n.jpg\" alt=\"Tropical storm Surigae as of 10:40 p.m. on September 23, 2026. Handout/PAGASA\"/><figcaption>Tropical storm Surigae as of 10:40 p.m. on September 23, 2026. Handout/PAGASA</figcaption></figure><p>The tropical depression outside the Philippine area of responsibility intensified into a tropical storm Wednesday evening, according to PAGASA.</p>"
     },
     {
       "id": "666a3a7152f4541f2484efe99888bd4883557656",
@@ -275,7 +297,8 @@
       "category": "Weather & Traffic",
       "tags": "PAGASA, LPA, low pressure area, Queenie, Habagat, southwest monsoon",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260924000936/77a89744348502c293bd9903266aedd2feec592eb556d5e03da20fb78742a613.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1790206738408HS7rAsUbIAAXD51.jpg\" alt=\"As of 3 a.m., Tropical Storm Surigae was located 1,500 kilometers east of Northern Luzon. PAGASA\"/><figcaption>As of 3 a.m., Tropical Storm Surigae was located 1,500 kilometers east of Northern Luzon. PAGASA</figcaption></figure><p>Tropical Storm Surigae slightly intensified ahead of its Philippine area of responsibility entry Thursday morning, according to PAGASA.</p>"
     },
     {
       "id": "97dceeaec6fda7b2dc73ba2f50b8a886d18259fe",
@@ -287,7 +310,8 @@
       "category": "Weather & Traffic",
       "tags": "El Nino, weather, global warming, temperatures",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260924020912/48a369c27128b89372d351c18c2868c72198f6c1d03c6321d057fb3c0e49637b.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179021254446620260828-habagat-cubao-qc-commuters-MT15.jpg\" alt=\"Commuters \u00a0and pedestrians brave the rain as they negotiate the busy streets of Cubao, in Quezon City on Friday, August 28, 2026. Maria Tan, ABS-CBN News\"/><figcaption>Commuters \u00a0and pedestrians brave the rain as they negotiate the busy streets of Cubao, in Quezon City on Friday, August 28, 2026. Maria Tan, ABS-CBN News</figcaption></figure><p>From drought to major floods and extreme heat, El Nino will have a huge impact on the world&#x27;s weather. In the Atlantic, it could mean a season without hurricanes.</p><figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1790212695593Screenshot 2026-09-24 at 9.17.48\u202fAM.png\" alt=\"\"/></figure><figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1790212726235Screenshot 2026-09-24 at 9.17.58\u202fAM.png\" alt=\"\"/></figure><figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1774855555426dw-dark-blue-4c_page-0001.jpg\" alt=\"\"/></figure>"
     },
     {
       "id": "fa27de7b5a2491b5104fe8d69033e8996b3e68db",
@@ -299,7 +323,8 @@
       "category": "Weather & Traffic",
       "tags": "weather, weather today, weather updates, weather news, weather latest, weather Philippines, bagyo, PAGASA, habagat,Queenie",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260924040940/bf3c42d59166e0a5bd8f9e278e143f5d3ac959401781e2f75456bde209184d0a.gif",
-      "image_mime": "image/gif"
+      "image_mime": "image/gif",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1790221412637philippines_band_13_20260924003000.gif\" alt=\"RAMB/US NOAA/Himawari\"/><figcaption>RAMB/US NOAA/Himawari</figcaption></figure><p>Tropical storm Surigae entered the Philippine area of responsibility on Thursday morning and was assigned the local name Queenie, according to PAGASA.</p><figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/17902215216181790221519975.jpeg\" alt=\"PAGASA\"/><figcaption>PAGASA</figcaption></figure>"
     },
     {
       "id": "d151b4b36d860f9b9fad613cada2f70453816a4b",
@@ -311,7 +336,8 @@
       "category": "Weather & Traffic",
       "tags": "El Nino, weather",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260924070948/a03da1ad00b1e3d60f0cce3433c381beef986fd680f603fe2886928e80d21b28.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179023270128920260409-heat-index-quiapo-manila-JC6650.jpg\" alt=\"People shield themselves from the heat in Manila. Jonathan Cellona, ABS-CBN News\"/><figcaption>People shield themselves from the heat in Manila. Jonathan Cellona, ABS-CBN News</figcaption></figure><p>This year&#x27;s powerful El Nino weather pattern could lead to 451,000 additional heat-related deaths worldwide through February as it turbocharges global temperatures, according to projections published on Wednesday.</p>"
     },
     {
       "id": "67a826f5b67f0044b923d5b6511b1bd282d3baf7",
@@ -323,7 +349,8 @@
       "category": "Weather & Traffic",
       "tags": "ITCZ, Mindanao, Queenie, Surigae, tropical storm",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/2026092500094/b942b4c0d4f5a9c5e427d176140f0d0d84eb877e7d5ffe2e6028b77a8ade57c5.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1790291141174HS7rAsUbIAAXD51.jpg\" alt=\"At 4 a.m. Friday, Tropical Storm Queenie was located 1,065 kilometers east of Extreme Northern Luzon. PAGASA\"/><figcaption>At 4 a.m. Friday, Tropical Storm Queenie was located 1,065 kilometers east of Extreme Northern Luzon. PAGASA</figcaption></figure><p>At 4 a.m. Friday, Tropical Storm Queenie was located 1,065 kilometers east of Extreme Northern Luzon.</p>"
     },
     {
       "id": "2162b95d21f4d5a4fa72a238aaf420bdd943a723",
@@ -335,7 +362,8 @@
       "category": "Weather & Traffic",
       "tags": "weather, PAGASA, QueeniePH",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260925230928/6b40782adfe2810a3067e78378c291f931f3b24f24ef21ba7185e5d3ddad9d8d.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1790375461912825278339_1402402318755010_969969316708174895_n.jpg\" alt=\"Severe Tropical Storm Queenie as of 4:40AM on September 26, 2026. Handout/PAGASA\"/><figcaption>Severe Tropical Storm Queenie as of 4:40AM on September 26, 2026. Handout/PAGASA</figcaption></figure><p>Severe Tropical Storm Queenie (international name: Surigae) has maintained its strength while decelerating over the Philippine Sea, the state weather bureau said on Saturday.</p>"
     },
     {
       "id": "5a6f6b7a61bc0e9c5d31590b7483228f5ed06681",
@@ -347,7 +375,8 @@
       "category": "Weather & Traffic",
       "tags": "Queenie, weather, PAGASA, QueeniePH",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260926050912/1950729250858a1a8302f080b0af6c6fba49b8d3bdabbf0ccb5b6a947ab57ccd.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1790396079825825292786_1074303241877196_1902290965358679780_n.jpg\" alt=\"Severe tropical cyclone Queenie as of 10:40 a.m. on September 26, 2026. Handout/PAGASA\"/><figcaption>Severe tropical cyclone Queenie as of 10:40 a.m. on September 26, 2026. Handout/PAGASA</figcaption></figure><p>Severe tropical cyclone Queenie (international name: Surigae) is nearing typhoon strength, the state weather bureau said.</p>"
     },
     {
       "id": "08c7ef3c7684f36d8c969ee7cb5c8837918de785",
@@ -359,7 +388,8 @@
       "category": "Weather & Traffic",
       "tags": "ITCZ, Mindanao, Visayas, Palawan, PAGASA",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260928010952/8e04369537a2478c6d5d57d9eee0a7f1b76d7b625c49c18d5fa095851543734d.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179055692828820221029-paeng-metro-manila-undas-GC-1 copy.jpg\" alt=\"A vendor arranges her goods as heavy rain drenches a public market in Manila on October 29, 2022. State weather bureau PAGASA said that Metro Manila will experience rains throughout the whole day and will continue on Sunday due to severe tropical storm Paeng. George Calvelo, ABS-CBN News/File\"/><figcaption>A vendor arranges her goods as heavy rain drenches a public market in Manila on October 29, 2022. State weather bureau PAGASA said that Metro Manila will experience rains throughout the whole day and will continue on Sunday due to severe tropical storm Paeng. George Calvelo, ABS-CBN News/File</figcaption></figure><p>The ITCZ is the region where clouds and thunderstorms form as winds from the northern and southern hemispheres meet.</p>"
     },
     {
       "id": "be74de878b4574d3f8d85725d37ad41e3f4895b7",
@@ -371,7 +401,8 @@
       "category": "Weather & Traffic",
       "tags": "Bagong Pilipinas, El Nino, Dry, Climate Change Commission",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20260929070936/a33311c22633ce5d974136de4997923f868c7c9cabb55a429b007d948d389e32.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179066399266820250307first-friday-quiapo-JC11.jpg\" alt=\"Devotees hear mass at Quiapo Church in Manila on March 7, 2025. Jonathan Cellona, ABS-CBN News/File\"/><figcaption>Devotees hear mass at Quiapo Church in Manila on March 7, 2025. Jonathan Cellona, ABS-CBN News/File</figcaption></figure><p>The public has been warned to prepare for the upcoming El Ni\u00f1o which is forecasted to be strong. But how, exactly?</p>"
     },
     {
       "id": "e5554dffa02cb6109c8d89959a8a86e9754ce962",
@@ -383,7 +414,8 @@
       "category": "Weather & Traffic",
       "tags": "Habagat, Amihan, Southwest Monsoon, Northeast Monsoon, tropical storm, Choi-wan, PAR, PAGASA",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261001021052/c50cf15d5983ad560c2a6a5d02d9dd675545f8d8d0f46b8d63587c1d6975e7e2.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179081954432920260917-weather-moderate-rain-school-dismissal-MT3410.jpg\" alt=\"Parents and guardians pick up young pupils from an elementary school in Quezon City amid moderate rain, September 17, 2026. Jonathan Cellona, ABS-CBN News\"/><figcaption>Parents and guardians pick up young pupils from an elementary school in Quezon City amid moderate rain, September 17, 2026. Jonathan Cellona, ABS-CBN News</figcaption></figure><p>The southwest monsoon or Habagat may end within the first week of October, signaling the end of the rainy season in the western part of the country, PAGASA said Thursday.</p>"
     },
     {
       "id": "fe67c61c94d6de6e5ca1deee7cd393838a0ca195",
@@ -395,7 +427,8 @@
       "category": "Weather & Traffic",
       "tags": "weather, weather today, weather updates, weather news, El Nino",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261001031028/ce740b4a5fb80f6c977a5a043edabd2e91f1aacd75b540975247605cfd252ac6.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179082194034520260427-heat-index-extreme-caution-quezon-city-MT5.jpg\" alt=\"Under a scorching midday sun, residents in Quezon City find ways to stay cool, April 27, 2026. Maria Tan, ABS-CBN News\"/><figcaption>Under a scorching midday sun, residents in Quezon City find ways to stay cool, April 27, 2026. Maria Tan, ABS-CBN News</figcaption></figure><p>The current El Nino could cause 451,000 excess heat deaths. Researchers warn it offers a glimpse of temperatures that may become normal within 20 years.</p><figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/17908220099871790822008912.png\" alt=\"\"/></figure><figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1774855555426dw-dark-blue-4c_page-0001.jpg\" alt=\"\"/></figure>"
     },
     {
       "id": "c914a6622f0fa7486177f983fbae646227b30744",
@@ -407,7 +440,8 @@
       "category": "Weather & Traffic",
       "tags": "Malaca\u00f1ang, Palace, Super El Ni\u00f1o",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261001081048/2ff3f8b50e2af33dae0c2bbbdcf9a17b6cc48f4da71bfa28fdc508ee4378695d.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179084103091920260409-heat-index-quiapo-manila-JC6556.jpg\" alt=\"People shield themselves from the heat in Manila, April 9, 2026. Jonathan Cellona, ABS-CBN News/File\"/><figcaption>People shield themselves from the heat in Manila, April 9, 2026. Jonathan Cellona, ABS-CBN News/File</figcaption></figure><p>There is no need to panic and hoard water as the threat of a historic El Ni\u00f1o looms, Malaca\u00f1ang told the public on Thursday, as it emphasized that the government is ready to mitigate its potential impacts.</p>"
     },
     {
       "id": "6cdf81d717d946fb31b233e8dad948cbca0c2c93",
@@ -419,7 +453,8 @@
       "category": "Weather & Traffic",
       "tags": "water supply,el nino",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261001111020/31d2a701c3f707c1e4ab8c402428cf85b27a901869a15e740909175e64c5748e.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/20261001111020/31d2a701c3f707c1e4ab8c402428cf85b27a901869a15e740909175e64c5748e.jpg\" alt=\"A resident uses water from a faucet for laundry in Manila on January 11, 2024. Mark Demayo, ABS-CBN News\"/><figcaption>A resident uses water from a faucet for laundry in Manila on January 11, 2024. Mark Demayo, ABS-CBN News</figcaption></figure><p>The National Water Resources Board (NWRB) is urging the public to conserve water and be mindful of consumption as the country prepares for possible effects of a super El Ni\u00f1o.</p>"
     },
     {
       "id": "9cc345217e9de0c04a857a14fc66c59b16ceda0e",
@@ -431,7 +466,8 @@
       "category": "Weather & Traffic",
       "tags": "super typhoon, Choi-wan, Visayas, Mindanao, PAGASA, ITCZ, Habagat",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261005031048/72c99df2586eeec368556813101584f65f34160ad6d3acc86c5ef79baa5ffad5.gif",
-      "image_mime": "image/gif"
+      "image_mime": "image/gif",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1791168526470philippines_band_13_20261004230000.gif\" alt=\"RAMB/US NOAA/Himawari\"/><figcaption>RAMB/US NOAA/Himawari</figcaption></figure><p>The trough or extension of super typhoon Choi-wan outside the Philippine area of responsibility will continue to bring rains over the central and southern Philippines on Monday, PAGASA said.</p>"
     },
     {
       "id": "c5d39f9c1cecf7fe2e625cef7dd307af6c50ac04",
@@ -443,7 +479,8 @@
       "category": "Weather & Traffic",
       "tags": "Pagasa,habagat,rainy season",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261005071044/dcb60f0c1f8c91451d08cf3d7d7f6db07ded2be2fc6e212f44f5d702f2a44d58.png",
-      "image_mime": "image/png"
+      "image_mime": "image/png",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/17911827652371791182763105.jpeg\" alt=\"Commuters \u00a0and pedestrians brave the rain as they negotiate the busy streets of Cubao, in Quezon City on Friday, August 28, 2026. Maria Tan, ABS-CBN News\"/><figcaption>Commuters \u00a0and pedestrians brave the rain as they negotiate the busy streets of Cubao, in Quezon City on Friday, August 28, 2026. Maria Tan, ABS-CBN News</figcaption></figure><p>The southwest monsoon or habagat season is over, PAGASA said Monday.</p>"
     },
     {
       "id": "838e1e4351224eb79355d438d29609697a174ee7",
@@ -455,7 +492,8 @@
       "category": "Weather & Traffic",
       "tags": "LTO, Asec. Markus Lacanilao, perpetual revocation, license, pedestrian crossing",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261005101028/addeed24ca0a8587ebd48d1f448ec4dd1dcf4c9d4005fea9bbb607681176d764.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179119280878320231024-fiesta-carnival-araneta-MT7.jpg\" alt=\"People cross a pedestrian lane in front of Fiesta Carnival at Araneta City in Cubao, Quezon City on Tuesday, October 24, 2023. Maria Tan, ABS-CBN News\"/><figcaption>People cross a pedestrian lane in front of Fiesta Carnival at Araneta City in Cubao, Quezon City on Tuesday, October 24, 2023. Maria Tan, ABS-CBN News</figcaption></figure><p>The Land Transportation Office&#x27;s (LTO) September 29 memorandum imposing stricter sanctions on motorists involved in incidents on pedestrian lanes officially took effect on Monday, October 5.</p>"
     },
     {
       "id": "33887e8ec5edbe61c471dc8bceded7c45b861281",
@@ -467,7 +505,8 @@
       "category": "Weather & Traffic",
       "tags": "El Nino, DOST, DENR, DA, Department of Agriculture, OCD, Office of Civil Defense",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261005131028/e9409174a1e427caaf60bcf3401169ee1ca6a6182d2db49cf2a69afb00eb9ab5.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179120337816320240115-el-nino-rice-san-ildefonso-MD-9.jpg\" alt=\"A rice field dries up due to heat and lack of water in Batangay Casalat, San Ildefonso, Bulacan on January 15, 2024. Mark Demayo, ABS-CBN News/File\"/><figcaption>A rice field dries up due to heat and lack of water in Batangay Casalat, San Ildefonso, Bulacan on January 15, 2024. Mark Demayo, ABS-CBN News/File</figcaption></figure><p>All 82 provinces in the country will experience drought by the end of March next year with the anticipated \u2018very strong\u2019 El Ni\u00f1o, Department of Science and Technology Secretary Renato Solidum said Monday.</p><figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1791203306336viber_image_2026-10-05_19-08-01-785.jpg\" alt=\"Handout/PCO\"/><figcaption>Handout/PCO</figcaption></figure>"
     },
     {
       "id": "e56fa30ee7f1142017872bef81506369c8953ea9",
@@ -479,7 +518,8 @@
       "category": "Weather & Traffic",
       "tags": "El Nino, weather, weather updates,state of calamity",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/2026100603104/dc0e35b4049d7eda2bd66ebbb71ea5ecad1ff27401956d54ae4ee2b66703ba8d.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179125231827720260630-angat-dam-critical-level-159masl-GCS5042.jpg\" alt=\"Water levels in Angat Dam dipped below the critical mark after registering 159.95 masl on Tuesday morning, June 30, 2026. Gigie Cruz, ABS-CBN News/File\"/><figcaption>Water levels in Angat Dam dipped below the critical mark after registering 159.95 masl on Tuesday morning, June 30, 2026. Gigie Cruz, ABS-CBN News/File</figcaption></figure><p>A total of 106 areas have declared a state of calamity due to El Ni\u00f1o, the National Disaster Risk Reduction and Management Council (NDRRMC) said.</p>"
     },
     {
       "id": "89c5208bcbdbcf5a7354d37255720d7a7c226782",
@@ -491,7 +531,8 @@
       "category": "Weather & Traffic",
       "tags": "ITCZ, northeasterly winds, PAGASA, weather update",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261006021044/5c5853eaefbb63dc09b916eb60b9491a6dc4cebb8b9fd28d86e6d9c13dc3bd09.gif",
-      "image_mime": "image/gif"
+      "image_mime": "image/gif",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1791251290601philippines_band_13_20261005214000.gif\" alt=\"RAMB/US NOAA/Himawari\"/><figcaption>RAMB/US NOAA/Himawari</figcaption></figure><p>Two weather systems will bring rains over some parts of the country Tuesday, according to PAGASA.</p>"
     },
     {
       "id": "7b34a8aeb2dc0df87eb0519e93a5912a7682700a",
@@ -503,7 +544,8 @@
       "category": "Weather & Traffic",
       "tags": "El Nino, weather, weather today, weather updates, weather news, weather latest, weather Philippines",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/2026100805108/a03da1ad00b1e3d60f0cce3433c381beef986fd680f603fe2886928e80d21b28.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179143258301520260409-heat-index-quiapo-manila-JC6650.jpg\" alt=\"People shield themselves from the heat in Manila, April 9, 2026. Jonathan Cellona, ABS-CBN News\"/><figcaption>People shield themselves from the heat in Manila, April 9, 2026. Jonathan Cellona, ABS-CBN News</figcaption></figure><p>El Nino will intensify even more before peaking in December, the United Nations said Thursday, warning it could be among the strongest witnessed since at least 1950.</p>"
     },
     {
       "id": "8fb62eb978f44a5612428a13435ed9b82e4582ab",
@@ -515,7 +557,8 @@
       "category": "Weather & Traffic",
       "tags": "World Meteorological Organization, el nino, weather, extreme weather,Stephane Dujarric",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261009001016/63c7690b763c32811c26df418f1c016db4795b48414e99a279c5530d1760f337.png",
-      "image_mime": "image/png"
+      "image_mime": "image/png",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/20261009001016/63c7690b763c32811c26df418f1c016db4795b48414e99a279c5530d1760f337.png\" alt=\"\"/></figure><p>This year&#x27;s El Ni\u00f1o will intensify before peaking in December and is nearly 100% certain to last until February 2027, the World Meteorological Organization said.</p>"
     },
     {
       "id": "bd6f864a9014e5cb22105f8f31610eaaef0bd574",
@@ -527,7 +570,8 @@
       "category": "Weather & Traffic",
       "tags": "Water, Drought, LWUA, El Ni\u00f1o",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261009091044/026c3960a9f87411e41cc28a8f534255fa6b0d28be63ed551d916e0603f4259c.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179153561751720240111-water-collection-manila-MD0035.jpg\" alt=\"A resident does her laundry in Barangay 101, Manila, on January 11, 2024. Mark Demayo, ABS-CBN News/File\"/><figcaption>A resident does her laundry in Barangay 101, Manila, on January 11, 2024. Mark Demayo, ABS-CBN News/File</figcaption></figure><p>The drought expected to hit the entire country under a strong El Ni\u00f1o does not mean the Philippines will run out of water, the head of the Local Water Utilities Administration said.</p>"
     },
     {
       "id": "468b87b75ae07e76d2f1fcd8aaa36b823c009556",
@@ -539,7 +583,8 @@
       "category": "Weather & Traffic",
       "tags": "PAGASA, LPA, low pressure area, ITCZ, northeasterly winds",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261009101012/233ffacd88953afe6f4095f9d4d1a490c6c1a315c0379960be4ab8be77dd73b9.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179153713711420260917-weather-moderate-rain-school-dismissal-MT3322.jpg\" alt=\"Parents and guardians pick up young pupils from an elementary school in Quezon City amid moderate rain, September 17, 2026. Jonathan Cellona, ABS-CBN News\"/><figcaption>Parents and guardians pick up young pupils from an elementary school in Quezon City amid moderate rain, September 17, 2026. Jonathan Cellona, ABS-CBN News</figcaption></figure><p>Three weather systems will bring rains across many parts of the country this weekend, according to PAGASA.</p>"
     },
     {
       "id": "5f91d7013fd9fdfe99442f85d8d8fb155a80b9d2",
@@ -551,7 +596,8 @@
       "category": "Weather & Traffic",
       "tags": "PAGASA, ITCZ, easterlies, northeasterly winds, Amihan, El Ni\u00f1o",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261012031028/4eda6832051e7347ae8666ab8ac750bc5d41e31074854ea32fe08fe646e23c47.gif",
-      "image_mime": "image/gif"
+      "image_mime": "image/gif",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/20261012031028/4eda6832051e7347ae8666ab8ac750bc5d41e31074854ea32fe08fe646e23c47.gif\" alt=\"\"/></figure><p>Three weather systems will bring rains in vast swaths of the country, PAGASA said Monday.</p>"
     },
     {
       "id": "e46fb2efccdcb3152d23e1ae27c90c85e2ebf564",
@@ -563,7 +609,8 @@
       "category": "Weather & Traffic",
       "tags": "weather, weather today, weather updates, weather news, weather latest, El Nino, ANC promo",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261012031036/297674f095de2463fbe6855d408a11ae5eebe7752f14e42f14bfb3f0cd3758de.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179177268467020260427-heat-index-extreme-caution-quezon-city-MT10.jpg\" alt=\"Under a scorching midday sun, residents in Quezon City find ways to stay cool, April 27, 2026. Maria Tan, ABS-CBN News\"/><figcaption>Under a scorching midday sun, residents in Quezon City find ways to stay cool, April 27, 2026. Maria Tan, ABS-CBN News</figcaption></figure><p>An intensifying El Nino broke a temperature record in a key zone of the Pacific in September, the EU&#x27;s climate monitor said Monday, in another sign the weather pattern is gaining exceptional strength.</p>"
     },
     {
       "id": "9e960698befcfa976bce8fdf123fcae1705eb21f",
@@ -575,7 +622,8 @@
       "category": "Weather & Traffic",
       "tags": "El Ni\u00f1o, Bulalacao, Oriental Mindoro, Farmers, Water Supply",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261013021052/3ed1ba70044171fc374cb29c16ddaf6467dc19580247aba9fad4c9f9f17a0952.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/1791856336794viber_image_2026-10-13_08-44-19-378.jpg\" alt=\"Drought in Bulalacao, Oriental Mindoro back in 2024. Dennis Datu, ABS-CBN News/File\"/><figcaption>Drought in Bulalacao, Oriental Mindoro back in 2024. Dennis Datu, ABS-CBN News/File</figcaption></figure><p>A worsening drought due to El Ni\u00f1o is threatening agricultural production and drinking water supply in Bulalacao, as farmers struggle to irrigate drying rice fields and residents face severe water shortages.</p>"
     },
     {
       "id": "be1bf010af050168d3cdbdaf63ab922f4800601b",
@@ -587,7 +635,8 @@
       "category": "Weather & Traffic",
       "tags": "weather, weather today, weather updates, weather news, weather latest, weather Philippines, El Nino",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/20261013031020/41103bf64b562777494d8cf8a042ad2c29493651edbf2152ba1d13cf862cf4a3.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179185806467820260522-extreme-heat-swmming-rosario-cavite-JC3678.jpg\" alt=\"Children beat the heat as they enjoy a swim at a beach in Rosario, Cavite on May 22, 2026. Jonathan Cellona, ABS-CBN News\"/><figcaption>Children beat the heat as they enjoy a swim at a beach in Rosario, Cavite on May 22, 2026. Jonathan Cellona, ABS-CBN News</figcaption></figure><p>Food security concerns, wildfires and power warnings are among the impacts around the world this week from an exceptionally strong El Nino weather cycle.</p>"
     },
     {
       "id": "8e6044aab0d52586ed98167d6cfc836a0826d234",
@@ -599,7 +648,8 @@
       "category": "Weather & Traffic",
       "tags": "El Nino, weather, weather today, weather updates, weather news, weather latest, weather Philippines",
       "image_url": "https://od2-image-api.abs-cbn.com/prod/2026101306100/fb3d52f0e7921c882a9675abf5f4c1b9e348cca6d1d9615f5656c80dc52b8c98.jpg",
-      "image_mime": "image/jpeg"
+      "image_mime": "image/jpeg",
+      "content_html": "<figure><img src=\"https://od2-image-api.abs-cbn.com/prod/editorImage/179186773598420240502-el-nino-heat-metro-manila-JC-8.jpg\" alt=\"Members of the Parks Development Office pull out dried leaves and other debris from the center Island along Burgos Avenue in Manila on May 2, 2024. Jonathan Cellona, ABS-CBN News/File\"/><figcaption>Members of the Parks Development Office pull out dried leaves and other debris from the center Island along Burgos Avenue in Manila on May 2, 2024. Jonathan Cellona, ABS-CBN News/File</figcaption></figure><p>The Metropolitan Manila Development Authority (MMDA) said on Tuesday that it was meeting with local government units (LGUs) to prepare for the possible impacts of El Ni\u00f1o.</p>"
     }
   ]
 }

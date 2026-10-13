@@ -9,6 +9,7 @@ import pytz
 import requests
 from feedgen.feed import FeedGenerator
 
+from abscbn import enrich_posts
 from utils import setup_feed_links, sort_posts_for_feed
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -180,6 +181,9 @@ def generate_rss_feed(posts):
             fe.media.content({"url": post["image_url"], "medium": "image"})
         fe.id(post["url"])
 
+        if post.get("content_html"):
+            fe.content(post["content_html"], type="CDATA")
+
         if post.get("date"):
             try:
                 dt = datetime.fromisoformat(post["date"].replace("Z", "+00:00"))
@@ -218,6 +222,7 @@ def main():
         new_articles = parse_articles(fetch_page(BLOG_URL))
     logger.info(f"Found {len(new_articles)} articles")
     posts = merge_articles(new_articles, cache["posts"])
+    enrich_posts(posts, FEED_NAME)
     save_cache(posts)
     feed = generate_rss_feed(posts)
     save_rss_feed(feed)
