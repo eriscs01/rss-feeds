@@ -6,21 +6,28 @@
 feeds_generate_all: ## Generate all RSS feeds
 	$(call check_venv)
 	$(call print_info_section,Generating all RSS feeds)
-	$(Q)python feed_generators/run_all_feeds.py
+	$(Q)uv run feed_generators/run_all_feeds.py
 	$(call print_success,All feeds generated)
+
+.PHONY: feeds_abscbn_nation
+feeds_abscbn_nation: ## Generate RSS feed for ABS-CBN News Nation
+	$(call check_venv)
+	$(call print_info,Generating ABS-CBN News Nation feed)
+	$(Q)uv run feed_generators/abscbn_nation_blog.py
+	$(call print_success,ABS-CBN News Nation feed generated)
 
 .PHONY: feeds_pna_national
 feeds_pna_national: ## Generate RSS feed for PNA National (incremental)
 	$(call check_venv)
 	$(call print_info,Generating PNA National feed)
-	$(Q)python feed_generators/pna_national_blog.py
+	$(Q)uv run feed_generators/pna_national_blog.py
 	$(call print_success,PNA National feed generated)
 
 .PHONY: feeds_pna_national_full
 feeds_pna_national_full: ## Generate RSS feed for PNA National (full reset)
 	$(call check_venv)
 	$(call print_info,Generating PNA National feed - FULL RESET)
-	$(Q)python feed_generators/pna_national_blog.py --full
+	$(Q)uv run feed_generators/pna_national_blog.py --full
 	$(call print_success,PNA National feed generated - full reset)
 
 .PHONY: clean_feeds

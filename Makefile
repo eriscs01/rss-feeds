@@ -22,11 +22,8 @@ help: ## Show all available targets with descriptions
 	@printf "$(BOLD)=== 📋 Information & Discovery ===$(RESET)\n"
 	@grep -h -E '^(help|help-unclassified):.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "$(CYAN)%-40s$(RESET) %s\n", $$1, $$2}'
 	@printf "\n"
-	@printf "$(BOLD)=== 🐍 Environment Setup ===$(RESET)\n"
+	@printf "$(BOLD)=== 🐍 Environment & Dependencies ===$(RESET)\n"
 	@grep -h -E '^env_.*:.*?## .*$$' $(MAKEFILE_LIST) ./makefiles/*.mk 2>/dev/null | awk 'BEGIN {FS = ":.*?## "}; {printf "$(CYAN)%-40s$(RESET) %s\n", $$1, $$2}' | sort -u
-	@printf "\n"
-	@printf "$(BOLD)=== 📡 RSS Feed Generation ===$(RESET)\n"
-	@grep -h -E '^feeds_.*:.*?## .*$$' $(MAKEFILE_LIST) ./makefiles/*.mk 2>/dev/null | awk 'BEGIN {FS = ":.*?## "}; {printf "$(CYAN)%-40s$(RESET) %s\n", $$1, $$2}' | sort -u
 	@printf "\n"
 	@printf "$(BOLD)=== 🛠️ Development ===$(RESET)\n"
 	@grep -h -E '^dev_.*:.*?## .*$$' $(MAKEFILE_LIST) ./makefiles/*.mk 2>/dev/null | awk 'BEGIN {FS = ":.*?## "}; {printf "$(CYAN)%-40s$(RESET) %s\n", $$1, $$2}' | sort -u
@@ -36,6 +33,9 @@ help: ## Show all available targets with descriptions
 	@printf "\n"
 	@printf "$(BOLD)=== 🧹 Cleaning ===$(RESET)\n"
 	@grep -h -E '^clean_.*:.*?## .*$$' $(MAKEFILE_LIST) ./makefiles/*.mk 2>/dev/null | awk 'BEGIN {FS = ":.*?## "}; {printf "$(CYAN)%-40s$(RESET) %s\n", $$1, $$2}' | sort -u
+	@printf "\n"
+	@printf "$(BOLD)=== 📡 RSS Feed Generation ===$(RESET)\n"
+	@grep -h -E '^feeds_.*:.*?## .*$$' $(MAKEFILE_LIST) ./makefiles/*.mk 2>/dev/null | awk 'BEGIN {FS = ":.*?## "}; {printf "$(CYAN)%-40s$(RESET) %s\n", $$1, $$2}' | sort -u
 	@printf "\n"
 	@printf "$(YELLOW)Usage:$(RESET) make <target>\n"
 	@printf "\n"
@@ -74,15 +74,11 @@ include ./makefiles/ci.mk
 
 # Maintain backwards compatibility with existing targets
 
-.PHONY: check-env
-check-env: ## (Legacy) Check if virtual environment is activated
-	$(call check_venv)
-
 .PHONY: env_create
-env_create: ## (Legacy) Create virtual environment
+env_create: env_setup ## (Legacy) Sync dependencies with uv
 
 .PHONY: uvx_install
-uvx_install: env_install ## (Legacy) Install dependencies
+uvx_install: env_setup ## (Legacy) Install dependencies
 
 .PHONY: clean
 clean: clean_env clean_feeds ## (Legacy) Clean all generated files

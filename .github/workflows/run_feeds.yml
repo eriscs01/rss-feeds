@@ -2,63 +2,70 @@ name: Run Feeds
 
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every hour
+    - cron: "0 * * * *"
   workflow_dispatch:
+    inputs:
+      feed:
+        description: "Optional registry name to verify one feed"
+        required: false
+        type: string
+
+concurrency:
+  group: request-feeds
+  cancel-in-progress: true
 
 jobs:
   run-feeds:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v7
         with:
-          python-version: "3.11" # Use Python 3.11 to include distutils
+          python-version: "3.11"
 
       - name: Install uv
-        run: |
-          curl -LsSf https://astral.sh/uv/install.sh | sh
-          echo "$HOME/.local/bin" >> $GITHUB_PATH
+        uses: astral-sh/setup-uv@v10.0.1
+        with:
+          enable-cache: true
 
-      - name: Install system dependencies
+      - name: Install dependencies and run feeds
+        id: generate
+        timeout-minutes: 20
+        env:
+          FEED: ${{ inputs.feed }}
         run: |
-          sudo apt-get update
-          sudo apt-get install -y software-properties-common
-          sudo add-apt-repository universe
-          sudo apt-get update
-          sudo apt-get install -y python3-setuptools
+          set -e
+          uv sync
+          if [ -n "$FEED" ]; then
+            uv run feed_generators/run_all_feeds.py --feed "$FEED"
+          else
+            uv run feed_generators/run_all_feeds.py --skip-selenium
+          fi
 
-      - name: Install Chrome for Selenium
-        run: |
-          sudo apt-get install -y wget gnupg
-          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/google-chrome-keyring.gpg
-          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-
-      - name: Install Python dependencies and run feed generators
-        run: |
-          set -e  # Fail the step on any error
-          uv venv
-          source .venv/bin/activate
-          uv pip install -r requirements.txt
-          python feed_generators/run_all_feeds.py
-
-      - name: Commit and push feed
+      - name: Commit and push feeds
+        if: ${{ !cancelled() && github.ref == 'refs/heads/main' && (steps.generate.outcome == 'success' || steps.generate.outcome == 'failure') }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-
-          # Add feed XML files (cache files no longer used)
+          uv run feed_generators/validate_feeds.py
           git add feeds/*.xml
-
-          # Check if there are any changes to commit
+          if git diff --staged --quiet; then
+            echo "No validated feed updates to publish"
+            exit 0
+          fi
+          git stash
+          git pull --rebase || { echo "Rebase failed, aborting and retrying with merge"; git rebase --abort 2>/dev/null; git pull; }
+          git stash pop
+          uv run feed_generators/validate_feeds.py
+          git add feeds/*.xml
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m 'Update RSS feed'
-            git push
+            git commit -m 'Update RSS feeds'
+            git push || { git pull --rebase && git push; }
           fi

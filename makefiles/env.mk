@@ -2,25 +2,14 @@
 ### Environment Setup  ###
 ##########################
 
-.PHONY: env_create
-env_create: ## Create the virtual environment
-	$(call print_info_section,Creating virtual environment)
-	$(Q)uv venv
-	$(call print_success,Virtual environment created at .venv)
-
-.PHONY: env_source
-env_source: ## Source the env; must be executed like: $$(make env_source)
-	@echo 'source .venv/bin/activate'
-
-.PHONY: env_install
-env_install: ## Install dependencies using uv
-	$(call print_info_section,Installing dependencies)
-	$(Q)uv venv
-	$(Q)uv pip install -r requirements.txt
-	$(call print_success,Dependencies installed)
+.PHONY: env_setup
+env_setup: ## Sync project dependencies with uv
+	$(call print_info_section,Setting up environment)
+	$(Q)uv sync
+	$(call print_success,Environment ready)
 
 .PHONY: clean_env
-clean_env: ## Clean virtual environment
-	$(call print_warning,Removing virtual environment)
-	$(Q)rm -rf venv .venv
-	$(call print_success,Virtual environment removed)
+clean_env: ## Remove uv's project environment
+	$(call print_warning,Removing uv project environment)
+	$(Q)rm -rf .venv
+	$(call print_success,uv project environment removed)
