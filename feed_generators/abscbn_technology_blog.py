@@ -47,18 +47,14 @@ def fetch_api_articles(limit=API_LIMIT):
         "limit": limit,
         "offset": 0,
     }
-    response = requests.get(
-        API_URL, params=params, headers={"User-Agent": USER_AGENT}, timeout=30
-    )
+    response = requests.get(API_URL, params=params, headers={"User-Agent": USER_AGENT}, timeout=30)
     response.raise_for_status()
     return parse_list_items(response.json().get("listItem", []))
 
 
 def parse_articles(html):
     """Extract articles from __NEXT_DATA__ JSON embedded in the page."""
-    match = re.search(
-        r'id="__NEXT_DATA__" type="application/json">(.*?)</script>', html, re.DOTALL
-    )
+    match = re.search(r'id="__NEXT_DATA__" type="application/json">(.*?)</script>', html, re.DOTALL)
     if not match:
         logger.warning("__NEXT_DATA__ not found in page")
         return []
@@ -105,18 +101,20 @@ def parse_list_items(list_items):
         image_url = f"{IMAGE_BASE_URL}/{image_path}" if image_path else ""
         image_mime = item.get("mimetype", "image/jpeg") if image_path else ""
 
-        articles.append({
-            "id": article_id,
-            "url": url,
-            "title": title,
-            "description": abstract,
-            "date": date,
-            "author": author,
-            "category": category,
-            "tags": tags,
-            "image_url": image_url,
-            "image_mime": image_mime,
-        })
+        articles.append(
+            {
+                "id": article_id,
+                "url": url,
+                "title": title,
+                "description": abstract,
+                "date": date,
+                "author": author,
+                "category": category,
+                "tags": tags,
+                "image_url": image_url,
+                "image_mime": image_mime,
+            }
+        )
 
     logger.info(f"Parsed {len(articles)} articles")
     return articles
@@ -125,7 +123,7 @@ def parse_list_items(list_items):
 def load_cache():
     cache_file = get_cache_file()
     if cache_file.exists():
-        with open(cache_file, "r") as f:
+        with open(cache_file) as f:
             data = json.load(f)
             logger.info(f"Loaded cache with {len(data.get('posts', []))} posts")
             return data
@@ -163,11 +161,9 @@ def merge_articles(new_articles, cached_posts):
 
 def generate_rss_feed(posts):
     fg = FeedGenerator()
-    fg.load_extension('media')
+    fg.load_extension("media")
     fg.title("ABS-CBN News Technology")
-    fg.description(
-        "Explore the latest in tech news, gadgets, and digital innovations."
-    )
+    fg.description("Explore the latest in tech news, gadgets, and digital innovations.")
     fg.language("en")
     fg.author({"name": "ABS-CBN News"})
     fg.logo("https://od2-image-api.abs-cbn.com/prod/newsfavicon.webp")
