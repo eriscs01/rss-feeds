@@ -14,6 +14,10 @@ concurrency:
   group: request-feeds
   cancel-in-progress: true
 
+permissions:
+  contents: write
+  issues: write
+
 jobs:
   run-feeds:
     runs-on: ubuntu-latest
@@ -44,8 +48,49 @@ jobs:
           if [ -n "$FEED" ]; then
             uv run feed_generators/run_all_feeds.py --feed "$FEED"
           else
-            uv run feed_generators/run_all_feeds.py --skip-selenium
+            uv run feed_generators/run_all_feeds.py --skip-selenium \
+              --disable-failed --failures-file "$RUNNER_TEMP/failed_feeds.json"
           fi
+
+      # Scheduled/all-feed runs only: a manual single-feed verification never disables.
+      - name: Disable failing feeds and open issues
+        if: ${{ !cancelled() && github.ref == 'refs/heads/main' && steps.generate.outcome == 'failure' && !inputs.feed }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          failures="$RUNNER_TEMP/failed_feeds.json"
+          if [ ! -s "$failures" ] || [ "$(jq length "$failures")" = "0" ]; then
+            echo "No per-feed failures recorded"
+            exit 0
+          fi
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add feeds.yaml
+          if ! git diff --staged --quiet; then
+            git commit -m "Disable failing feeds: $(jq -r 'map(.name) | join(", ")' "$failures")"
+            git push || { git pull --rebase --autostash && git push; }
+          fi
+          gh label create feed-failure --color B60205 --description "Feed generator disabled after a failed refresh" --force
+          jq -c '.[]' "$failures" | while read -r failure; do
+            export title="Feed generator failing: $(jq -r .name <<<"$failure")"
+            open=$(gh issue list --state open --label feed-failure --limit 500 --json title \
+              --jq 'map(select(.title == $ENV.title)) | length' </dev/null)
+            if [ "$open" != "0" ]; then
+              echo "Issue already open: $title"
+              continue
+            fi
+            body=$(jq -r --arg run "$RUN_URL" '[
+              "The hourly [Run Feeds](\($run)) workflow could not refresh `\(.name)` and disabled it in `feeds.yaml`.",
+              "",
+              "- **Source:** \(.blog_url)",
+              "- **Generator:** `feed_generators/\(.script)`",
+              "- **Error:** \(.detail)",
+              "",
+              "To re-enable: fix the generator, verify with `uv run feed_generators/\(.script)`, then remove `enabled: false` from the `\(.name)` entry in `feeds.yaml`."
+            ] | join("\n")' <<<"$failure")
+            gh issue create --title "$title" --label feed-failure --body "$body" </dev/null
+          done
 
       - name: Commit and push feeds
         if: ${{ !cancelled() && github.ref == 'refs/heads/main' && (steps.generate.outcome == 'success' || steps.generate.outcome == 'failure') }}

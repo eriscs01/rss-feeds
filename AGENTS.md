@@ -316,4 +316,5 @@ uv run feed_generators/cleanup_deprecated_feeds.py --apply --threshold-days=0
 ## GitHub Actions
 
 - `run_feeds.yml` - Runs hourly, executes `run_all_feeds.py`, commits updated XML files
+  - A feed that fails a scheduled run is auto-disabled (`enabled: false` committed to `feeds.yaml`) and gets one open `feed-failure` issue. Manual single-feed runs (`feed` input) never disable. To re-enable: fix the generator, remove `enabled: false`, close the issue.
 - `test_feed.yml` - Tests feed generation on PRs (runs `ollama_blog.py`)

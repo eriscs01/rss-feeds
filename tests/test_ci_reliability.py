@@ -7,7 +7,7 @@ from pathlib import Path
 from unittest.mock import patch
 from xml.etree import ElementTree as ET
 
-from models import FeedConfig, load_feed_registry
+from models import FeedConfig, disable_feeds, load_feed_registry
 from run_all_feeds import run_feed
 from utils import _preserve_unchanged_feed
 
@@ -68,3 +68,26 @@ class CIReliabilityTests(unittest.TestCase):
         registry = load_feed_registry()
         paths = [config.output_name or name for name, config in registry.items()]
         self.assertEqual(len(paths), len(set(paths)))
+
+    def test_disabling_failed_feeds_preserves_registry_layout(self):
+        registry = (
+            "# header comment\n"
+            "feeds:\n"
+            "  first:\n    script: a.py\n    type: requests\n    blog_url: https://example.invalid/a\n"
+            "  second:\n    script: b.py\n    type: requests\n    blog_url: https://example.invalid/b\n    enabled: true\n"
+            "  third:\n    script: c.py\n    type: requests\n    blog_url: https://example.invalid/c\n    enabled: false\n"
+            "  last:\n    script: d.py\n    type: requests\n    blog_url: https://example.invalid/d\n"
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "feeds.yaml"
+            path.write_text(registry)
+            self.assertEqual(
+                disable_feeds(["first", "second", "third", "last", "missing"], path), ["first", "second", "last"]
+            )
+            self.assertEqual(
+                path.read_text(),
+                registry.replace("/a\n", "/a\n    enabled: false\n")
+                .replace("enabled: true", "enabled: false")
+                .replace("/d\n", "/d\n    enabled: false\n"),
+            )
+            self.assertEqual(disable_feeds(["first"], path), [])

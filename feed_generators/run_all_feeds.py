@@ -1,18 +1,22 @@
 import argparse
 import html
+import json
 import logging
 import os
 import subprocess
 import sys
 from pathlib import Path
 
-from models import FeedConfig, FeedType, load_feed_registry
+from models import FeedConfig, FeedType, disable_feeds, load_feed_registry
 from utils import get_feeds_dir
 from validate_feeds import validate_feed
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
+
+# Failure detail per feed from the current process, for --failures-file.
+FAILURE_DETAILS: dict[str, str] = {}
 
 
 def _report_result(feed_name: str, success: bool, detail: str) -> bool:
@@ -23,6 +27,8 @@ def _report_result(feed_name: str, success: bool, detail: str) -> bool:
     2. Escape publisher/error text and append a numbered result row.
     3. Preserve the actual failure status; reporting never converts failure to success.
     """
+    if not success:
+        FAILURE_DETAILS[feed_name] = detail
     summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if summary:
         path = Path(summary)
@@ -103,6 +109,8 @@ def run_all_feeds(
     selenium_only: bool = False,
     feed: str | None = None,
     full: bool = False,
+    disable_failed: bool = False,
+    failures_file: str | None = None,
 ) -> int:
     """Run feed generators from the registry.
 
@@ -111,6 +119,8 @@ def run_all_feeds(
         selenium_only: Run only Selenium-based generators (for hourly Selenium workflow).
         feed: Run a single feed by name. Overrides skip_selenium/selenium_only.
         full: Pass --full flag to generators (full reset instead of incremental).
+        disable_failed: Set `enabled: false` in feeds.yaml for each failed feed (multi-feed mode only).
+        failures_file: Write failed feeds as JSON for the workflow to file issues (multi-feed mode only).
 
     Returns:
         Exit code (0 for success, 1 if any feed failed).
@@ -170,10 +180,25 @@ def run_all_feeds(
         for name in successful_scripts:
             logger.info(f"  ✓ {name}")
 
+    if failures_file:
+        failures = [
+            {
+                "name": name,
+                "script": registry[name].script,
+                "blog_url": registry[name].blog_url,
+                "detail": FAILURE_DETAILS.get(name, "Refresh failed; see logs"),
+            }
+            for name in failed_scripts
+        ]
+        Path(failures_file).write_text(json.dumps(failures, indent=2))
+
     if failed_scripts:
         logger.error("\nFailed feeds:")
         for name in failed_scripts:
             logger.error(f"  ✗ {name}")
+        if disable_failed:
+            for name in disable_feeds(failed_scripts):
+                logger.warning(f"Disabled failing feed in feeds.yaml: {name}")
         logger.error(f"\nERROR: {len(failed_scripts)} feed(s) failed to generate")
         return 1
 
@@ -208,6 +233,16 @@ if __name__ == "__main__":
         action="store_true",
         help="Pass --full to generators (full reset instead of incremental)",
     )
+    parser.add_argument(
+        "--disable-failed",
+        action="store_true",
+        help="Set enabled: false in feeds.yaml for each feed that fails (ignored with --feed)",
+    )
+    parser.add_argument(
+        "--failures-file",
+        type=str,
+        help="Write failed feeds as JSON to this path (ignored with --feed)",
+    )
     args = parser.parse_args()
 
     if args.skip_selenium and args.selenium_only:
@@ -219,5 +254,7 @@ if __name__ == "__main__":
         selenium_only=args.selenium_only,
         feed=args.feed,
         full=args.full,
+        disable_failed=args.disable_failed,
+        failures_file=args.failures_file,
     )
     sys.exit(exit_code)
