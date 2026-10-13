@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Pasay City Government City Events</title>
+    <link>https://pasay.gov.ph/balita/city-events/</link>
+    <description>City events from the Pasay City Government</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_pasay_city_events.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://pasay.gov.ph/wp-content/uploads/2026/01/pasay-city-logo-footer.svg</url>
+      <title>Pasay City Government City Events</title>
+      <link>https://pasay.gov.ph/balita/city-events/</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2026 14:35:38 +0000</lastBuildDate>
+    <item>
+      <title>PAMBANSANG ARAW NG MGA BAYANI</title>
+      <link>https://pasay.gov.ph/events/pambansang-araw-ng-mga-bayani/</link>
+      <description>Ang Pamahalaang Lungsod Pasay sa pangunguna ng Ina ng Lungsod, Mayor Emi Calixto-Rubiano ay nakikiisa at sumasaludo sa lahat ng mga Bayaning Pilipinong nag-alay ng buhay para sa kalayaan at bayan. Nawa ay manatiling inspirasyon ang kanilang halimbawa sa bawat bagong bayani na nagbibigay ng Tapat at Higit sa Sapat na Paglilingkod sa bawat Pamilyang […]</description>
+      <content:encoded><![CDATA[<figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/09/786344044_1369406315304987_1165249863826897056_n.jpg" alt=""/></figure><p>Ang Pamahalaang Lungsod Pasay sa pangunguna ng Ina ng Lungsod, Mayor Emi Calixto-Rubiano ay nakikiisa at sumasaludo sa lahat ng mga Bayaning Pilipinong nag-alay ng buhay para sa kalayaan at bayan. Nawa ay manatiling inspirasyon ang kanilang halimbawa sa bawat bagong bayani na nagbibigay ng Tapat at Higit sa Sapat na Paglilingkod sa bawat Pamilyang […]</p>]]></content:encoded>
+      <guid isPermaLink="false">https://pasay.gov.ph/events/pambansang-araw-ng-mga-bayani/</guid>
+      <pubDate>Tue, 01 Sep 2026 08:16:39 +0000</pubDate>
+      <media:group>
+        <media:content url="https://pasay.gov.ph/wp-content/uploads/2026/09/786344044_1369406315304987_1165249863826897056_n.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pambansang Buwan Ng Panitikan</title>
+      <link>https://pasay.gov.ph/events/pambansang-buwan-ng-panitikan/</link>
+      <description>Ang Buwan ng Abril ay Buwan ng Panitikan! Sa pangunguna ng Pambansang Komisyon para sa Kultura at mga Sining, Komisyon sa Wikang Filipino, at Pambansang Lupon sa Pagpapaunlad ng Aklat o National Book Development Board – Philippines , at alinsunod sa Proklamasyon Bilang 968 na nilagdaan noong 2015, ating ipinagdiriwang ang National Literature Month o […]</description>
+      <content:encoded><![CDATA[<figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/04/pasay-city-events-beket-panitikan.jpg" alt=""/></figure><p>Ang Buwan ng Abril ay Buwan ng Panitikan! Sa pangunguna ng Pambansang Komisyon para sa Kultura at mga Sining, Komisyon sa Wikang Filipino, at Pambansang Lupon sa Pagpapaunlad ng Aklat o National Book Development Board – Philippines , at alinsunod sa Proklamasyon Bilang 968 na nilagdaan noong 2015, ating ipinagdiriwang ang National Literature Month o […]</p>]]></content:encoded>
+      <guid isPermaLink="false">https://pasay.gov.ph/events/pambansang-buwan-ng-panitikan/</guid>
+      <pubDate>Thu, 23 Apr 2026 12:20:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://pasay.gov.ph/wp-content/uploads/2026/04/pasay-city-events-beket-panitikan.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Araw Ng Kagitingan</title>
+      <link>https://pasay.gov.ph/events/araw-ng-kagitingan/</link>
+      <description>Ang Pamahalaang Lungsod Pasay sa pangunguna ng Ina ng Lungsod, Mayor Emi Calixto-Rubiano ay sumasaludo sa mga beterano ng Ikalawang Digmaang Pandaigdig sa pagdiriwang ng ika-84 Araw ng Kagitingan, Abril 9, 2026. Nawa ang kagitingan ng mga beterano ng digmaan ay maging inspirasyon ng bawat Pasayeño kung saan magsilbi itong halimbawa at maging pamana sa […]</description>
+      <content:encoded><![CDATA[<figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/04/pasay-city-events-araw-ng-kagitingan.jpg" alt=""/></figure><p>Ang Pamahalaang Lungsod Pasay sa pangunguna ng Ina ng Lungsod, Mayor Emi Calixto-Rubiano ay sumasaludo sa mga beterano ng Ikalawang Digmaang Pandaigdig sa pagdiriwang ng ika-84 Araw ng Kagitingan, Abril 9, 2026. Nawa ang kagitingan ng mga beterano ng digmaan ay maging inspirasyon ng bawat Pasayeño kung saan magsilbi itong halimbawa at maging pamana sa […]</p>]]></content:encoded>
+      <guid isPermaLink="false">https://pasay.gov.ph/events/araw-ng-kagitingan/</guid>
+      <pubDate>Thu, 09 Apr 2026 05:03:22 +0000</pubDate>
+      <media:group>
+        <media:content url="https://pasay.gov.ph/wp-content/uploads/2026/04/pasay-city-events-araw-ng-kagitingan.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Visita Iglesia 2026</title>
+      <link>https://pasay.gov.ph/events/visita-iglesia-2026/</link>
+      <description>MAGDASAL, MAGLAKBAY SA LUNGSOD PASAY Ang Pamahalaang Lungsod Pasay sa pangunguna ng Ina ng Lungsod, Mayor Emi Calixto-Rubiano kaisa ng bawat Pamilyang Pasayeño ay nagaanyaya na magdasal at maglakbay sa Lungsod Pasay ngayong Semana Santa. Dalawin ang mga parokyang sakop ng lungsod, ibulong sa Diyos ang hinahangad ng ating mga puso at bagtasin ang daan […]</description>
+      <content:encoded><![CDATA[<figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/04/pasay-city-events-visita-iglesia-01.jpg" alt="Visita Iglesia 2026 map showing 5 Pasay City churches: San Isidro Labrador, Our Lady of Sorrows, Santa Clara, San Rafael, San Roque."/><figcaption>Visita Iglesia 2026 map showing 5 Pasay City churches: San Isidro Labrador, Our Lady of Sorrows, Santa Clara, San Rafael, San Roque.</figcaption></figure><p>MAGDASAL, MAGLAKBAY SA LUNGSOD PASAY Ang Pamahalaang Lungsod Pasay sa pangunguna ng Ina ng Lungsod, Mayor Emi Calixto-Rubiano kaisa ng bawat Pamilyang Pasayeño ay nagaanyaya na magdasal at maglakbay sa Lungsod Pasay ngayong Semana Santa. Dalawin ang mga parokyang sakop ng lungsod, ibulong sa Diyos ang hinahangad ng ating mga puso at bagtasin ang daan […]</p><figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/04/pasay-city-events-visita-iglesia-02-788x1024.jpg" alt="Visita Iglesia 2026 map of Pasay City churches with numbered stops and parish details."/><figcaption>Visita Iglesia 2026 map of Pasay City churches with numbered stops and parish details.</figcaption></figure><figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/04/pasay-city-events-visita-iglesia-03-788x1024.jpg" alt="Visita Iglesia 2026 poster with maps of two Pasay City churches, Our Lady of the Blessed Sacrament and Archdiocesan Shrine of Jesus"/><figcaption>Visita Iglesia 2026 poster with maps of two Pasay City churches, Our Lady of the Blessed Sacrament and Archdiocesan Shrine of Jesus</figcaption></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://pasay.gov.ph/events/visita-iglesia-2026/</guid>
+      <pubDate>Wed, 01 Apr 2026 01:52:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://pasay.gov.ph/wp-content/uploads/2026/04/pasay-city-events-visita-iglesia-01.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Women’s Bazaar</title>
+      <link>https://pasay.gov.ph/events/womens-bazaar/</link>
+      <description>Bumida ang mga produkto gawa ng mga Pasayeña sa pagbubukas ng Enjoy Mo Ito Market – Women’s Bazaar bilang bahagi ng pagdiriwang ng Buwan ng Kababaihan, Marso 17, 2026 sa Pasay City Hall. Suportado ng Ina ng Lungsod, Mayor Emi Calixto-Rubiano ang mga programang nagpapaunlad sa mga programa para sa Micro, Small at Medium Enterprises […]</description>
+      <content:encoded><![CDATA[<figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/03/pasay-city-womensbazaar-01-1024x683.jpg" alt=""/></figure><p>Bumida ang mga produkto gawa ng mga Pasayeña sa pagbubukas ng Enjoy Mo Ito Market – Women’s Bazaar bilang bahagi ng pagdiriwang ng Buwan ng Kababaihan, Marso 17, 2026 sa Pasay City Hall. Suportado ng Ina ng Lungsod, Mayor Emi Calixto-Rubiano ang mga programang nagpapaunlad sa mga programa para sa Micro, Small at Medium Enterprises […]</p><figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/03/pasay-city-womensbazaar-02-1024x683.jpg" alt="Woman selling food at a women&amp;#039;s bazaar, featuring eggs, snacks, and sausages."/><figcaption>Woman selling food at a women&amp;#039;s bazaar, featuring eggs, snacks, and sausages.</figcaption></figure><figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/03/pasay-city-womensbazaar-03-1024x683.jpg" alt="Women at a bazaar selling food and eggs, including hot dogs and pastries."/><figcaption>Women at a bazaar selling food and eggs, including hot dogs and pastries.</figcaption></figure><figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/03/pasay-city-womensbazaar-04-1024x769.jpg" alt="Women&amp;#039;s Bazaar: Food stall with packaged pastries and jars, staff in background."/><figcaption>Women&amp;#039;s Bazaar: Food stall with packaged pastries and jars, staff in background.</figcaption></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://pasay.gov.ph/events/womens-bazaar/</guid>
+      <pubDate>Mon, 16 Mar 2026 18:43:27 +0000</pubDate>
+      <media:group>
+        <media:content url="https://pasay.gov.ph/wp-content/uploads/2026/03/pasay-city-womensbazaar-01-1024x683.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Fiesta Del Sto. Nino 2026</title>
+      <link>https://pasay.gov.ph/events/fiesta-del-sto-nino-2026/</link>
+      <description>FIESTA DEL SANTO NIÑO 2026 Ang Pamahalaang Lungsod Pasay sa pangunguna ng Ina ng Lungsod at Primera Hermana Mayor Emi Calixto-Rubiano, Congressman at Primero Hermano Mayor Antonino G. Calixto katuwang ang Congregacion del Nombre de Jesus ay malugod na nagaanyaya para sa Fiesta del Santo Niño 2026 – The Pasay City Santo Niño Festival. Gaganapin […]</description>
+      <content:encoded><![CDATA[<figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/01/pasay-city-events-fiesta-del-santonino.jpg" alt=""/></figure><p>FIESTA DEL SANTO NIÑO 2026 Ang Pamahalaang Lungsod Pasay sa pangunguna ng Ina ng Lungsod at Primera Hermana Mayor Emi Calixto-Rubiano, Congressman at Primero Hermano Mayor Antonino G. Calixto katuwang ang Congregacion del Nombre de Jesus ay malugod na nagaanyaya para sa Fiesta del Santo Niño 2026 – The Pasay City Santo Niño Festival. Gaganapin […]</p>]]></content:encoded>
+      <guid isPermaLink="false">https://pasay.gov.ph/events/fiesta-del-sto-nino-2026/</guid>
+      <pubDate>Sun, 25 Jan 2026 08:14:27 +0000</pubDate>
+      <media:group>
+        <media:content url="https://pasay.gov.ph/wp-content/uploads/2026/01/pasay-city-events-fiesta-del-santonino.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Happy 162nd Pasay Day!</title>
+      <link>https://pasay.gov.ph/events/happy-162nd-pasay-day/</link>
+      <description>Ang Pamahalaang Lungsod Pasay sa pangunguna ng Ina ng Lungsod, Mayor Emi Calixto-Rubiano ay malugod na bumabati sa lahat ng Pasayeño sa pagdiriwang ng ika-162 Araw ng Pasay. Nawa ay sama-sama tayong sumulong patungo sa pagiging kauna-unahang EcoCity sa pamamagitan ng Tapat at Higit sa Sapat na Paglilingkod.</description>
+      <content:encoded><![CDATA[<figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/01/pasay-city-events-pasayahin-2025.jpg" alt=""/></figure><p>Ang Pamahalaang Lungsod Pasay sa pangunguna ng Ina ng Lungsod, Mayor Emi Calixto-Rubiano ay malugod na bumabati sa lahat ng Pasayeño sa pagdiriwang ng ika-162 Araw ng Pasay. Nawa ay sama-sama tayong sumulong patungo sa pagiging kauna-unahang EcoCity sa pamamagitan ng Tapat at Higit sa Sapat na Paglilingkod.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://pasay.gov.ph/events/happy-162nd-pasay-day/</guid>
+      <pubDate>Sat, 24 Jan 2026 15:57:44 +0000</pubDate>
+      <media:group>
+        <media:content url="https://pasay.gov.ph/wp-content/uploads/2026/01/pasay-city-events-pasayahin-2025.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ika-129 Anibersaryo ng Kabayanihan Ni Dr. Jose Rizal</title>
+      <link>https://pasay.gov.ph/events/ika-129-anibersaryo-ng-kabayanihan-ni-dr-jose-rizal/</link>
+      <description>Ang Pamahalaang Lungsod Pasay sa pangunguna ng Ina ng Lungsod ay nakikiisa sa paggunita sa ika-129 Anibersaryo ng Kabayanihan ni Dr. Jose Rizal, ang Pambansang Bayani. Nawa ang kabayanihan ni Dr. Jose Rizal ay maging inspirasyon at gabay sa ating pagbangon bilang Pasayeño at Pilipino sa pamamagitan ng kanyang aral at diwa.</description>
+      <content:encoded><![CDATA[<figure><img src="https://pasay.gov.ph/wp-content/uploads/2026/01/pasay-city-events-jose-rizal.jpg" alt=""/></figure><p>Ang Pamahalaang Lungsod Pasay sa pangunguna ng Ina ng Lungsod ay nakikiisa sa paggunita sa ika-129 Anibersaryo ng Kabayanihan ni Dr. Jose Rizal, ang Pambansang Bayani. Nawa ang kabayanihan ni Dr. Jose Rizal ay maging inspirasyon at gabay sa ating pagbangon bilang Pasayeño at Pilipino sa pamamagitan ng kanyang aral at diwa.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://pasay.gov.ph/events/ika-129-anibersaryo-ng-kabayanihan-ni-dr-jose-rizal/</guid>
+      <pubDate>Tue, 30 Dec 2025 08:16:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://pasay.gov.ph/wp-content/uploads/2026/01/pasay-city-events-jose-rizal.jpg" medium="image"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>

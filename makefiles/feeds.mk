@@ -147,3 +147,66 @@ clean_feeds: ## Clean generated RSS feed files
 	$(call print_warning,Removing generated RSS feeds)
 	$(Q)rm -rf feeds/*.xml
 	$(call print_success,RSS feeds removed)
+
+.PHONY: feeds_makati_news
+feeds_makati_news: ## Generate RSS feed for Makati City Government News
+	$(call check_venv)
+	$(call print_info,Generating Makati City Government News feed)
+	$(Q)uv run feed_generators/makati_news_blog.py
+	$(call print_success,Makati City Government News feed generated)
+
+.PHONY: feeds_malabon_news
+feeds_malabon_news: ## Generate RSS feed for Malabon City Government News
+	$(call check_venv)
+	$(call print_info,Generating Malabon City Government News feed)
+	$(Q)uv run feed_generators/malabon_news_blog.py
+	$(call print_success,Malabon City Government News feed generated)
+
+.PHONY: feeds_mandaluyong_news
+feeds_mandaluyong_news: ## Generate RSS feed for Mandaluyong City Government News
+	$(call check_venv)
+	$(call print_info,Generating Mandaluyong City Government News feed)
+	$(Q)uv run feed_generators/mandaluyong_news_blog.py
+	$(call print_success,Mandaluyong City Government News feed generated)
+
+.PHONY: feeds_marikina_news
+feeds_marikina_news: ## Generate RSS feed for Marikina City Government News
+	$(call check_venv)
+	$(call print_info,Generating Marikina City Government News feed)
+	$(Q)uv run feed_generators/marikina_news_blog.py
+	$(call print_success,Marikina City Government News feed generated)
+
+.PHONY: feeds_muntinlupa_news
+feeds_muntinlupa_news: ## Generate RSS feed for Muntinlupa City Government News & Announcements
+	$(call check_venv)
+	$(call print_info,Generating Muntinlupa City Government News & Announcements feed)
+	$(Q)uv run feed_generators/muntinlupa_news_blog.py
+	$(call print_success,Muntinlupa City Government News & Announcements feed generated)
+
+.PHONY: feeds_pasay_city_events
+feeds_pasay_city_events: ## Generate RSS feed for Pasay City Government City Events
+	$(call check_venv)
+	$(call print_info,Generating Pasay City Government City Events feed)
+	$(Q)uv run feed_generators/pasay_city_events_blog.py
+	$(call print_success,Pasay City Government City Events feed generated)
+
+.PHONY: feeds_pasay_mayors_desk
+feeds_pasay_mayors_desk: ## Generate RSS feed for Pasay City Government Mayor's Desk
+	$(call check_venv)
+	$(call print_info,Generating Pasay City Government Mayor's Desk feed)
+	$(Q)uv run feed_generators/pasay_mayors_desk_blog.py
+	$(call print_success,Pasay City Government Mayor's Desk feed generated)
+
+.PHONY: feeds_pasay_pio_advisory
+feeds_pasay_pio_advisory: ## Generate RSS feed for Pasay City Government PIO Advisory
+	$(call check_venv)
+	$(call print_info,Generating Pasay City Government PIO Advisory feed)
+	$(Q)uv run feed_generators/pasay_pio_advisory_blog.py
+	$(call print_success,Pasay City Government PIO Advisory feed generated)
+
+.PHONY: feeds_pasig_news
+feeds_pasig_news: ## Generate RSS feed for Pasig City Government News and Releases
+	$(call check_venv)
+	$(call print_info,Generating Pasig City Government News and Releases feed)
+	$(Q)uv run feed_generators/pasig_news_blog.py
+	$(call print_success,Pasig City Government News and Releases feed generated)

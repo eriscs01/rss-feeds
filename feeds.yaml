@@ -91,3 +91,39 @@ feeds:
     script: quezoncity_featured_stories_blog.py
     type: requests
     blog_url: https://quezoncity.gov.ph/news-and-media/featured-stories/
+  makati_news:
+    script: makati_news_blog.py
+    type: requests
+    blog_url: https://www.makati.gov.ph/content/news
+  malabon_news:
+    script: malabon_news_blog.py
+    type: requests
+    blog_url: https://malabon.gov.ph/news/
+  mandaluyong_news:
+    script: mandaluyong_news_blog.py
+    type: requests
+    blog_url: https://mandaluyong.gov.ph/news/
+  marikina_news:
+    script: marikina_news_blog.py
+    type: requests
+    blog_url: https://marikina.gov.ph/news
+  muntinlupa_news:
+    script: muntinlupa_news_blog.py
+    type: requests
+    blog_url: https://muntinlupacity.gov.ph/category/news-announcement/
+  pasay_city_events:
+    script: pasay_city_events_blog.py
+    type: requests
+    blog_url: https://pasay.gov.ph/balita/city-events/
+  pasay_mayors_desk:
+    script: pasay_mayors_desk_blog.py
+    type: requests
+    blog_url: https://pasay.gov.ph/category/mayors-desk/
+  pasay_pio_advisory:
+    script: pasay_pio_advisory_blog.py
+    type: requests
+    blog_url: https://pasay.gov.ph/category/pio-advisory/
+  pasig_news:
+    script: pasig_news_blog.py
+    type: requests
+    blog_url: https://pasigcity.gov.ph/news-and-releases
