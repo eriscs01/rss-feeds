@@ -176,13 +176,6 @@ feeds_marikina_news: ## Generate RSS feed for Marikina City Government News
 	$(Q)uv run feed_generators/marikina_news_blog.py
 	$(call print_success,Marikina City Government News feed generated)
 
-.PHONY: feeds_muntinlupa_news
-feeds_muntinlupa_news: ## Generate RSS feed for Muntinlupa City Government News & Announcements
-	$(call check_venv)
-	$(call print_info,Generating Muntinlupa City Government News & Announcements feed)
-	$(Q)uv run feed_generators/muntinlupa_news_blog.py
-	$(call print_success,Muntinlupa City Government News & Announcements feed generated)
-
 .PHONY: feeds_pasay_city_events
 feeds_pasay_city_events: ## Generate RSS feed for Pasay City Government City Events
 	$(call check_venv)
@@ -211,9 +204,3 @@ feeds_pasig_news: ## Generate RSS feed for Pasig City Government News and Releas
 	$(Q)uv run feed_generators/pasig_news_blog.py
 	$(call print_success,Pasig City Government News and Releases feed generated)
 
-.PHONY: feeds_pco_news_releases
-feeds_pco_news_releases: ## Generate RSS feed for Presidential Communications Office News Releases
-	$(call check_venv)
-	$(call print_info,Generating Presidential Communications Office News Releases feed)
-	$(Q)uv run feed_generators/pco_news_releases_blog.py
-	$(call print_success,Presidential Communications Office News Releases feed generated)

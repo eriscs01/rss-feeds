@@ -107,10 +107,6 @@ feeds:
     script: marikina_news_blog.py
     type: requests
     blog_url: https://marikina.gov.ph/news
-  muntinlupa_news:
-    script: muntinlupa_news_blog.py
-    type: requests
-    blog_url: https://muntinlupacity.gov.ph/category/news-announcement/
   pasay_city_events:
     script: pasay_city_events_blog.py
     type: requests
@@ -127,7 +123,3 @@ feeds:
     script: pasig_news_blog.py
     type: requests
     blog_url: https://pasigcity.gov.ph/news-and-releases
-  pco_news_releases:
-    script: pco_news_releases_blog.py
-    type: requests
-    blog_url: https://pco.gov.ph/news-releases/
