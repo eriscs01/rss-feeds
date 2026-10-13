@@ -68,7 +68,7 @@ class ScheduledPublicationTests(unittest.TestCase):
             self.assertEqual(ET.fromstring(path.read_bytes()).findtext("channel/item/title"), "Published")
 
     def test_runner_surfaces_deferrals_in_log_and_summary(self):
-        config = FeedConfig(script="pna_national_blog.py", type="requests", blog_url="https://example.com")
+        config = FeedConfig(script="abscbn_nation_blog.py", type="requests", blog_url="https://example.com")
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             summary = root / "summary.md"

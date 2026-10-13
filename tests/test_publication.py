@@ -102,13 +102,13 @@ class PublicationTests(unittest.TestCase):
 
     def test_zero_exit_without_refresh_and_timeout_fail(self):
         config = FeedConfig(
-            script="pna_national_blog.py", type="requests", blog_url="https://www.pna.gov.ph/categories/national"
+            script="abscbn_nation_blog.py", type="requests", blog_url="https://www.abs-cbn.com/news/nation"
         )
         with tempfile.TemporaryDirectory() as tmp, patch("run_all_feeds.get_feeds_dir", return_value=Path(tmp)):
             with patch("run_all_feeds.subprocess.run", return_value=Mock(returncode=0, stdout="", stderr="No posts")):
-                self.assertFalse(run_feed("pna_national", config))
+                self.assertFalse(run_feed("abscbn_nation", config))
             with patch("run_all_feeds.subprocess.run", side_effect=subprocess.TimeoutExpired("uv", 600)):
-                self.assertFalse(run_feed("pna_national", config))
+                self.assertFalse(run_feed("abscbn_nation", config))
 
     def test_pagination_rejects_empty_pages_and_loops(self):
         from static_pages import fetch_paginated

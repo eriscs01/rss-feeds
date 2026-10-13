@@ -34,8 +34,8 @@ dev = ["ruff>=0.16.3", "pre-commit>=4.6.2"]
 target-version = "py311"
 line-length = 120
 src = ["feed_generators"]
-# Fork-specific generators predate the ruff config and are kept as written.
-extend-exclude = ["feed_generators/abscbn_nation_blog.py", "feed_generators/pna_national_blog.py"]
+# The fork-specific generator predates the ruff config and is kept as written.
+extend-exclude = ["feed_generators/abscbn_nation_blog.py"]
 
 [tool.ruff.lint]
 select = ["F", "E", "W", "I", "N", "UP", "B", "SIM", "C4", "RUF", "PERF"]

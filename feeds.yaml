@@ -19,8 +19,3 @@ feeds:
     script: abscbn_nation_blog.py
     type: requests
     blog_url: https://www.abs-cbn.com/news/nation
-
-  pna_national:
-    script: pna_national_blog.py
-    type: requests
-    blog_url: https://www.pna.gov.ph/categories/national
