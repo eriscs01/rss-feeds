@@ -9,8 +9,8 @@ import pytz
 import requests
 from feedgen.feed import FeedGenerator
 
-from abscbn import enrich_posts
-from utils import setup_feed_links, sort_posts_for_feed
+from abscbn import enrich_posts, merge_articles
+from utils import setup_feed_links
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
@@ -144,22 +144,6 @@ def save_cache(posts):
     with open(cache_file, "w") as f:
         json.dump(data, f, indent=2)
     logger.info(f"Saved cache with {len(posts)} posts to {cache_file}")
-
-
-def merge_articles(new_articles, cached_posts):
-    """Merge new articles into cache, dedup by article ID, sort by date desc."""
-    existing_ids = {p["id"] for p in cached_posts}
-    merged = list(cached_posts)
-
-    added_count = 0
-    for article in new_articles:
-        if article["id"] not in existing_ids:
-            merged.append(article)
-            existing_ids.add(article["id"])
-            added_count += 1
-
-    logger.info(f"Added {added_count} new articles to cache")
-    return sort_posts_for_feed(merged, date_field="date")
 
 
 def generate_rss_feed(posts):

@@ -14,7 +14,7 @@ import requests
 from bs4 import BeautifulSoup
 from lxml import etree
 
-from utils import DEFAULT_HEADERS, get_feeds_dir, setup_logging
+from utils import DEFAULT_HEADERS, get_feeds_dir, setup_logging, sort_posts_for_feed
 
 logger = setup_logging()
 
@@ -118,6 +118,25 @@ def load_published_content(feed_name):
         if link and content:
             published[link] = content
     return published
+
+
+def merge_articles(new_articles, cached_posts):
+    """Merge new articles into the cached ones, one per URL, sorted for feedgen.
+
+    The listing API can return the same article under two IDs. Its URL is the
+    feed item's link and GUID, so that is what has to be unique.
+    """
+    merged = {}
+    for post in cached_posts:
+        merged.setdefault(post["url"], post)
+    added_count = 0
+    for article in new_articles:
+        if article["url"] not in merged:
+            merged[article["url"]] = article
+            added_count += 1
+
+    logger.info(f"Added {added_count} new articles to cache")
+    return sort_posts_for_feed(list(merged.values()), date_field="date")
 
 
 def enrich_posts(posts, feed_name, max_fetches=MAX_FETCHES):

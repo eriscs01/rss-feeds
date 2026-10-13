@@ -5,6 +5,7 @@ from unittest.mock import Mock, PropertyMock, patch
 
 from selenium.common.exceptions import TimeoutException, WebDriverException
 
+from abscbn import merge_articles
 from dynamic_pages import fetch_rendered
 from html_cards import parse_dated_cards
 from native_rss import parse_rss
@@ -66,3 +67,14 @@ class SharedSourceTests(unittest.TestCase):
         html = '<a href="/post"><h2>Title</h2><time datetime="invalid">Today</time></a>'
         with self.assertRaises(ValueError):
             parse_dated_cards(html, "a", "https://example.com")
+
+    def test_abscbn_article_listed_under_two_ids_is_published_once(self):
+        date = "2026-10-13T06:14:17.000Z"
+        cached = [{"id": "a", "url": "https://example.com/cached", "date": date, "content_html": "<p>kept</p>"}]
+        listed = [
+            {"id": "b", "url": "https://example.com/new", "date": date},
+            {"id": "c", "url": "https://example.com/new", "date": date},
+            {"id": "d", "url": "https://example.com/cached", "date": date},
+        ]
+        merged = merge_articles(listed, cached)
+        self.assertEqual(sorted(post["id"] for post in merged), ["a", "b"])
