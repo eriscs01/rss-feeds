@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Quezon City Government Announcements</title>
+    <link>https://quezoncity.gov.ph/news-and-media/announcements/</link>
+    <description>Announcements from the Quezon City Government</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_quezoncity_announcements.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://quezoncity.gov.ph/wp-content/themes/qcproject/images/favicon.png</url>
+      <title>Quezon City Government Announcements</title>
+      <link>https://quezoncity.gov.ph/news-and-media/announcements/</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2026 13:53:32 +0000</lastBuildDate>
+    <item>
+      <title>Quezon City Government Statement regarding Task Force Disiplina</title>
+      <link>https://quezoncity.gov.ph/quezon-city-government-statement-regarding-task-force-disiplina/</link>
+      <description>PAHAYAG NG LOKAL NA PAMAHALAAN NG LUNGSOD QUEZON Buwag na ang Task Force Disiplina, epektibo ngayong araw. Inatasan ni Mayor...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/848351195_984639058005445_4129024946094502113_n.jpg" alt=""/></figure><p>PAHAYAG NG LOKAL NA PAMAHALAAN NG LUNGSOD QUEZON Buwag na ang Task Force Disiplina, epektibo ngayong araw. Inatasan ni Mayor...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/quezon-city-government-statement-regarding-task-force-disiplina/</guid>
+      <category>Media</category>
+      <category>Announcement</category>
+      <pubDate>Tue, 13 Oct 2026 08:30:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/848351195_984639058005445_4129024946094502113_n.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Public Service Announcement: Laws VS Cable/Wire Theft</title>
+      <link>https://quezoncity.gov.ph/public-service-announcement-laws-vs-cable-wire-theft/</link>
+      <description>PUBLIC SERVICE ANNOUNCEMENT Mariing ipinapaalala ng Quezon City Government na ipinagbabawal sa batas ang hindi otorisadong pagtatanggal, paninira, o pagnanakaw...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/844149500_1101721129270240_2584774417244041799_n-951x1024.jpg" alt=""/></figure><p>PUBLIC SERVICE ANNOUNCEMENT Mariing ipinapaalala ng Quezon City Government na ipinagbabawal sa batas ang hindi otorisadong pagtatanggal, paninira, o pagnanakaw...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/840976263_1092152196792831_5792119090487875112_n.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/842977681_1392139396416514_1896408477116194872_n.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/841466060_1632714508103059_3349724167216805030_n.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/public-service-announcement-laws-vs-cable-wire-theft/</guid>
+      <category>Media</category>
+      <category>Announcement</category>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/844149500_1101721129270240_2584774417244041799_n-951x1024.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Traffic Advisory – October 11, 2026</title>
+      <link>https://quezoncity.gov.ph/traffic-advisory-october-11-2026/</link>
+      <description>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 11, 2026 sa paligid ng Sto....</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/842977445_27874016915605969_2274136022162155933_n.jpg" alt=""/></figure><p>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 11, 2026 sa paligid ng Sto....</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/843161518_1636644877799216_7337102572922100564_n-1024x1024.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/842768302_1118511637420354_644248720023990805_n-1024x1024.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/841602956_2000012627327160_346320140736913619_n-1024x1024.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/traffic-advisory-october-11-2026/</guid>
+      <category>Media</category>
+      <category>Announcement</category>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/842977445_27874016915605969_2274136022162155933_n.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Traffic Advisory – October 10, 2026</title>
+      <link>https://quezoncity.gov.ph/traffic-advisory-october-10-2026/</link>
+      <description>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 10, 2026 sa paligid ng Sto....</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/842609236_3398227477016866_5975348517930657446_n-1024x1024.jpg" alt=""/></figure><p>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 10, 2026 sa paligid ng Sto....</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/840642408_894275837103408_6414712651814705791_n-1024x1024.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/843764873_986652491147427_8100230127030806085_n-1024x1024.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/traffic-advisory-october-10-2026/</guid>
+      <category>Media</category>
+      <category>Announcement</category>
+      <pubDate>Fri, 09 Oct 2026 03:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/842609236_3398227477016866_5975348517930657446_n-1024x1024.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Traffic Advisory – October 9, 2026</title>
+      <link>https://quezoncity.gov.ph/traffic-advisory-october-9-2026/</link>
+      <description>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 9, 2026 mula 7:00 AM hanggang...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/837091670_1127147213235678_5823479521406113328_n-1024x1024.jpg" alt=""/></figure><p>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 9, 2026 mula 7:00 AM hanggang...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/840034157_1141446852167610_4026839581066227981_n-1024x1024.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/840698209_1571248024801745_6167451832771712063_n-1024x1024.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/traffic-advisory-october-9-2026/</guid>
+      <category>Media</category>
+      <category>Announcement</category>
+      <pubDate>Thu, 08 Oct 2026 03:30:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/837091670_1127147213235678_5823479521406113328_n-1024x1024.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Traffic Advisory – October 8, 2026</title>
+      <link>https://quezoncity.gov.ph/traffic-advisory-october-8-2026/</link>
+      <description>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 8, 2026 mula 7:00 AM hanggang...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/836813717_1096089679834071_6574080491498680598_n-1024x1024.jpg" alt=""/></figure><p>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 8, 2026 mula 7:00 AM hanggang...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/837738279_1606447551022884_7317400145653505049_n-1024x1024.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/839806569_2051005812286137_6566128134391802253_n-1024x1024.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/traffic-advisory-october-8-2026/</guid>
+      <category>Media</category>
+      <category>Announcement</category>
+      <pubDate>Wed, 07 Oct 2026 04:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/836813717_1096089679834071_6574080491498680598_n-1024x1024.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Traffic Advisory – October 7, 2026</title>
+      <link>https://quezoncity.gov.ph/traffic-advisory-october-7-2026/</link>
+      <description>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 7, 2026 mula 10:00 AM hanggang...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/839180956_29535373446063574_5030673505298497277_n-1024x1024.jpg" alt=""/></figure><p>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 7, 2026 mula 10:00 AM hanggang...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/834357239_2174162953532323_7257310668103940150_n-1024x1024.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/839032934_1452681526771057_4561484228345943575_n-1024x1024.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/traffic-advisory-october-7-2026/</guid>
+      <category>Media</category>
+      <category>Announcement</category>
+      <pubDate>Tue, 06 Oct 2026 04:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/839180956_29535373446063574_5030673505298497277_n-1024x1024.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Traffic Advisory – October 6, 2026</title>
+      <link>https://quezoncity.gov.ph/traffic-advisory-october-6-2026/</link>
+      <description>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 6, 2026 mula 7:00 AM hanggang...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/833188469_893956980337806_7300520457287519525_n-1024x1024.jpg" alt=""/></figure><p>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 6, 2026 mula 7:00 AM hanggang...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/839226515_1465429448786212_5014656643567362312_n-1024x1024.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/ta-1024x1024.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/traffic-advisory-october-6-2026/</guid>
+      <category>Media</category>
+      <category>Announcement</category>
+      <pubDate>Mon, 05 Oct 2026 04:30:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/833188469_893956980337806_7300520457287519525_n-1024x1024.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Traffic Advisory – October 4, 2026</title>
+      <link>https://quezoncity.gov.ph/traffic-advisory-october-4-2026/</link>
+      <description>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 4, 2026 mula 7:00 AM hanggang...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/image-94.jpeg" alt=""/></figure><p>MAHALAGANG ABISO SA MGA MOTORISTA Asahan ang pagbigat ng daloy ng trapiko sa October 4, 2026 mula 7:00 AM hanggang...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/image-95-1024x1024.jpeg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/traffic-advisory-october-4-2026/</guid>
+      <category>Media</category>
+      <category>Announcement</category>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/image-94.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Traffic Advisory – October 2-5, 2026</title>
+      <link>https://quezoncity.gov.ph/traffic-advisory-october-2-5-2026/</link>
+      <description>ABISO SA MGA MOTORISTA Magsasagawa ng road reblocking ang Department of Public Works and Highways (DPWH) mula October 2 &amp;#8211;...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/image-71-1024x1024.jpeg" alt=""/></figure><p>ABISO SA MGA MOTORISTA Magsasagawa ng road reblocking ang Department of Public Works and Highways (DPWH) mula October 2 &amp;#8211;...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/traffic-advisory-october-2-5-2026/</guid>
+      <category>Media</category>
+      <category>Announcement</category>
+      <pubDate>Fri, 02 Oct 2026 23:42:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/image-71-1024x1024.jpeg" medium="image"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>

@@ -22,6 +22,9 @@ Fork of [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds).
 | [Manila Bulletin Philippines](https://mb.com.ph/category/philippines) | [feed_manilabulletin_philippines.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_philippines.xml) |
 | [Manila Bulletin Visayas](https://mb.com.ph/category/visayas) | [feed_manilabulletin_visayas.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_visayas.xml) |
 | [Manila Bulletin World](https://mb.com.ph/category/world) | [feed_manilabulletin_world.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_world.xml) |
+| [Quezon City Government Announcements](https://quezoncity.gov.ph/news-and-media/announcements/) | [feed_quezoncity_announcements.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_quezoncity_announcements.xml) |
+| [Quezon City Government Featured Stories](https://quezoncity.gov.ph/news-and-media/featured-stories/) | [feed_quezoncity_featured_stories.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_quezoncity_featured_stories.xml) |
+| [Quezon City Government Latest News](https://quezoncity.gov.ph/news-and-media/latest-news/) | [feed_quezoncity_latest_news.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_quezoncity_latest_news.xml) |
 
 ## Official Feeds
 

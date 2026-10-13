@@ -79,3 +79,15 @@ feeds:
     script: manilabulletin_world_blog.py
     type: requests
     blog_url: https://mb.com.ph/category/world
+  quezoncity_announcements:
+    script: quezoncity_announcements_blog.py
+    type: requests
+    blog_url: https://quezoncity.gov.ph/news-and-media/announcements/
+  quezoncity_latest_news:
+    script: quezoncity_latest_news_blog.py
+    type: requests
+    blog_url: https://quezoncity.gov.ph/news-and-media/latest-news/
+  quezoncity_featured_stories:
+    script: quezoncity_featured_stories_blog.py
+    type: requests
+    blog_url: https://quezoncity.gov.ph/news-and-media/featured-stories/

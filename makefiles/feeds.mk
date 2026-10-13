@@ -121,6 +121,27 @@ feeds_manilabulletin_world: ## Generate RSS feed for Manila Bulletin World
 	$(Q)uv run feed_generators/manilabulletin_world_blog.py
 	$(call print_success,Manila Bulletin World feed generated)
 
+.PHONY: feeds_quezoncity_announcements
+feeds_quezoncity_announcements: ## Generate RSS feed for Quezon City Government Announcements
+	$(call check_venv)
+	$(call print_info,Generating Quezon City Government Announcements feed)
+	$(Q)uv run feed_generators/quezoncity_announcements_blog.py
+	$(call print_success,Quezon City Government Announcements feed generated)
+
+.PHONY: feeds_quezoncity_latest_news
+feeds_quezoncity_latest_news: ## Generate RSS feed for Quezon City Government Latest News
+	$(call check_venv)
+	$(call print_info,Generating Quezon City Government Latest News feed)
+	$(Q)uv run feed_generators/quezoncity_latest_news_blog.py
+	$(call print_success,Quezon City Government Latest News feed generated)
+
+.PHONY: feeds_quezoncity_featured_stories
+feeds_quezoncity_featured_stories: ## Generate RSS feed for Quezon City Government Featured Stories
+	$(call check_venv)
+	$(call print_info,Generating Quezon City Government Featured Stories feed)
+	$(Q)uv run feed_generators/quezoncity_featured_stories_blog.py
+	$(call print_success,Quezon City Government Featured Stories feed generated)
+
 .PHONY: clean_feeds
 clean_feeds: ## Clean generated RSS feed files
 	$(call print_warning,Removing generated RSS feeds)

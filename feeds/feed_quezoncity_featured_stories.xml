@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Quezon City Government Featured Stories</title>
+    <link>https://quezoncity.gov.ph/news-and-media/featured-stories/</link>
+    <description>Featured stories from the Quezon City Government</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_quezoncity_featured_stories.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://quezoncity.gov.ph/wp-content/themes/qcproject/images/favicon.png</url>
+      <title>Quezon City Government Featured Stories</title>
+      <link>https://quezoncity.gov.ph/news-and-media/featured-stories/</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2026 13:53:45 +0000</lastBuildDate>
+    <item>
+      <title>QC 87th Foundation Day Dance Competition</title>
+      <link>https://quezoncity.gov.ph/qc-87th-foundation-day-dance-competition/</link>
+      <description>Happy 87th Founding Anniversary, QC! Pinangunahan ni Mayor Joy Belmonte ang masayang pagdiriwang ng ika-87 anibersaryo ng Quezon City kahapon,...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/848122243_1834406411084791_8385894579493594333_n-1024x684.jpg" alt=""/></figure><p>Happy 87th Founding Anniversary, QC! Pinangunahan ni Mayor Joy Belmonte ang masayang pagdiriwang ng ika-87 anibersaryo ng Quezon City kahapon,...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/846103354_2161254381444211_4379322566215509583_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/845881232_1818558576010563_2951843538776972117_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/840334607_1043775275371895_6845039712108580830_n-1024x684.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/847999724_1900409507589277_6366839321724132893_n-1024x684.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/qc-87th-foundation-day-dance-competition/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Featured Stories</category>
+      <pubDate>Tue, 13 Oct 2026 03:05:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/848122243_1834406411084791_8385894579493594333_n-1024x684.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pagpapatuloy ng pag-aaral ng isang QCitizen student sa Brgy. San Agustin</title>
+      <link>https://quezoncity.gov.ph/pagpapatuloy-ng-pag-aaral-ng-isang-qcitizen-student-sa-brgy-san-agustin/</link>
+      <description>Bilang third-year college student sa Polytechnic University of the Philippines (PUP) Sta. Mesa, patuloy na nagsisikap si Syl Vanice Macaranas...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/844965719_1003450662762993_6447685316048919968_n-1024x683.jpg" alt=""/></figure><p>Bilang third-year college student sa Polytechnic University of the Philippines (PUP) Sta. Mesa, patuloy na nagsisikap si Syl Vanice Macaranas...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/846070148_1082445124401848_967985116456663608_n-683x1024.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/pagpapatuloy-ng-pag-aaral-ng-isang-qcitizen-student-sa-brgy-san-agustin/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Featured Stories</category>
+      <pubDate>Tue, 13 Oct 2026 02:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/844965719_1003450662762993_6447685316048919968_n-1024x683.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>International Day for Disaster Risk Reduction</title>
+      <link>https://quezoncity.gov.ph/international-day-for-disaster-risk-reduction-3/</link>
+      <description>Ginugunita tuwing Oktubre 13 ang International Day for Disaster Risk Reduction, na nagsimula noong 1989 upang palakasin ang kamalayan at...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/849147748_1075430922024614_1226341914913571727_n.jpg" alt=""/></figure><p>Ginugunita tuwing Oktubre 13 ang International Day for Disaster Risk Reduction, na nagsimula noong 1989 upang palakasin ang kamalayan at...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/international-day-for-disaster-risk-reduction-3/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Featured Stories</category>
+      <pubDate>Tue, 13 Oct 2026 01:34:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/849147748_1075430922024614_1226341914913571727_n.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Financial Assistance to Fire Victims – Barangay San Agustin</title>
+      <link>https://quezoncity.gov.ph/financial-assistance-to-fire-victims-barangay-san-agustin/</link>
+      <description>Personal na binisita at kinumusta ni Mayor Joy Belmonte ang mahigit 140 pamilyang nawalan ng tirahan dahil sa sunog sa...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/847116197_1873952503588338_691136039802768788_n-1024x683.jpg" alt=""/></figure><p>Personal na binisita at kinumusta ni Mayor Joy Belmonte ang mahigit 140 pamilyang nawalan ng tirahan dahil sa sunog sa...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/840104037_1647855050225441_2358127846603962294_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/845685952_2876396252742495_5170448403664091526_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/845300386_4201279240006781_851797815565701945_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/843279146_1073956482132471_5962551220306514362_n-1024x683.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/financial-assistance-to-fire-victims-barangay-san-agustin/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Featured Stories</category>
+      <pubDate>Tue, 13 Oct 2026 01:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/847116197_1873952503588338_691136039802768788_n-1024x683.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Potovanje/Paglalakbay Exhibit and Roundtable Discussion</title>
+      <link>https://quezoncity.gov.ph/potovanje-paglalakbay-exhibit-and-roundtable-discussion/</link>
+      <description>Bukas na ang Potovanje/Paglalakbay: Two Women World Travellers in the 1920s: Alma Karin of Slovenia and Paz Guazon of the...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/846303151_1409000590827193_6189090906898126928_n-1024x683.jpg" alt=""/></figure><p>Bukas na ang Potovanje/Paglalakbay: Two Women World Travellers in the 1920s: Alma Karin of Slovenia and Paz Guazon of the...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/842345874_1453190910105525_3664636664420326809_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/848310817_2093936238675184_1055779403498975041_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/846449673_932775786302179_7821857382443690369_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/844475397_1428405496140197_6222806853218517056_n-1024x683.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/potovanje-paglalakbay-exhibit-and-roundtable-discussion/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Featured Stories</category>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/846303151_1409000590827193_6189090906898126928_n-1024x683.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>QC Employees Day</title>
+      <link>https://quezoncity.gov.ph/qc-employees-day/</link>
+      <description>Iba-ibang serbisyo ang handog para sa mga lingkod-bayan ng lungsod! Ngayong QC employees day, nagtayo ng wellness booth na may...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/qced-1024x684.jpg" alt=""/></figure><p>Iba-ibang serbisyo ang handog para sa mga lingkod-bayan ng lungsod! Ngayong QC employees day, nagtayo ng wellness booth na may...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/848391523_1330208332400027_7432085882996920329_n-1024x684.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/846073520_2577571596000542_6392280675124143182_n-684x1024.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/845881302_1087419084273793_3775118407833956257_n-1024x684.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/843510816_2524229308058648_5429968187977552402_n-1024x684.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/844918182_1788433222492442_5313412388385262466_n-1024x684.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/qc-employees-day/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Featured Stories</category>
+      <pubDate>Mon, 12 Oct 2026 11:01:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/qced-1024x684.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>POP QC Bazaar – More to Explore: QC Foundation Anniversary</title>
+      <link>https://quezoncity.gov.ph/pop-qc-bazaar-more-to-explore-qc-foundation-anniversary/</link>
+      <description>May bazaar ulit sa Quezon City Hall! Iba-ibang pagkain, inumin, handicrafts, at iba pang produktong gawa mismo ng QC-based entrepreneurs...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/845941548_1030941026631515_2376660048913365377_n-1024x684.jpg" alt=""/></figure><p>May bazaar ulit sa Quezon City Hall! Iba-ibang pagkain, inumin, handicrafts, at iba pang produktong gawa mismo ng QC-based entrepreneurs...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/847552834_1645223413918145_677656353512131866_n-1024x684.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/843367073_2415311252336950_8466497066871039403_n-1024x684.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/845530683_4104452263179316_2091257100562999362_n-1024x684.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/846347139_2217867558757542_1948178566867783820_n-1024x684.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/pop-qc-bazaar-more-to-explore-qc-foundation-anniversary/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Featured Stories</category>
+      <pubDate>Mon, 12 Oct 2026 10:30:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/845941548_1030941026631515_2376660048913365377_n-1024x684.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Global Handwashing Day</title>
+      <link>https://quezoncity.gov.ph/global-handwashing-day-2/</link>
+      <description>Nakikiisa ang Quezon City Government sa pagdiriwang ng Global Handwashing Day! Kinikilala ng lungsod ang kahalagahan ng maayos na paghuhugas...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/846221306_1089112303966581_8802213832936804547_n-1024x683.jpg" alt=""/></figure><p>Nakikiisa ang Quezon City Government sa pagdiriwang ng Global Handwashing Day! Kinikilala ng lungsod ang kahalagahan ng maayos na paghuhugas...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/840825250_2157250948201401_3932337653679312085_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/844773162_1441567147910250_6524598731078988929_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/843591922_1112854047801142_1887908305733576340_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/841640353_1659236825592861_4734972970712029992_n-1024x683.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/global-handwashing-day-2/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Featured Stories</category>
+      <pubDate>Mon, 12 Oct 2026 10:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/846221306_1089112303966581_8802213832936804547_n-1024x683.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Career and Self-Development, Exemplary, and QC Service Award</title>
+      <link>https://quezoncity.gov.ph/career-and-self-development-exemplary-and-qc-service-award/</link>
+      <description>Congratulations sa awardees sa flag-raising ceremony, ngayong ikalawang Lunes ng Oktubre! Nakatanggap ng QC Exemplar Award si Felino Viduya Jr....</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/843104058_1648868203483045_4667446202980183765_n.jpg" alt=""/></figure><p>Congratulations sa awardees sa flag-raising ceremony, ngayong ikalawang Lunes ng Oktubre! Nakatanggap ng QC Exemplar Award si Felino Viduya Jr....</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/career-and-self-development-exemplary-and-qc-service-award/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Featured Stories</category>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/843104058_1648868203483045_4667446202980183765_n.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Kamuning Textile Expo and Food Bazaar 2026</title>
+      <link>https://quezoncity.gov.ph/kamuning-textile-expo-and-food-bazaar-2026/</link>
+      <description>Tara na sa Kamuning Market! Opisyal nang nagbukas ang Tailors &amp;#38; Textile Expo and Food Bazaar sa New Kamuning Market...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/kamuningmarket-1024x683.jpg" alt=""/></figure><p>Tara na sa Kamuning Market! Opisyal nang nagbukas ang Tailors &amp;#38; Textile Expo and Food Bazaar sa New Kamuning Market...</p><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/845891841_1414998374158578_1591168098921374437_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/845506956_2300689857388532_3120097436286114166_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/838304405_1419604269563914_1344009918579910182_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/842718023_963761090112080_8671875010148849529_n-1024x683.jpg" alt=""/></figure><figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/844889875_2156297005761464_8642752421418447814_n-1024x683.jpg" alt=""/></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/kamuning-textile-expo-and-food-bazaar-2026/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Featured Stories</category>
+      <pubDate>Mon, 12 Oct 2026 05:34:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/kamuningmarket-1024x683.jpg" medium="image"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Quezon City Government Latest News</title>
+    <link>https://quezoncity.gov.ph/news-and-media/latest-news/</link>
+    <description>Latest news and press releases from the Quezon City Government</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_quezoncity_latest_news.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://quezoncity.gov.ph/wp-content/themes/qcproject/images/favicon.png</url>
+      <title>Quezon City Government Latest News</title>
+      <link>https://quezoncity.gov.ph/news-and-media/latest-news/</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2026 13:53:39 +0000</lastBuildDate>
+    <item>
+      <title>QC Cocktail Jamboree brings Quezon City and Jakarta’s cocktail scenes together</title>
+      <link>https://quezoncity.gov.ph/qc-cocktail-jamboree-brings-quezon-city-and-jakartas-cocktail-scenes-together/</link>
+      <description>Three nights of guest bartending, exclusive menus and a closing celebration will invite visitors to discover the Tomas Morato–Scout area’s...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" alt=""/></figure><p>Three nights of guest bartending, exclusive menus and a closing celebration will invite visitors to discover the Tomas Morato–Scout area’s...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/qc-cocktail-jamboree-brings-quezon-city-and-jakartas-cocktail-scenes-together/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Latest News</category>
+      <pubDate>Thu, 01 Oct 2026 05:19:22 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Right to Care Card application now available on QC eServices</title>
+      <link>https://quezoncity.gov.ph/right-to-care-card-application-now-available-on-qc-eservices/</link>
+      <description>Applying for the Quezon City Government’s pioneering Right to Care (RTC) Card is now faster and more convenient, with the...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" alt=""/></figure><p>Applying for the Quezon City Government’s pioneering Right to Care (RTC) Card is now faster and more convenient, with the...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/right-to-care-card-application-now-available-on-qc-eservices/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Latest News</category>
+      <pubDate>Thu, 24 Sep 2026 07:22:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>QC IREPORT RESOLVES 82% OF CITIZEN REPORTS IN FIRST FOUR MONTHS</title>
+      <link>https://quezoncity.gov.ph/qc-ireport-resolves-82-of-citizen-reports-in-first-four-months/</link>
+      <description>Nearly four months since its launch, the Quezon City Government’s QC iReport has resolved 4,580 of the 5,589 reports submitted...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" alt=""/></figure><p>Nearly four months since its launch, the Quezon City Government’s QC iReport has resolved 4,580 of the 5,589 reports submitted...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/qc-ireport-resolves-82-of-citizen-reports-in-first-four-months/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Latest News</category>
+      <pubDate>Mon, 21 Sep 2026 05:43:39 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>QC STRENGTHENS LEPTOSPIROSIS RESPONSE THROUGH WIDER DOXYCYCLINE ACCESS</title>
+      <link>https://quezoncity.gov.ph/qc-strengthens-leptospirosis-response-through-wider-doxycycline-access/</link>
+      <description>The Quezon City Government is expanding access to doxycycline across the city to strengthen leptospirosis prevention and ensure that residents...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" alt=""/></figure><p>The Quezon City Government is expanding access to doxycycline across the city to strengthen leptospirosis prevention and ensure that residents...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/qc-strengthens-leptospirosis-response-through-wider-doxycycline-access/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Latest News</category>
+      <pubDate>Sun, 13 Sep 2026 09:55:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>QC CALLS FOR TIMELY WEATHER UPDATES TO GUIDE CLASS SUSPENSIONS</title>
+      <link>https://quezoncity.gov.ph/qc-calls-for-timely-weather-updates-to-guide-class-suspensions/</link>
+      <description>Quezon City Council Majority Leader Aly Medalla has filed a resolution urging the Philippine Atmospheric, Geophysical and Astronomical Services Administration...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" alt=""/></figure><p>Quezon City Council Majority Leader Aly Medalla has filed a resolution urging the Philippine Atmospheric, Geophysical and Astronomical Services Administration...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/qc-calls-for-timely-weather-updates-to-guide-class-suspensions/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Latest News</category>
+      <pubDate>Sun, 13 Sep 2026 09:53:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>QC STRENGTHENS PEOPLE-CENTERED GOVERNANCE THROUGH PARTICIPATORY BUDGETING</title>
+      <link>https://quezoncity.gov.ph/qc-strengthens-people-centered-governance-through-participatory-budgeting/</link>
+      <description>The Quezon City Government is strengthening people-centered governance by giving citizens a meaningful role in shaping the City’s budget and...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" alt=""/></figure><p>The Quezon City Government is strengthening people-centered governance by giving citizens a meaningful role in shaping the City’s budget and...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/qc-strengthens-people-centered-governance-through-participatory-budgeting/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Latest News</category>
+      <pubDate>Mon, 07 Sep 2026 01:52:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Student innovators win top honors at Startup QC Year 3 with solutions for cleaner waterways and smarter farms</title>
+      <link>https://quezoncity.gov.ph/student-innovators-win-top-honors-at-startup-qc-year-3-with-solutions-for-cleaner-waterways-and-smarter-farms/</link>
+      <description>Student innovators behind solutions for waterway waste, urban farm efficiency, and poultry welfare emerged as the top winners in this...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" alt=""/></figure><p>Student innovators behind solutions for waterway waste, urban farm efficiency, and poultry welfare emerged as the top winners in this...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/student-innovators-win-top-honors-at-startup-qc-year-3-with-solutions-for-cleaner-waterways-and-smarter-farms/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Latest News</category>
+      <pubDate>Fri, 04 Sep 2026 01:23:18 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>QC Waives Barangay Business Clearance Fees for Newly Registered Nano-Enterprises</title>
+      <link>https://quezoncity.gov.ph/qc-waives-barangay-business-clearance-fees-for-newly-registered-nano-enterprises/</link>
+      <description>The Quezon City Government is making it easier and more affordable to start a business by waiving barangay business clearance...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" alt=""/></figure><p>The Quezon City Government is making it easier and more affordable to start a business by waiving barangay business clearance...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/qc-waives-barangay-business-clearance-fees-for-newly-registered-nano-enterprises/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Latest News</category>
+      <pubDate>Wed, 02 Sep 2026 03:10:48 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>No Cleanup, No Project Acceptance: QC Penalizes Infrastructure Projects That Leave Debris Behind</title>
+      <link>https://quezoncity.gov.ph/no-cleanup-no-project-acceptance-qc-penalizes-infrastructure-projects-that-leave-debris-behind/</link>
+      <description>The Quezon City Government is cracking down on infrastructure projects that leave construction debris, waste, and damaged public facilities behind....</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" alt=""/></figure><p>The Quezon City Government is cracking down on infrastructure projects that leave construction debris, waste, and damaged public facilities behind....</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/no-cleanup-no-project-acceptance-qc-penalizes-infrastructure-projects-that-leave-debris-behind/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Latest News</category>
+      <pubDate>Mon, 31 Aug 2026 05:26:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Quezon City Turns Parks and Public Spaces into Nature-Based Flood Solutions</title>
+      <link>https://quezoncity.gov.ph/quezon-city-turns-parks-and-public-spaces-into-nature-based-flood-solutions/</link>
+      <description>Quezon City is turning open spaces into working flood-control infrastructure, as the newly inaugurated Quezon Memorial Circle (QMC) Open Field...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" alt=""/></figure><p>Quezon City is turning open spaces into working flood-control infrastructure, as the newly inaugurated Quezon Memorial Circle (QMC) Open Field...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/quezon-city-turns-parks-and-public-spaces-into-nature-based-flood-solutions/</guid>
+      <category>Media</category>
+      <category>Featured</category>
+      <category>Latest News</category>
+      <pubDate>Fri, 28 Aug 2026 07:55:25 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2024/08/press-release-banner.jpg" medium="image"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>
