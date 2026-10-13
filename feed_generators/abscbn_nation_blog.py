@@ -17,6 +17,11 @@ logger = logging.getLogger(__name__)
 BLOG_URL = "https://www.abs-cbn.com/news/nation"
 FEED_NAME = "abscbn_nation"
 IMAGE_BASE_URL = "https://od2-image-api.abs-cbn.com/prod"
+# The page only embeds the 5 top stories in __NEXT_DATA__; the rest of the
+# listing is loaded client-side from this API.
+API_URL = "https://od2-content-api.abs-cbn.com/prod/latest"
+API_LIMIT = 50
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 
 def get_project_root():
@@ -28,12 +33,25 @@ def get_cache_file():
 
 
 def fetch_page(url):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    }
-    response = requests.get(url, headers=headers, timeout=30)
+    response = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
     response.raise_for_status()
     return response.text
+
+
+def fetch_api_articles(limit=API_LIMIT):
+    """Fetch the latest articles from the content API the page itself uses."""
+    params = {
+        "sectionId": "nation",
+        "brand": "NEWS",
+        "partner": "imp-01",
+        "limit": limit,
+        "offset": 0,
+    }
+    response = requests.get(
+        API_URL, params=params, headers={"User-Agent": USER_AGENT}, timeout=30
+    )
+    response.raise_for_status()
+    return parse_list_items(response.json().get("listItem", []))
 
 
 def parse_articles(html):
@@ -58,6 +76,10 @@ def parse_articles(html):
         logger.error(f"Unexpected data structure: {e}")
         return []
 
+    return parse_list_items(list_items)
+
+
+def parse_list_items(list_items):
     articles = []
     for item in list_items:
         article_id = item.get("articleId") or item.get("_id", "")
@@ -96,7 +118,7 @@ def parse_articles(html):
             "image_mime": image_mime,
         })
 
-    logger.info(f"Parsed {len(articles)} articles from page")
+    logger.info(f"Parsed {len(articles)} articles")
     return articles
 
 
@@ -191,9 +213,14 @@ def save_rss_feed(feed_generator):
 
 def main():
     cache = load_cache()
-    html = fetch_page(BLOG_URL)
-    new_articles = parse_articles(html)
-    logger.info(f"Found {len(new_articles)} articles on page")
+    try:
+        new_articles = fetch_api_articles()
+    except (requests.RequestException, ValueError) as e:
+        logger.warning(f"Content API failed ({e}), falling back to page HTML")
+        new_articles = []
+    if not new_articles:
+        new_articles = parse_articles(fetch_page(BLOG_URL))
+    logger.info(f"Found {len(new_articles)} articles")
     posts = merge_articles(new_articles, cache["posts"])
     save_cache(posts)
     feed = generate_rss_feed(posts)
