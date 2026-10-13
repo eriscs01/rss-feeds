@@ -51,3 +51,31 @@ feeds:
     script: abscbn_factcheck_blog.py
     type: requests
     blog_url: https://www.abs-cbn.com/news/factcheck
+  manilabulletin_philippines:
+    script: manilabulletin_philippines_blog.py
+    type: requests
+    blog_url: https://mb.com.ph/category/philippines
+  manilabulletin_national:
+    script: manilabulletin_national_blog.py
+    type: requests
+    blog_url: https://mb.com.ph/category/national
+  manilabulletin_metro_manila:
+    script: manilabulletin_metro_manila_blog.py
+    type: requests
+    blog_url: https://mb.com.ph/category/metro-manila
+  manilabulletin_luzon:
+    script: manilabulletin_luzon_blog.py
+    type: requests
+    blog_url: https://mb.com.ph/category/luzon
+  manilabulletin_visayas:
+    script: manilabulletin_visayas_blog.py
+    type: requests
+    blog_url: https://mb.com.ph/category/visayas
+  manilabulletin_mindanao:
+    script: manilabulletin_mindanao_blog.py
+    type: requests
+    blog_url: https://mb.com.ph/category/mindanao
+  manilabulletin_world:
+    script: manilabulletin_world_blog.py
+    type: requests
+    blog_url: https://mb.com.ph/category/world

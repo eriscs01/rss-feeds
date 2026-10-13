@@ -15,6 +15,13 @@ Fork of [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds).
 | [ABS-CBN News Technology](https://www.abs-cbn.com/news/technology) | [feed_abscbn_technology.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_abscbn_technology.xml) |
 | [ABS-CBN News Weather & Traffic](https://www.abs-cbn.com/news/weather-traffic) | [feed_abscbn_weather_traffic.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_abscbn_weather_traffic.xml) |
 | [ABS-CBN News World](https://www.abs-cbn.com/news/world) | [feed_abscbn_world.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_abscbn_world.xml) |
+| [Manila Bulletin Luzon](https://mb.com.ph/category/luzon) | [feed_manilabulletin_luzon.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_luzon.xml) |
+| [Manila Bulletin Metro Manila](https://mb.com.ph/category/metro-manila) | [feed_manilabulletin_metro_manila.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_metro_manila.xml) |
+| [Manila Bulletin Mindanao](https://mb.com.ph/category/mindanao) | [feed_manilabulletin_mindanao.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_mindanao.xml) |
+| [Manila Bulletin National](https://mb.com.ph/category/national) | [feed_manilabulletin_national.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_national.xml) |
+| [Manila Bulletin Philippines](https://mb.com.ph/category/philippines) | [feed_manilabulletin_philippines.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_philippines.xml) |
+| [Manila Bulletin Visayas](https://mb.com.ph/category/visayas) | [feed_manilabulletin_visayas.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_visayas.xml) |
+| [Manila Bulletin World](https://mb.com.ph/category/world) | [feed_manilabulletin_world.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_manilabulletin_world.xml) |
 
 ## Development
 

@@ -72,6 +72,55 @@ feeds_abscbn_factcheck: ## Generate RSS feed for ABS-CBN News Fact Check
 	$(Q)uv run feed_generators/abscbn_factcheck_blog.py
 	$(call print_success,ABS-CBN News Fact Check feed generated)
 
+.PHONY: feeds_manilabulletin_philippines
+feeds_manilabulletin_philippines: ## Generate RSS feed for Manila Bulletin Philippines
+	$(call check_venv)
+	$(call print_info,Generating Manila Bulletin Philippines feed)
+	$(Q)uv run feed_generators/manilabulletin_philippines_blog.py
+	$(call print_success,Manila Bulletin Philippines feed generated)
+
+.PHONY: feeds_manilabulletin_national
+feeds_manilabulletin_national: ## Generate RSS feed for Manila Bulletin National
+	$(call check_venv)
+	$(call print_info,Generating Manila Bulletin National feed)
+	$(Q)uv run feed_generators/manilabulletin_national_blog.py
+	$(call print_success,Manila Bulletin National feed generated)
+
+.PHONY: feeds_manilabulletin_metro_manila
+feeds_manilabulletin_metro_manila: ## Generate RSS feed for Manila Bulletin Metro Manila
+	$(call check_venv)
+	$(call print_info,Generating Manila Bulletin Metro Manila feed)
+	$(Q)uv run feed_generators/manilabulletin_metro_manila_blog.py
+	$(call print_success,Manila Bulletin Metro Manila feed generated)
+
+.PHONY: feeds_manilabulletin_luzon
+feeds_manilabulletin_luzon: ## Generate RSS feed for Manila Bulletin Luzon
+	$(call check_venv)
+	$(call print_info,Generating Manila Bulletin Luzon feed)
+	$(Q)uv run feed_generators/manilabulletin_luzon_blog.py
+	$(call print_success,Manila Bulletin Luzon feed generated)
+
+.PHONY: feeds_manilabulletin_visayas
+feeds_manilabulletin_visayas: ## Generate RSS feed for Manila Bulletin Visayas
+	$(call check_venv)
+	$(call print_info,Generating Manila Bulletin Visayas feed)
+	$(Q)uv run feed_generators/manilabulletin_visayas_blog.py
+	$(call print_success,Manila Bulletin Visayas feed generated)
+
+.PHONY: feeds_manilabulletin_mindanao
+feeds_manilabulletin_mindanao: ## Generate RSS feed for Manila Bulletin Mindanao
+	$(call check_venv)
+	$(call print_info,Generating Manila Bulletin Mindanao feed)
+	$(Q)uv run feed_generators/manilabulletin_mindanao_blog.py
+	$(call print_success,Manila Bulletin Mindanao feed generated)
+
+.PHONY: feeds_manilabulletin_world
+feeds_manilabulletin_world: ## Generate RSS feed for Manila Bulletin World
+	$(call check_venv)
+	$(call print_info,Generating Manila Bulletin World feed)
+	$(Q)uv run feed_generators/manilabulletin_world_blog.py
+	$(call print_success,Manila Bulletin World feed generated)
+
 .PHONY: clean_feeds
 clean_feeds: ## Clean generated RSS feed files
 	$(call print_warning,Removing generated RSS feeds)
