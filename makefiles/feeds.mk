@@ -210,3 +210,10 @@ feeds_pasig_news: ## Generate RSS feed for Pasig City Government News and Releas
 	$(call print_info,Generating Pasig City Government News and Releases feed)
 	$(Q)uv run feed_generators/pasig_news_blog.py
 	$(call print_success,Pasig City Government News and Releases feed generated)
+
+.PHONY: feeds_pco_news_releases
+feeds_pco_news_releases: ## Generate RSS feed for Presidential Communications Office News Releases
+	$(call check_venv)
+	$(call print_info,Generating Presidential Communications Office News Releases feed)
+	$(Q)uv run feed_generators/pco_news_releases_blog.py
+	$(call print_success,Presidential Communications Office News Releases feed generated)

@@ -127,3 +127,7 @@ feeds:
     script: pasig_news_blog.py
     type: requests
     blog_url: https://pasigcity.gov.ph/news-and-releases
+  pco_news_releases:
+    script: pco_news_releases_blog.py
+    type: requests
+    blog_url: https://pco.gov.ph/news-releases/

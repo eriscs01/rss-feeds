@@ -44,6 +44,8 @@ class WordPressSite:
     placeholder_covers: tuple[str, ...] = ()
     # Strip markup, entities and the "The post ... appeared first on" line from feed excerpts.
     clean_excerpts: bool = True
+    # Text of the link to the post that the theme appends to each feed excerpt.
+    excerpt_more: str = ""
 
     def is_upload(self, url):
         return any(path in url for path in self.upload_paths)
@@ -51,7 +53,8 @@ class WordPressSite:
 
 def fetch_articles(feed_url, site):
     """Fetch the newest posts listed by a native WordPress RSS feed."""
-    xml = fetch_page(feed_url)
+    # Some sites emit whitespace before the XML declaration, which the parser rejects.
+    xml = fetch_page(feed_url).lstrip()
     articles = []
     seen = set()
     for item, post in zip(ET.fromstring(xml).findall("channel/item"), parse_rss(xml), strict=True):
@@ -63,7 +66,7 @@ def fetch_articles(feed_url, site):
         article = {
             "link": link,
             "title": plain_letters(post["title"]),
-            "description": _clean_excerpt(post["description"]) if site.clean_excerpts else post["description"],
+            "description": _clean_excerpt(post["description"], site) if site.clean_excerpts else post["description"],
             "date": post["date"],
             "categories": post["categories"],
         }
@@ -77,8 +80,12 @@ def fetch_articles(feed_url, site):
     return articles
 
 
-def _clean_excerpt(description):
+def _clean_excerpt(description, site):
     soup = BeautifulSoup(description, "html.parser")
+    if site.excerpt_more:
+        for more in soup.find_all("a"):
+            if more.get_text(strip=True) == site.excerpt_more:
+                more.decompose()
     for paragraph in soup.find_all("p"):
         if paragraph.find("a") and paragraph.get_text().startswith("The post "):
             paragraph.decompose()
