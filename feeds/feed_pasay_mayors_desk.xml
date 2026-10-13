@@ -8,12 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://pasay.gov.ph/wp-content/uploads/2026/01/pasay-city-logo-footer.svg</url>
+      <url>https://raw.githubusercontent.com/eriscs01/rss-feeds/main/assets/icons/pasay.png</url>
       <title>Pasay City Government Mayor's Desk</title>
       <link>https://pasay.gov.ph/category/mayors-desk/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 14:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:54:18 +0000</lastBuildDate>
     <item>
       <title>Pasay City’s economy grew by 5.5 percent, ranking as one of the fastest-growing highly urbanized cities in the National Capital Region (NCR)</title>
       <link>https://pasay.gov.ph/mayors-desk/pasay-citys-economy-grew-by-5-5-percent-ranking-as-one-of-the-fastest-growing-highly-urbanized-cities-in-the-national-capital-region-ncr/</link>

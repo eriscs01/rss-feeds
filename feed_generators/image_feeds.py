@@ -9,6 +9,7 @@ read the images of one article (``read_article``).
 
 import argparse
 import re
+import unicodedata
 from datetime import datetime
 from html import escape
 from urllib.parse import urljoin
@@ -34,6 +35,8 @@ logger = setup_logging()
 
 # WordPress serves resized copies as <name>-<width>x<height>.<ext>.
 SIZE_SUFFIX_RE = re.compile(r"-\d+x\d+(?=\.\w+$)")
+# The Mathematical Alphanumeric Symbols block: letters and digits in bold, italic and other styles.
+STYLED_LETTER_RE = re.compile("[\U0001d400-\U0001d7ff]+")
 # Newest entries kept in the cache and feed, so hourly runs do not grow them forever.
 MAX_ENTRIES = 200
 # Article pages fetched per run.
@@ -50,6 +53,14 @@ def manila_date(text, date_format):
 def original_image(url):
     """Identify an upload regardless of which resized copy a URL points at."""
     return SIZE_SUFFIX_RE.sub("", url)
+
+
+def plain_letters(text):
+    """Replace Unicode "styled" letters and digits (bold, italic, script...) with plain ones.
+
+    Editors paste these from social media posts to fake bold text in titles.
+    """
+    return STYLED_LETTER_RE.sub(lambda match: unicodedata.normalize("NFKC", match.group()), text)
 
 
 def clean_text(html):

@@ -8,12 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://pasay.gov.ph/wp-content/uploads/2026/01/pasay-city-logo-footer.svg</url>
+      <url>https://raw.githubusercontent.com/eriscs01/rss-feeds/main/assets/icons/pasay.png</url>
       <title>Pasay City Government PIO Advisory</title>
       <link>https://pasay.gov.ph/category/pio-advisory/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 14:36:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:54:17 +0000</lastBuildDate>
     <item>
       <title>STI PLANNING WORKSHOP SESSION 1</title>
       <link>https://pasay.gov.ph/pio-advisory/sti-planning-workshop-session-1/</link>

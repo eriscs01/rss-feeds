@@ -14,7 +14,7 @@ from xml.etree import ElementTree as ET
 
 from bs4 import BeautifulSoup
 
-from image_feeds import clean_text, collect_images, run_feed
+from image_feeds import clean_text, collect_images, plain_letters, run_feed
 from native_rss import parse_rss
 from utils import fetch_page, setup_logging
 
@@ -62,7 +62,7 @@ def fetch_articles(feed_url, site):
         seen.add(link)
         article = {
             "link": link,
-            "title": post["title"],
+            "title": plain_letters(post["title"]),
             "description": _clean_excerpt(post["description"]) if site.clean_excerpts else post["description"],
             "date": post["date"],
             "categories": post["categories"],
@@ -82,7 +82,7 @@ def _clean_excerpt(description):
     for paragraph in soup.find_all("p"):
         if paragraph.find("a") and paragraph.get_text().startswith("The post "):
             paragraph.decompose()
-    return clean_text(str(soup))
+    return plain_letters(clean_text(str(soup)))
 
 
 def _page_cover(soup):

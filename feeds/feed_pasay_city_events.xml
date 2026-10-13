@@ -8,12 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://pasay.gov.ph/wp-content/uploads/2026/01/pasay-city-logo-footer.svg</url>
+      <url>https://raw.githubusercontent.com/eriscs01/rss-feeds/main/assets/icons/pasay.png</url>
       <title>Pasay City Government City Events</title>
       <link>https://pasay.gov.ph/balita/city-events/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 14:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:54:19 +0000</lastBuildDate>
     <item>
       <title>PAMBANSANG ARAW NG MGA BAYANI</title>
       <link>https://pasay.gov.ph/events/pambansang-araw-ng-mga-bayani/</link>

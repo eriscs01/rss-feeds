@@ -10,7 +10,9 @@ import wordpress
 
 SITE = wordpress.WordPressSite(
     author="Pasay City Government",
-    logo_url="https://pasay.gov.ph/wp-content/uploads/2026/01/pasay-city-logo-footer.svg",
+    # The site's only icon is an SVG, which feed readers do not show, so the seal
+    # inside it is kept in this repository as a PNG.
+    logo_url="https://raw.githubusercontent.com/eriscs01/rss-feeds/main/assets/icons/pasay.png",
     placeholder_covers=("https://pasay.gov.ph/wp-content/uploads/2026/08/pasay-city-social.png",),
 )
 
