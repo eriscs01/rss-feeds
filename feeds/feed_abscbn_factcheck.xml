@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ABS-CBN News Fact Check</title>
+    <link>https://www.abs-cbn.com/news/factcheck</link>
+    <description>Latest fact checks from ABS-CBN</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_abscbn_factcheck.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://od2-image-api.abs-cbn.com/prod/newsfavicon.webp</url>
+      <title>ABS-CBN News Fact Check</title>
+      <link>https://www.abs-cbn.com/news/factcheck</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2026 12:07:34 +0000</lastBuildDate>
+    <item>
+      <title>FACT CHECK: Hindi totoong tuloy ang BSKE ngayong 2026</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/10/13/fact-check-hindi-totoong-tuloy-ang-bske-ngayong-2026-1610</link>
+      <description>Taliwas sa mga kumakalat na post sa social media, hindi totoong matutuloy sa November o gaganapin sa December ngayong taon ang Barangay at Sangguniang Kabataan Elections (BSKE) dahil ipinagpaliban ito at ginawang 2028 ang susunod na halalan.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/10/13/fact-check-hindi-totoong-tuloy-ang-bske-ngayong-2026-1610</guid>
+      <category>Nation</category>
+      <pubDate>Tue, 13 Oct 2026 08:10:03 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261013081036/ab83cfcb6b70924018ae071676e1a3f79a54ca01ad0e66dc53cc3b2ac3a91cd9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Hindi totoong aarestuhin ng AFP ang magkapatid na Tulfo</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/10/10/fact-check-hindi-totoong-aarestuhin-ng-afp-ang-makapatid-na-tulfo-1254</link>
+      <description>Taliwas sa sinasabi sa isang Facebook post, hindi totoong “handa[ng] arestuhin” ng Armed Forces of the Philippines (AFP) ang magkapatid na senador na sina Raffy at Erwin Tulfo kung sakaling maglabas ng warrant of arrest ang Korte Suprema.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/10/10/fact-check-hindi-totoong-aarestuhin-ng-afp-ang-makapatid-na-tulfo-1254</guid>
+      <category>Nation</category>
+      <pubDate>Sat, 10 Oct 2026 04:54:21 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261008101040/a5c2d8c39c762374689e52f15102c708b711fbd126118502a04e0972131f354e.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Mini fire trucks ng LGU, maling iniuugnay sa P10-M fire trucks na bibilhin ng gobyerno</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/10/8/fact-check-mini-fire-trucks-ng-lgu-maling-iniuugnay-sa-p10-m-fire-trucks-na-bibilhin-ng-gobyerno-1825</link>
+      <description>Hindi totoong ang mga “mini fire truck” o “fire trike” na makikita sa mga kumakalat na post sa social media ang mga fire truck na planong bilhin ng pamahalaan para sa Bureau of Fire Protection (BFP) sa halagang P10 milyon bawat isa.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/10/8/fact-check-mini-fire-trucks-ng-lgu-maling-iniuugnay-sa-p10-m-fire-trucks-na-bibilhin-ng-gobyerno-1825</guid>
+      <category>Nation</category>
+      <pubDate>Thu, 08 Oct 2026 10:25:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261008101052/8e6a102a99d03159dc5810dd7260b845a8c796cb6c055e6683236158a8f83e8f.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Lumang video, ginamit para palabasing nakabalik na si Rodante Marcoleta sa Senado</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/9/24/fact-check-lumang-video-ginamit-para-palabasing-nakabalik-na-si-rodante-marcoleta-sa-senado-1655</link>
+      <description>Hindi totoong nakabalik na sa Senado si Senator Rodante Marcoleta at nakalahok siya sa impeachment trial ni Vice President Sara Duterte, taliwas sa kumakalat online. Nananatili siyang nakadetine dahil sa nakabinbing kasong plunder laban sa kaniya.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/9/24/fact-check-lumang-video-ginamit-para-palabasing-nakabalik-na-si-rodante-marcoleta-sa-senado-1655</guid>
+      <category>Nation</category>
+      <pubDate>Thu, 24 Sep 2026 08:55:06 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924090940/394a0c27523f4083ae78713ca3803b5197338781e6a53177e10670bfc6e8d132.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: ‘Di sinabi ni ex-Chief Justice Reynato Puno na dapat 16-vote rule sa impeachment trial</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/9/18/fact-check-di-sinabi-ni-ex-chief-justice-reynato-puno-na-dapat-16-vote-rule-sa-impeachment-trial-1649</link>
+      <description>Kumalat ang isang pinutol na video ni dating Chief Justice Reynato Puno kung saan ipinalalabas na sinabi niyang kinakailangan ang 16 na senador para mahatulan ang isang akusado sa impeachment trial.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/9/18/fact-check-di-sinabi-ni-ex-chief-justice-reynato-puno-na-dapat-16-vote-rule-sa-impeachment-trial-1649</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 18 Sep 2026 08:49:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260918090924/3138077655b75779ed9e064c9dbe00143f0e91b7912fab6a7e86da28f40d8311.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Walang educational assistance, cash subsidy para sa may national ID sa UPLIFT Assistance</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/9/9/fact-check-walang-educational-assistance-cash-subsidy-para-sa-may-national-id-sa-uplift-assistance-1622</link>
+      <description>Walang ipinamamahaging educational assistance ang Department of Social Welfare and Development (DSWD) sa ilalim ng Unified Package for Livelihoods, Industry, Food, and Transport (UPLIFT) Assistance. Hindi rin totoong may cash subsidy para sa lahat ng may national ID sa ilalim ng programa.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/9/9/fact-check-walang-educational-assistance-cash-subsidy-para-sa-may-national-id-sa-uplift-assistance-1622</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 09 Sep 2026 08:22:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026090909094/0b9463790883e52043d2e69a24f297f7bd6b710cbce83935caaba13134f2f10a.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: ABS-CBN News art card tungkol sa reklamo laban sa Surigao del Norte solons, minanipula</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/9/2/fact-check-abs-cbn-news-art-card-tungkol-sa-reklamo-laban-sa-surigao-del-norte-solons-minanipula-1929</link>
+      <description>Minanipula ang inilabas na art card ng ABS-CBN News upang palabasing inirekomendang kasuhan ng Office of the Ombudsman ang kasalukuyan at dating congressman ng 2nd district ng Surigao del Norte kaugnay ng P80.61 milyong road project.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/9/2/fact-check-abs-cbn-news-art-card-tungkol-sa-reklamo-laban-sa-surigao-del-norte-solons-minanipula-1929</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 02 Sep 2026 11:29:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026090212090/79b204aa673dfb0a5e48b47f3b316237555d783c8cda85a30014c4862baedc0c.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Lumang pahayag ni Chel Diokno, maling iniuugnay sa kasalukuyang impeachment</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/8/27/fact-check-lumang-pahayag-ni-chel-diokno-maling-iniuugnay-sa-kasalukuyang-impeachment-1913</link>
+      <description>Muling inungkat ang dating pahayag ni Akbayan Partylist Rep. Chel Diokno tungkol sa umano’y suporta ng mga Pilipino sa impeachment ni Vice President Sara Duterte at maling iniuugnay sa kasalukuyang impeachment trial.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/8/27/fact-check-lumang-pahayag-ni-chel-diokno-maling-iniuugnay-sa-kasalukuyang-impeachment-1913</guid>
+      <category>Nation</category>
+      <pubDate>Thu, 27 Aug 2026 11:13:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026082712088/a40a2fabe3c43fb1323575270c387bd127c71f57ece2effebde85301e1305eb3.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Testigo, hindi totoong pinauwi dahil ‘walang kwenta’ ang kaniyang testimonya</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/8/19/fact-check-testigo-hindi-totoong-pinauwi-dahil-walang-kwenta-ang-kaniyang-testimonya-1634</link>
+      <description>Hindi totoong walang saysay ang sana’y testimonya ni House of Representatives Legislative Information Resources Management Department Director Marivic Pareja sa impeachment ni Vice President Sara Duterte kaya “pinauwi” ng korte noong Lunes, August 17, 2026.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/8/19/fact-check-testigo-hindi-totoong-pinauwi-dahil-walang-kwenta-ang-kaniyang-testimonya-1634</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 19 Aug 2026 08:34:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260819090816/38cfc44a3a81fc454b65e7411397a2e090adca1daa5180507e53b7a2f1527919.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Hindi tuluyang nakalaya si ex-Senator Bong Revilla</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/8/14/fact-check-hindi-tuluyang-nakalaya-si-ex-senator-bong-revilla-1916</link>
+      <description>Pansamantala pa lamang nakalaya si dating Senator Ramon “Bong” Revilla sa mga kasong ikinahaharap niya kaugnay ng umano’y ghost flood control project sa Bulacan, taliwas sa ipinalalabas ng isang Facebook post na tila tuluyan na siyang napawalang-sala.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/8/14/fact-check-hindi-tuluyang-nakalaya-si-ex-senator-bong-revilla-1916</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 14 Aug 2026 11:16:58 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260814120816/9e9d0654cb2c4a0e7acfd43c9871900701e43ca7da5d7bb59b0172995a710741.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Hindi totoong ililibing ang isang vlogger sa Libingan ng mga Bayani</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/8/6/fact-check-hindi-totoong-ililibing-ang-isang-vlogger-sa-libingan-ng-mga-bayani-1638</link>
+      <description>Batay sa mga patakarang nagpapatakbo sa Libingan ng mga Bayani , hindi nabibilang sa mga pinapayagang ilibing dito si Mima Alicia, ang screen name ng vlogger na si Alicia Lipata na pinaslang noong July 17, 2026.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/8/6/fact-check-hindi-totoong-ililibing-ang-isang-vlogger-sa-libingan-ng-mga-bayani-1638</guid>
+      <category>Nation</category>
+      <pubDate>Thu, 06 Aug 2026 08:38:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026080609088/46031de7cae8deaa5d6a123f5c1f868ca22940366ab98e0a3d5601eddb7afca5.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Spliced video ni Chel Diokno, kumalat nang ibahagi ni Sen. Pia Cayetano</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/7/28/fact-check-spliced-video-ni-chel-diokno-kumalat-nang-ibahagi-ni-sen-pia-cayetano-2001</link>
+      <description>Noong nakaraang linggo, kumalat ang spliced, o pinutol-putol, na video kung saan nagmukhang sinabi ni Akbayan Rep. Chel Diokno na “nagbabakasakali” lamang at walang sapat na ebidensiya ang prosekusyon sa kanilang impeachment complaint laban kay Vice President Sara Duterte.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/7/28/fact-check-spliced-video-ni-chel-diokno-kumalat-nang-ibahagi-ni-sen-pia-cayetano-2001</guid>
+      <category>Nation</category>
+      <pubDate>Tue, 28 Jul 2026 12:01:43 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260728120728/d4b131bf03e8d39ec4aa401bfc9be493bad4c21bde55a6b31d526ac5ea3fe156.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Walang dagdag na gastos ang Senado sa impeachment trial</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/7/24/fact-check-walang-dagdag-na-gastos-ang-senado-sa-impeachment-trial-1836</link>
+      <description>Binago ang konteksto ng pahayag ni Senate President Sherwin Gatchalian tungkol sa P25 milyon na arawang gastusin ng Senado sa isang kumakalat na post online.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/7/24/fact-check-walang-dagdag-na-gastos-ang-senado-sa-impeachment-trial-1836</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 24 Jul 2026 10:36:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026072411078/1953992281d0c24bc0d2afe6fbcee249ea0b84fe26e0eab8bd57b62927baab4a.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Hindi sinabi ni NBI chief Melvin Matibag na ipakukulong niya si Sen. Alan Peter Cayetano</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/7/16/fact-check-di-sinabi-ni-nbi-chief-melvin-matibag-na-ipakukulong-niya-si-sen-alan-peter-cayetano-2036</link>
+      <description>Totoong sinabi ni National Bureau of Investigation (NBI) Director Melvin Matibag na magsasagawa sila ng imbestigasyon tungkol sa umano’y iregularidad sa mga proyekto para sa Southeast Asian (SEA) Games na idinaos sa Pilipinas noong 2019.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/7/16/fact-check-di-sinabi-ni-nbi-chief-melvin-matibag-na-ipakukulong-niya-si-sen-alan-peter-cayetano-2036</guid>
+      <category>Nation</category>
+      <pubDate>Thu, 16 Jul 2026 12:36:39 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260716120748/596a6344f92e9a9526ae442647836d07f47bbfa4796051eb733f867b924c3d0e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Walang ibinasurang kasong plunder ang Ombudsman laban kay Leyte Rep. Martin Romualdez</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/7/8/fact-check-walang-ibinasurang-kasong-plunder-ang-ombudsman-laban-kay-leyte-rep-martin-romualdez-1857</link>
+      <description>Taliwas sa kumakalat na post sa social media, walang ibinasurang kasong plunder, o pandarambong, ang Office of the Ombudsman laban kay Leyte 1st District Rep. Martin Romualdez.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/7/8/fact-check-walang-ibinasurang-kasong-plunder-ang-ombudsman-laban-kay-leyte-rep-martin-romualdez-1857</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 08 Jul 2026 10:57:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260708110728/587ebf5db1e42296ecec7a3a5affc8b0db724de0d43258bd5cfefe10024e744a.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Larawan ng Trillion Peso March noong 2025, ipinalabas na kuha sa INC rally</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/7/3/fact-check-larawan-ng-trillion-peso-march-noong-2025-ipinalabas-na-kuha-sa-inc-rally-1620</link>
+      <description>Hindi kuha sa rally na isinagawa ng mga miyembro ng Iglesia Ni Cristo, o INC, noong July 1, 2026 ang larawan na kumakalat sa social media. Sa pagsusuri ng ABS-CBN Fact Check, lumabas na ang larawan ay mula pa sa Trillion Peso March na isinagawa noong September 21, 2025.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/7/3/fact-check-larawan-ng-trillion-peso-march-noong-2025-ipinalabas-na-kuha-sa-inc-rally-1620</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 03 Jul 2026 08:20:12 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260703080748/0c81a95380dcab6041beaa9e28754a133e1a092571fba95951e137272c3fda11.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Peke ang ABS-CBN News quote card ni Rep. Lordan Suan tungkol sa Tacloban shooting</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/6/26/fact-check-peke-ang-abs-cbn-news-quote-card-ni-rep-lordan-suan-tungkol-sa-tacloban-shooting-1951</link>
+      <description>Ginaya ang disenyo ng art card ng ABS-CBN News upang palabasing inilathala nito ang diumano’y pahayag ni Cagayan de Oro 1st District Representative Lordan na inosente ang mga batang sangkot sa pamamaril sa Tacloban City, Leyte noong June 22, 2026.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/6/26/fact-check-peke-ang-abs-cbn-news-quote-card-ni-rep-lordan-suan-tungkol-sa-tacloban-shooting-1951</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 26 Jun 2026 11:51:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260626110624/bc63ba6c1c39fb3bd3637642400d020e20c525529e4d44af20ff0fe48887c8ab.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Walang anunsiyo ang DepEd na tatanggalin ang Grade 11 at Grade 12</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/6/16/fact-check-walang-anunsiyo-ang-deped-na-tatanggalin-ang-grade-11-at-grade-12-1710</link>
+      <description>Pinabulaanan ng Department of Education (DepEd) ang mga kumakalat na post online na nagsasabing aalisin na diumano ang Grade 11 at Grade 12 simula July 2026 para sa School Year 2026-2027.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/6/16/fact-check-walang-anunsiyo-ang-deped-na-tatanggalin-ang-grade-11-at-grade-12-1710</guid>
+      <category>Nation</category>
+      <pubDate>Tue, 16 Jun 2026 09:10:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260616090656/9ffb7ff4e5bc8d4a9a7f2c4081fee1208882af8292b892fd33f477b0dc29caac.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Mga lumang video ng lindol muling ipinakalat at iniugnay sa Sarangani quake</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/6/10/fact-check-mga-lumang-video-ng-lindol-muling-ipinakalat-at-iniugnay-sa-sarangani-quake-1815</link>
+      <description>Kumakalat sa social media ang ilang video na ipinalalabas na kuha umano sa magnitude 7.8 na lindol na tumama sa baybayin ng Sarangani at naramdaman sa ilang parte ng Mindanao noong June 8, 2026.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/6/10/fact-check-mga-lumang-video-ng-lindol-muling-ipinakalat-at-iniugnay-sa-sarangani-quake-1815</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 10 Jun 2026 10:15:55 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260610100644/a23d92d44ff421e51655bacf3f795197ef3ec4304a689f063457295d14dab9bc.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: ‘Di sinabi ni ICC Judge Joanna Korner na hindi dapat makulong si Rodrigo Duterte</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/6/2/fact-check-di-sinabi-ni-icc-judge-joanna-korner-na-hindi-dapat-makulong-si-rodrigo-duterte-1825</link>
+      <description>Taliwas sa kumakalat sa social media, walang inilabas na pahayag si International Criminal Court (ICC) Trial Chamber III Judge Joanna Korner na nagsasabing hindi dapat makulong si dating Pangulong Rodrigo Duterte dahil umano’y walang hurisdiksyon ang ICC sa Pilipinas.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/6/2/fact-check-di-sinabi-ni-icc-judge-joanna-korner-na-hindi-dapat-makulong-si-rodrigo-duterte-1825</guid>
+      <category>Nation</category>
+      <pubDate>Tue, 02 Jun 2026 10:25:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026060211068/ce2638d5ff7f6bbaa367d3f9499fae8e9a8a0905e84eb492be773e72095e6da6.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Hindi online voting ang panukala noon para kay Leila de Lima</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/5/29/fact-check-hindi-online-voting-ang-panukala-noon-para-kay-leila-de-lima-2231</link>
+      <description>May pagkakaiba ang panukalang remote participation na inihain ni Sen. Rodante Marcoleta noong May 11, 2026 sa mga resolusyong isinulong noon para kay dating Sen. Leila de Lima.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/5/29/fact-check-hindi-online-voting-ang-panukala-noon-para-kay-leila-de-lima-2231</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 29 May 2026 14:31:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260529130552/71992f7ad832999ff01003fb7a3a8a86c2edccde87f06e9dbda62314aa2ba030.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Wala pang itinatalaga ang Senado na chairperson ng Agri Committee</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/5/21/fact-check-wala-pang-itinatalaga-ang-senado-na-chairperson-ng-agri-committee-1602</link>
+      <description>Hindi pa nagtatalaga ang Senado ng bagong chairperson para sa Committee on Agriculture, Food, and Agrarian Reform. Sa ngayon, May 21, 2026, nananatiling bakante ang naturang posisyon at wala pang opisyal na anunsyo kung sino ang mamumuno rito.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/5/21/fact-check-wala-pang-itinatalaga-ang-senado-na-chairperson-ng-agri-committee-1602</guid>
+      <category>Nation</category>
+      <pubDate>Thu, 21 May 2026 08:02:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260521080548/f08adf6dc21b61e0b6a54035435a434315e0c21a971ecaaf58eceb84658638f2.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: 'Di sinabi ni Sotto na kahihiyan ang pagtanggal sa kaniya bilang Senate President</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/5/13/fact-check-di-sinabi-ni-sotto-na-kahihiyan-ang-pagtanggal-sa-kaniya-bilang-senate-president-2235</link>
+      <description>Hindi totoong sinabi ni Senator Vicente “Tito” Sotto III na “nakakahiya sa taong bayan” ang pagkakatanggal sa kanya bilang Senate President noong May 11, 2026.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/5/13/fact-check-di-sinabi-ni-sotto-na-kahihiyan-ang-pagtanggal-sa-kaniya-bilang-senate-president-2235</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 13 May 2026 14:35:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260513140556/28c2469390104ee3cc09c99dd69e720124d60c0de9c093ac36980dbecde45b06.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Hindi namigay ng air conditioner ang DSWD sa mga benepisyaryo ng 4Ps</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/5/6/fact-check-hindi-namigay-ng-air-conditioner-ang-dswd-sa-mga-benepisyaryo-ng-4ps-1837</link>
+      <description>Taliwas sa kumakalat sa social media, hindi totoo na namahagi ng libreng air conditioner ang Department of Social Welfare and Development (DSWD) sa mga benepisyaryo ng Pantawid Pamilyang Pilipino Program o 4Ps.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/5/6/fact-check-hindi-namigay-ng-air-conditioner-ang-dswd-sa-mga-benepisyaryo-ng-4ps-1837</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 06 May 2026 10:37:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260506110520/3b2595d044f3a50a8826ec4d363db5a3d78a023c74333a4a2e5a5dadf9cadc14.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: AI-generated ang diumano’y larawan ng pag-aresto kay Zaldy Co sa Czech Republic</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/4/21/fact-check-ai-generated-ang-diumano-y-larawan-ng-pag-aresto-kay-zaldy-co-sa-czech-republic-2105</link>
+      <description>Taliwas sa kumakalat sa social media, hindi totoo at gawa ng artificial intelligence, o AI, ang kumakalat na diumano’y larawan ng pag-aresto kay dating Ako-Bicol Partylist Representative Elizaldy “Zaldy” Co sa Prague, Czech Republic.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/4/21/fact-check-ai-generated-ang-diumano-y-larawan-ng-pag-aresto-kay-zaldy-co-sa-czech-republic-2105</guid>
+      <category>Nation</category>
+      <pubDate>Tue, 21 Apr 2026 13:05:29 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260421130416/5e757b1c6f4310173b24db4d278f48a9484cb41396acc35159d379ba35e470d0.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: ABS-CBN News, ipinalalabas na nagmanipula ng lumang larawan sa posts nito</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/4/9/fact-check-abs-cbn-news-ipinalalabas-na-nagmanipula-ng-lumang-larawan-sa-posts-nito-2005</link>
+      <description>Minanipula ang kumakalat na screenshots ng social media posts ng ABS-CBN News upang pagmukhaing gumamit at nagmanipula ito ng lumang larawan nang iulat nito ang pagtanggi ni President Ferdinand Marcos Jr. sa mga balitang may iniinda siyang karamdaman.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/4/9/fact-check-abs-cbn-news-ipinalalabas-na-nagmanipula-ng-lumang-larawan-sa-posts-nito-2005</guid>
+      <category>Nation</category>
+      <pubDate>Thu, 09 Apr 2026 12:05:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260409120420/69c07863d1e70908dbf5b3a1ef0782f510813b10156a0a0f4ba6283065408fb5.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Walang ‘energy lockdown’ dahil sa umano’y krisis sa suplay ng kuryente</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/4/1/fact-check-walang-energy-lockdown-dahil-sa-umano-y-krisis-sa-suplay-ng-kuryente-1652</link>
+      <description>Taliwas sa kumakalat sa social media, walang inanunsyong “energy lockdown” sa Pilipinas dahil sa diumano’y kakulangan ng suplay ng kuryente. Nauna na itong pinabulaanan ng Malacañang at iginiit na walang dapat ikabahala ang publiko.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/4/1/fact-check-walang-energy-lockdown-dahil-sa-umano-y-krisis-sa-suplay-ng-kuryente-1652</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 01 Apr 2026 08:52:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260401090440/6102b2b70ff5fde007982ad6707761a75d1399092acdcde276d6c7677f83a040.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Walang pahayag si Jeff Canoy na sumusuporta, nananawagang iboto si VP Sara Duterte</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/3/26/fact-check-walang-pahayag-si-jeff-canoy-na-sumusuporta-nananawagang-iboto-si-vp-sara-duterte-2038</link>
+      <description>Pinabulaanan ni ABS-CBN News anchor Jeff Canoy ang kumakalat sa social media na diumano’y pahayag niya na sumusuporta at nananawagang iboto si Bise Presidente Sara Duterte.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/3/26/fact-check-walang-pahayag-si-jeff-canoy-na-sumusuporta-nananawagang-iboto-si-vp-sara-duterte-2038</guid>
+      <category>Nation</category>
+      <pubDate>Thu, 26 Mar 2026 12:38:06 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260326120316/9db4c9a7e9407ad87e8f3c1cfecb3f140ccab6893d63a8596554f2d234219177.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pahayag ng ABS-CBN sa mga fake social media post laban kay Karen Davila</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/3/24/fact-check-abs-cbn-karen-davila-idinadawit-sa-isyu-ng-flood-control-2331</link>
+      <description>Kinundena ng pamunuan ng ABS-CBN News ang mga pekeng social media post laban sa news anchor na si Karen Davila.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/3/24/fact-check-abs-cbn-karen-davila-idinadawit-sa-isyu-ng-flood-control-2331</guid>
+      <category>Nation</category>
+      <pubDate>Tue, 24 Mar 2026 15:31:32 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260325020340/505734b6ae244c6b81b5243164a9dd8c09f38bb099acc12db5afc9d5d2f05edf.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Walang ulat ang TV PATROL na espiya ng Tsina si VP Sara Duterte</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/3/20/fact-check-walang-ulat-ang-tv-patrol-na-espiya-ng-tsina-si-vp-sara-duterte-1524</link>
+      <description>Sa isang post sa social media, nilapatan ng katagang “SPY NG CHINA?” ang screenshot ng ulat tungkol sa impeachment proceedings ni Bise Presidente Sara Duterte sa programang TV Patrol ng ABS-CBN News.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/3/20/fact-check-walang-ulat-ang-tv-patrol-na-espiya-ng-tsina-si-vp-sara-duterte-1524</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 20 Mar 2026 07:24:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260320060336/a27cc41f5b9b8e3ee3df290eaea88ff65c057afc6d33ffed62681d821168e24b.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Walang basehan ang umano’y malawakang brownout dahil sa oil crisis</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/3/18/fact-check-walang-basehan-ang-umano-y-malawakang-brownout-dahil-sa-oil-crisis-1807</link>
+      <description>Taliwas sa kumakalat online, walang anunsiyo mula sa anumang ahensya ng gobyerno na magkakaroon ng malawakang brownout sa bansa dahil sa kakulangan ng suplay ng petrolyo ng Pilipinas.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/3/18/fact-check-walang-basehan-ang-umano-y-malawakang-brownout-dahil-sa-oil-crisis-1807</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 18 Mar 2026 10:07:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260318090344/97c4f921c38c19bce569624787e883dc62d127b79d2577e3f98766d545af1231.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Hindi ibinasura ang impeachment case laban kay VP Sara Duterte</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/3/13/fact-check-hindi-ibinasura-ang-impeachment-case-laban-kay-vp-sara-duterte-1840</link>
+      <description>Patuloy pa ang proseso ng impeachment case ni Bise Presidente Sara Duterte sa Kamara, taliwas sa kumakalat sa social media na diumano’y ibinasura na ito.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/3/13/fact-check-hindi-ibinasura-ang-impeachment-case-laban-kay-vp-sara-duterte-1840</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 13 Mar 2026 10:40:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260313100324/b282af8cfc13db3db26f756a15b2cddac9e86920dc9b0ba8ceeb2080546aab07.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Hindi suspendido ang klase, trabaho sa Pilipinas dahil sa giyera sa Middle East</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/3/5/fact-check-hindi-suspendido-ang-klase-trabaho-sa-pilipinas-dahil-sa-giyera-sa-middle-east-1835</link>
+      <description>Walang inanunsyong suspensyon ng klase at trabaho sa anumang bahagi ng Pilipinas mula Marso 4 hanggang Marso 6, 2026 dahil sa diumano’y posibleng pag-atake ng Iran, taliwas sa kumakalat sa social media.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/3/5/fact-check-hindi-suspendido-ang-klase-trabaho-sa-pilipinas-dahil-sa-giyera-sa-middle-east-1835</guid>
+      <category>Nation</category>
+      <pubDate>Thu, 05 Mar 2026 10:35:52 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260305100332/e3be399ddb688acc61ae7a679b9fc967e8d642f088062180088581913a3ed537.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: ICC at kaanak, abogado ng EJK victims target ng maling impormasyon</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/3/2/fact-check-icc-at-kaanak-abogado-ng-ejk-victims-target-ng-maling-impormasyon-1709</link>
+      <description>Kumalat sa social media ang mga manipuladong larawan at maling naratibo tungkol sa kaso ni dating Pangulong Rodrigo Duterte sa International Criminal Court (ICC).</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/3/2/fact-check-icc-at-kaanak-abogado-ng-ejk-victims-target-ng-maling-impormasyon-1709</guid>
+      <category>Nation</category>
+      <pubDate>Mon, 02 Mar 2026 09:09:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026030209038/4d4d6ab8c5af835160d580e5b7b70e76e43b1c88385c568b21561c5671d680ec.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Kaanak ng drug war victims pinalabas na may bitbit na mamahaling bag</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/2/25/fact-check-kaanak-ng-drug-war-victims-pinalabas-na-may-bitbit-na-mamahaling-bag-1753</link>
+      <description>Manipulado ang kumakalat na larawan ng mga kaanak at taga-suporta ng mga biktima ng extrajudicial killings na nagpapakitang may bitbit silang mga mamahaling bag habang nasa The Hague, the Netherlands.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/2/25/fact-check-kaanak-ng-drug-war-victims-pinalabas-na-may-bitbit-na-mamahaling-bag-1753</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 25 Feb 2026 09:53:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260225090220/18ca9d35ccbe67562164af2f2f0460aaed9a37757bbb267348c9ee5fb3228492.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Hindi totoong maaaring malaman kung kailan o saan tatama ang lindol</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/1/21/fact-check-hindi-totoong-maaaring-malaman-kung-kailan-o-saan-tatama-ang-lindol-1957</link>
+      <description>Hindi maaaring matantiya kung kalian at saan tatama ang isang malakas na lindol, taliwas sa ipinalalabas sa isang kumakalat na Facebook post.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/1/21/fact-check-hindi-totoong-maaaring-malaman-kung-kailan-o-saan-tatama-ang-lindol-1957</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 21 Jan 2026 11:57:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026012111014/3f4fb2dcbccce993ff5a3c40a771690435495251cf25b0ef2916847116653187.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Hindi nagkasagutan sina Elon Musk at Karen Davila sa X</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/12/31/fact-check-hindi-nagkasagutan-sina-elon-musk-at-karen-davila-sa-x-1927</link>
+      <description>Taliwas sa sinasabi sa Facebook post, walang mainit na palitan ng mensahe sa pagitan ni billionaire Elon Musk at ABS-CBN News anchor Karen Davila tungkol kay Alex Eala sa social media platform na X noong December 28, 2025.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/12/31/fact-check-hindi-nagkasagutan-sina-elon-musk-at-karen-davila-sa-x-1927</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 31 Dec 2025 11:27:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20251231111216/874127bd2dfd9d6128f0043890835d511f2c235852611dc607acf05298f68edf.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Pekeng 'ABS-CBN News' site, iniugnay si Juan Ponce Enrile sa investment platform</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/12/8/fact-check-pekeng-abs-cbn-news-site-iniugnay-si-juan-ponce-enrile-sa-investment-platform-2241</link>
+      <description>Sinasabi sa isang ulat ng nagpapanggap na ABS-CBN News website na diumano’y nag-iwan ang yumaong si Senador Juan Ponce Enrile ng bilyun-bilyong piso.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/12/8/fact-check-pekeng-abs-cbn-news-site-iniugnay-si-juan-ponce-enrile-sa-investment-platform-2241</guid>
+      <category>Nation</category>
+      <pubDate>Mon, 08 Dec 2025 14:41:55 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20251208141240/92de90e8860313587e3281e0e710fcdf4f4840686cbc0fc1ed281bf84d34120b.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: AI-generated ang kumakalat na bidyo ng pagputok ng Bulkang Taal</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/10/30/fact-check-ai-generated-ang-kumakalat-na-bidyo-ng-pagputok-ng-bulkang-taal-1604</link>
+      <description>Hindi totoong kuha sa pagputok ng Bulkang Taal noong Oktubre 26, 2025 at gawa ng artificial intelligence, o AI, ang bidyo sa TikTok na iniuugnay sa nasabing pangyayari.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/10/30/fact-check-ai-generated-ang-kumakalat-na-bidyo-ng-pagputok-ng-bulkang-taal-1604</guid>
+      <category>Nation</category>
+      <pubDate>Thu, 30 Oct 2025 08:04:25 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20251030071044/e9122b19d891bb89dc2787a31649fada583fd20c2ee68803d2a06488355408fb.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Tapos na ang pagpapatupad ng Unconditional Cash Transfer ng DSWD</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/10/24/fact-check-tapos-na-ang-pagpapatupad-ng-unconditional-cash-transfer-ng-dswd-1511</link>
+      <description>Taliwas sa kumakalat sa social media, walang ilalabas na payout para sa Unconditional Cash Transfer (UCT) program ang Department of Social Welfare and Development (DSWD) dahil hindi na ito ipinatutupad.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/10/24/fact-check-tapos-na-ang-pagpapatupad-ng-unconditional-cash-transfer-ng-dswd-1511</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 24 Oct 2025 07:11:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2025102308104/6a5aa3aa0aaa9b7a8b0e36291c0789ba0bd18144a6f0800fa8cab75f35e52817.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Trillion Peso March video, ipinalabas na kuha sa anti-Marcos rally sa Makati City</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/10/20/fact-check-trillion-peso-march-video-ipinalabas-na-kuha-sa-anti-marcos-rally-sa-makati-city-2209</link>
+      <description>Ginamit ang isang bidyo ng Trillion Peso March noong Setyembre 21 upang palabasing kuha diumano ito sa isang protesta sa labas ng isang executive village sa Makati City noong Oktubre 12.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/10/20/fact-check-trillion-peso-march-video-ipinalabas-na-kuha-sa-anti-marcos-rally-sa-makati-city-2209</guid>
+      <category>Nation</category>
+      <pubDate>Mon, 20 Oct 2025 14:09:39 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20251020141040/6c50ced4c1704222889e5c1f6160ab38be55c418bf05d0f90c9604560ee9b75a.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Hindi totoong si Sen. Lito Lapid ang bagong chairman ng Senate Blue Ribbon Committee</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/10/17/fact-check-hindi-totoong-si-sen-lito-lapid-ang-bagong-chairman-ng-senate-blue-ribbon-committee-1306</link>
+      <description>Hindi totoo na si Senator Manuel “Lito” Lapid ang itinalagang bagong chairman ng Senate Blue Ribbon Committee, taliwas sa mga kumakalat na video sa social media.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/10/17/fact-check-hindi-totoong-si-sen-lito-lapid-ang-bagong-chairman-ng-senate-blue-ribbon-committee-1306</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 17 Oct 2025 05:06:55 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20251017051032/fbe55b4267d4fb6f84f4bd65e740d83eefd482cd0cd931c76a2b2cc903b8dacb.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Sarah Discaya, ‘di sinabing ginawa silang panakip butas ng mga politiko</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/10/8/fact-check-sarah-discaya-di-sinabing-ginawa-silang-panakip-butas-ng-mga-politiko-2206</link>
+      <description>Ginamitan ng artificial intelligence, o AI, ang isang video ng government contractor na si Sarah Discaya upang palabasing sinabi niyang ginagawa ng mga pulitiko ang mga kontratista na panakip butas sa isyu ng maanomalyang flood control projects.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/10/8/fact-check-sarah-discaya-di-sinabing-ginawa-silang-panakip-butas-ng-mga-politiko-2206</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 08 Oct 2025 14:06:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20251008131036/898b87aa1fb1ac13a540ecd4f576bc372a3f280ccfd2fe29ab061435fb540f60.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Lumang bidyo ng Oakwood Mutiny iniuugnay sa flood control issue</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/10/3/fact-check-lumang-bidyo-ng-oakwood-mutiny-iniuugnay-sa-flood-control-issue-1551</link>
+      <description>Ginamit ang lumang bidyo ng Oakwood Mutiny noong Hulyo 2003 upang pagmukhaing tila nagbibigay ng pahayag ang militar tungkol sa isyu ng mga maanomalyang flood control project ng Department of Public Works and Highways.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/10/3/fact-check-lumang-bidyo-ng-oakwood-mutiny-iniuugnay-sa-flood-control-issue-1551</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 03 Oct 2025 07:51:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20251003071048/950385e08c2517f9cd405bbca67fc846ce40439f35bca4e74f52fae1b30810e9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Walang pahayag si Noli De Castro na sumusuporta sa drug war ni Duterte</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/9/30/fact-check-walang-pahayag-si-noli-de-castro-na-sumusuporta-sa-drug-war-ni-duterte-1644</link>
+      <description>Ginamit si ABS-CBN News anchor Noli ‘Kabayan’ De Castro sa isang clickbait post na nagsasabing dinedepensahan diumano niya ang madugong giyera kontra droga ni dating Pangulong Rodrigo Duterte.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/9/30/fact-check-walang-pahayag-si-noli-de-castro-na-sumusuporta-sa-drug-war-ni-duterte-1644</guid>
+      <category>Nation</category>
+      <pubDate>Tue, 30 Sep 2025 08:44:59 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20250930090944/64a81233cd35dca857d8434f122a55c8056a7e038aad7f387e9f4301807a5654.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Luma at AI-generated videos ng diumano’y September 21 rally nagkalat</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/9/26/fact-check-luma-at-ai-generated-videos-ng-diumano-y-september-21-rally-nagkalat-2140</link>
+      <description>Nagkalat sa social media ang mga bidyo na luma o kaya nama’y gawa ng artificial intelligence (AI), na mga kuha diumano sa kilos-protesta kontra korapsyan na ginanap noong Setyembre 21, 2025.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/9/26/fact-check-luma-at-ai-generated-videos-ng-diumano-y-september-21-rally-nagkalat-2140</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 26 Sep 2025 13:40:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2025092614098/1efa28b2dcee1fe0f4c83678c12bba62f50fc5d70b63defc781a0599f61fa049.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Walang bagong polisiya sa pag-angkas sa motorsiklo at tricycle</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2025/9/2/fact-check-walang-bagong-polisiya-sa-pag-angkas-sa-motorsiklo-at-tricycle-1652</link>
+      <description>Nilikha gamit ang artificial intelligence (AI), o AI-generated, ang kumakalat na mga bidyo online tungkol sa diumano’y mga bagong polisiya sa pag-angkas sa motorsiklo at tricycle na ipatutupad diumano sa Setyembre 2025.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2025/9/2/fact-check-walang-bagong-polisiya-sa-pag-angkas-sa-motorsiklo-at-tricycle-1652</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 02 Sep 2025 08:52:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20250902090932/3e550ceaffd37995a07210d1361361231dd88380a3582895feebe4214cfe4dea.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Luma ang balitang pasado sa Kamara ang P200 dagdag-sahod</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/8/21/fact-check-luma-ang-balitang-pasado-sa-kamara-ang-p200-dagdag-sahod-1911</link>
+      <description>Bagama’t totoong pumasa sa House of Representatives ang panukalang batas na magdadagdag ng P200 sa arawang sahod ng mga manggagawa, nangyari ito noon pang Hunyo 4, 2025 sa ilalim ng ika-19 na Kongreso.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/8/21/fact-check-luma-ang-balitang-pasado-sa-kamara-ang-p200-dagdag-sahod-1911</guid>
+      <category>Nation</category>
+      <pubDate>Thu, 21 Aug 2025 11:11:56 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2025082112080/8e30e6650fc230934fed2a72bee0d72d9c5fef709da8e0757600631ac20768af.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: Walang binagong tono sa Lupang Hinirang sa isang Senate session</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/8/6/fact-check-walang-binagong-tono-sa-lupang-hinirang-sa-isang-senate-session-1932</link>
+      <description>Taliwas sa ipinalalabas sa isang Tiktok video, hindi binago ang tono ng Lupang Hinirang at technical difficulty ang dahilan kaya iba ang himig na maririnig sa livestream ng Senate plenary session noong Agosto 4, 2025.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/8/6/fact-check-walang-binagong-tono-sa-lupang-hinirang-sa-isang-senate-session-1932</guid>
+      <category>Nation</category>
+      <pubDate>Wed, 06 Aug 2025 11:32:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20250806120820/bfb9c9dbe1ccbda31fe4cace3aecce0b92dbdfbaf659fbc1996d74f5b097b60b.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FACT CHECK: ABS-CBN News ginamit sa pekeng artikulo tungkol sa investment platform</title>
+      <link>https://www.abs-cbn.com/news/nation/2025/8/5/fact-check-abs-cbn-news-ginamit-sa-pekeng-artikulo-tungkol-sa-investment-platform-2246</link>
+      <description>Walang news report at art card ang ABS-CBN News tungkol sa pagbubunyag diumano ni investigative journalist Malou Mangahas tungkol sa kanyang natuklasang investment platform na nag-aalok ng malaking kita.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2025/8/5/fact-check-abs-cbn-news-ginamit-sa-pekeng-artikulo-tungkol-sa-investment-platform-2246</guid>
+      <category>Nation</category>
+      <pubDate>Tue, 05 Aug 2025 14:46:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20250805150812/9864482d77b8d4eeb4b49743c4ae96bb3c1cdd9857ec5021feb675b88110ce44.png" medium="image"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>

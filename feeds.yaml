@@ -19,3 +19,35 @@ feeds:
     script: abscbn_nation_blog.py
     type: requests
     blog_url: https://www.abs-cbn.com/news/nation
+  abscbn_regions:
+    script: abscbn_regions_blog.py
+    type: requests
+    blog_url: https://www.abs-cbn.com/news/regions
+  abscbn_world:
+    script: abscbn_world_blog.py
+    type: requests
+    blog_url: https://www.abs-cbn.com/news/world
+  abscbn_health_science:
+    script: abscbn_health_science_blog.py
+    type: requests
+    blog_url: https://www.abs-cbn.com/news/health-science
+  abscbn_business:
+    script: abscbn_business_blog.py
+    type: requests
+    blog_url: https://www.abs-cbn.com/news/business
+  abscbn_technology:
+    script: abscbn_technology_blog.py
+    type: requests
+    blog_url: https://www.abs-cbn.com/news/technology
+  abscbn_weather_traffic:
+    script: abscbn_weather_traffic_blog.py
+    type: requests
+    blog_url: https://www.abs-cbn.com/news/weather-traffic
+  abscbn_calamity_hub:
+    script: abscbn_calamity_hub_blog.py
+    type: requests
+    blog_url: https://www.abs-cbn.com/calamity-hub
+  abscbn_factcheck:
+    script: abscbn_factcheck_blog.py
+    type: requests
+    blog_url: https://www.abs-cbn.com/news/factcheck

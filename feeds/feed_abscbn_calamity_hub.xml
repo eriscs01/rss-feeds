@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ABS-CBN News Calamity Hub</title>
+    <link>https://www.abs-cbn.com/calamity-hub</link>
+    <description>Latest calamity news from ABS-CBN</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_abscbn_calamity_hub.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://od2-image-api.abs-cbn.com/prod/newsfavicon.webp</url>
+      <title>ABS-CBN News Calamity Hub</title>
+      <link>https://www.abs-cbn.com/calamity-hub</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2026 12:07:34 +0000</lastBuildDate>
+    <item>
+      <title>MMDA begins talks with LGUs for El Niño preparations</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/13/mmda-begins-talks-with-lgus-for-el-ni-o-preparations-1304</link>
+      <description>The Metropolitan Manila Development Authority (MMDA) said on Tuesday that it was meeting with local government units (LGUs) to prepare for the possible impacts of El Niño.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/13/mmda-begins-talks-with-lgus-for-el-ni-o-preparations-1304</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 13 Oct 2026 05:04:29 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026101306100/fb3d52f0e7921c882a9675abf5f4c1b9e348cca6d1d9615f5656c80dc52b8c98.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Nino Watch: The impacts around the world this week</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/13/el-nino-watch-the-impacts-around-the-world-this-week-1025</link>
+      <description>Food security concerns, wildfires and power warnings are among the impacts around the world this week from an exceptionally strong El Nino weather cycle.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/13/el-nino-watch-the-impacts-around-the-world-this-week-1025</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 13 Oct 2026 02:25:48 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261013031020/41103bf64b562777494d8cf8a042ad2c29493651edbf2152ba1d13cf862cf4a3.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Niño drought threatens crops, water supply in Oriental Mindoro town</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/13/el-ni-o-drought-threatens-crops-water-supply-in-oriental-mindoro-town-0954</link>
+      <description>A worsening drought due to El Niño is threatening agricultural production and drinking water supply in Bulalacao, as farmers struggle to irrigate drying rice fields and residents face severe water shortages.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/13/el-ni-o-drought-threatens-crops-water-supply-in-oriental-mindoro-town-0954</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 13 Oct 2026 01:54:55 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261013021052/3ed1ba70044171fc374cb29c16ddaf6467dc19580247aba9fad4c9f9f17a0952.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>PNP warns vs scams involving water purification products amid El Niño</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/10/12/pnp-warns-vs-scams-involving-water-purification-products-amid-el-ni-o-1126</link>
+      <description>The Philippine National Police (PNP) is boosting its monitoring of online scams involving water purification products amid concerns over water shortages linked to El Niño.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/10/12/pnp-warns-vs-scams-involving-water-purification-products-amid-el-ni-o-1126</guid>
+      <category>Nation</category>
+      <pubDate>Mon, 12 Oct 2026 03:26:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012041020/c3cc910d977edde14ba706f75ed0a749c03f3e1aca8e91f6bd65930b5de7aa6d.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Nino sets temperature record in key Pacific zone: EU monitor</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/12/el-nino-sets-temperature-record-in-key-pacific-zone-eu-monitor-1041</link>
+      <description>An intensifying El Nino broke a temperature record in a key zone of the Pacific in September, the EU's climate monitor said Monday, in another sign the weather pattern is gaining exceptional strength.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/12/el-nino-sets-temperature-record-in-key-pacific-zone-eu-monitor-1041</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 12 Oct 2026 02:41:30 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012031036/297674f095de2463fbe6855d408a11ae5eebe7752f14e42f14bfb3f0cd3758de.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>ITCZ, easterlies, northeasterly winds to affect Philippines</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/12/itcz-easterlies-northeasterly-winds-to-affect-ph-1032</link>
+      <description>Three weather systems will bring rains in vast swaths of the country, PAGASA said Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/12/itcz-easterlies-northeasterly-winds-to-affect-ph-1032</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 12 Oct 2026 02:32:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012031028/4eda6832051e7347ae8666ab8ac750bc5d41e31074854ea32fe08fe646e23c47.gif" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Jomalig Island declares state of calamity due to El Niño-induced drought</title>
+      <link>https://www.abs-cbn.com/news/regions/2026/10/11/jomalig-island-declares-state-of-calamity-due-to-el-ni-o-induced-drought-1349</link>
+      <description>The tiny island municipality of Jomalig in Quezon province has been placed under a state of calamity after a four-month drought linked to El Niño disrupted farming and affected an estimated 2,540 families, Mayor Nelmar Sarmiento said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/regions/2026/10/11/jomalig-island-declares-state-of-calamity-due-to-el-ni-o-induced-drought-1349</guid>
+      <category>Regions</category>
+      <pubDate>Sun, 11 Oct 2026 05:49:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026101108108/0b7350cdb91b51bee8e3ec658393ab3dedbe0da0a3f553f012c32363238fa01c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Water agency: Meteorological drought does not mean water supply will run out</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/9/water-agency-meteorological-drought-does-not-mean-water-supply-will-run-out-1648</link>
+      <description>The drought expected to hit the entire country under a strong El Niño does not mean the Philippines will run out of water, the head of the Local Water Utilities Administration said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/9/water-agency-meteorological-drought-does-not-mean-water-supply-will-run-out-1648</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Fri, 09 Oct 2026 08:48:06 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261009091044/026c3960a9f87411e41cc28a8f534255fa6b0d28be63ed551d916e0603f4259c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>3 killed in Cebu city landslide</title>
+      <link>https://www.abs-cbn.com/news/regions/2026/10/9/cebu-city-landslide-1614</link>
+      <description>Three people died in a landslide in Barangay Pulangbato, Cebu on Friday, the local disaster office said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/regions/2026/10/9/cebu-city-landslide-1614</guid>
+      <category>Regions</category>
+      <pubDate>Fri, 09 Oct 2026 08:14:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261009091012/a813e0d8a920e1d0337ced6aba5131ce58bb49d8fdcc9b91d6311c0bb511c24d.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Nino will intensify, then peak in December: UN</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/8/el-nino-will-intensify-then-peak-in-december-un-1212</link>
+      <description>El Nino will intensify even more before peaking in December, the United Nations said Thursday, warning it could be among the strongest witnessed since at least 1950.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/8/el-nino-will-intensify-then-peak-in-december-un-1212</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 08 Oct 2026 04:12:27 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100805108/a03da1ad00b1e3d60f0cce3433c381beef986fd680f603fe2886928e80d21b28.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>ITCZ to bring rains in Palawan, VisMin; northeasterly winds to affect Batanes, Babuyan</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/6/itcz-to-bring-rains-in-palawan-vismin-northeasterly-winds-to-affect-batanes-babuyan-1013</link>
+      <description>Two weather systems will bring rains over some parts of the country Tuesday, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/6/itcz-to-bring-rains-in-palawan-vismin-northeasterly-winds-to-affect-batanes-babuyan-1013</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 06 Oct 2026 02:13:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261006021044/5c5853eaefbb63dc09b916eb60b9491a6dc4cebb8b9fd28d86e6d9c13dc3bd09.gif" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>106 areas under state of calamity due to El Niño: NDRRMC</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/6/106-areas-under-state-of-calamity-due-to-el-ni-o-ndrrmc-1008</link>
+      <description>A total of 106 areas have declared a state of calamity due to El Niño, the National Disaster Risk Reduction and Management Council (NDRRMC) said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/6/106-areas-under-state-of-calamity-due-to-el-ni-o-ndrrmc-1008</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 06 Oct 2026 02:08:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100603104/dc0e35b4049d7eda2bd66ebbb71ea5ecad1ff27401956d54ae4ee2b66703ba8d.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Habagat season ends — PAGASA</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/5/habagat-season-ends-pagasa-1452</link>
+      <description>The southwest monsoon or habagat season is over, PAGASA said Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/5/habagat-season-ends-pagasa-1452</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 05 Oct 2026 06:52:12 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261005071044/dcb60f0c1f8c91451d08cf3d7d7f6db07ded2be2fc6e212f44f5d702f2a44d58.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Trough of super typhoon Choi-wan to continue bringing rains in Visayas, Mindanao</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/5/trough-of-super-typhoon-choi-wan-to-continue-bringing-rains-in-vismin-1106</link>
+      <description>The trough or extension of super typhoon Choi-wan outside the Philippine area of responsibility will continue to bring rains over the central and southern Philippines on Monday, PAGASA said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/5/trough-of-super-typhoon-choi-wan-to-continue-bringing-rains-in-vismin-1106</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 05 Oct 2026 03:06:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261005031048/72c99df2586eeec368556813101584f65f34160ad6d3acc86c5ef79baa5ffad5.gif" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Extreme heat putting pregnant women, newborns at risk: UN climate chief</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/5/extreme-heat-putting-pregnant-women-newborns-at-risk-un-climate-chief-0743</link>
+      <description>Extreme heat is putting pregnant mothers and their newborns at increasing risk, United Nations climate chief Simon Stiell will warn on Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/5/extreme-heat-putting-pregnant-women-newborns-at-risk-un-climate-chief-0743</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Sun, 04 Oct 2026 23:43:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261005001040/b1d83a0d8c57617afbc1d42f3dcefb7a993d8ca1c5f58bc9c2651ab3f57aee43.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DTI: Bottled water supply ‘adequate’, no need to hoard</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/10/2/dti-bottled-water-supply-adequate-no-need-to-hoard-1003</link>
+      <description>The Department of Trade and Industry (DTI) assured the public on Friday that the supply of bottled water remained “adequate” as a looming historic El Niño prompted alleged hoarding.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/10/2/dti-bottled-water-supply-adequate-no-need-to-hoard-1003</guid>
+      <category>Nation</category>
+      <pubDate>Fri, 02 Oct 2026 02:03:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261002021056/ea1586c404fd6028c816edac45f99a96055fa419aa90566ca674e21b57bef9a1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Palace tells public: Don’t panic, hoard water over El Niño</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/1/palace-tells-public-don-t-panic-hoard-water-for-el-ni-o-1554</link>
+      <description>There is no need to panic and hoard water as the threat of a historic El Niño looms, Malacañang told the public on Thursday, as it emphasized that the government is ready to mitigate its potential impacts.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/1/palace-tells-public-don-t-panic-hoard-water-for-el-ni-o-1554</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 01 Oct 2026 07:54:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261001081048/2ff3f8b50e2af33dae0c2bbbdcf9a17b6cc48f4da71bfa28fdc508ee4378695d.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Nino: A deadly 'postcard from the future'</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/1/el-nino-a-deadly-postcard-from-the-future-1037</link>
+      <description>The current El Nino could cause 451,000 excess heat deaths. Researchers warn it offers a glimpse of temperatures that may become normal within 20 years.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/1/el-nino-a-deadly-postcard-from-the-future-1037</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 01 Oct 2026 02:37:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261001031028/ce740b4a5fb80f6c977a5a043edabd2e91f1aacd75b540975247605cfd252ac6.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Habagat, rainy season may end in first week of October – PAGASA</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/1/habagat-rainy-season-may-end-in-first-week-of-october-pagasa-0956</link>
+      <description>The southwest monsoon or Habagat may end within the first week of October, signaling the end of the rainy season in the western part of the country, PAGASA said Thursday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/1/habagat-rainy-season-may-end-in-first-week-of-october-pagasa-0956</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 01 Oct 2026 01:56:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261001021052/c50cf15d5983ad560c2a6a5d02d9dd675545f8d8d0f46b8d63587c1d6975e7e2.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Magnitude 5 earthquake jolts Occidental Mindoro</title>
+      <link>https://www.abs-cbn.com/news/regions/2026/9/30/magnitude-5-earthquake-jolts-occidental-mindoro-1054</link>
+      <description>A magnitude 5 earthquake struck Occidental Mindoro on Wednesday morning, shaking several areas across the province and nearby parts of Oriental Mindoro, according to the Philippine Institute of Volcanology and Seismology (Phivolcs).</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/regions/2026/9/30/magnitude-5-earthquake-jolts-occidental-mindoro-1054</guid>
+      <category>Regions</category>
+      <pubDate>Wed, 30 Sep 2026 02:54:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260930030948/cf1434671926322db23350fd220ab9a8fcb7e0b3b7c8b8cd0e5c28316e597ef4.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How can you prepare for El Niño? Climate Change Commission suggests measures</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/29/how-can-you-prepare-for-el-ni-o-climate-change-commission-suggests-measures-1445</link>
+      <description>The public has been warned to prepare for the upcoming El Niño which is forecasted to be strong. But how, exactly?</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/29/how-can-you-prepare-for-el-ni-o-climate-change-commission-suggests-measures-1445</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 29 Sep 2026 06:45:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260929070936/a33311c22633ce5d974136de4997923f868c7c9cabb55a429b007d948d389e32.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Nino could cause 451,000 extra heat deaths: research</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/24/el-nino-could-cause-451-000-extra-heat-deaths-research-1453</link>
+      <description>This year's powerful El Nino weather pattern could lead to 451,000 additional heat-related deaths worldwide through February as it turbocharges global temperatures, according to projections published on Wednesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/24/el-nino-could-cause-451-000-extra-heat-deaths-research-1453</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 24 Sep 2026 06:53:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924070948/a03da1ad00b1e3d60f0cce3433c381beef986fd680f603fe2886928e80d21b28.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Queenie enters PAR, no direct effects expected – PAGASA</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/24/queenie-enters-par-may-strengthen-into-typhoon-1142</link>
+      <description>Tropical storm Surigae entered the Philippine area of responsibility on Thursday morning and was assigned the local name Queenie, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/24/queenie-enters-par-may-strengthen-into-typhoon-1142</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 24 Sep 2026 03:42:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924040940/bf3c42d59166e0a5bd8f9e278e143f5d3ac959401781e2f75456bde209184d0a.gif" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How El Nino is shaping tropical storms worldwide</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/24/how-el-nino-is-shaping-tropical-storms-worldwide-0922</link>
+      <description>From drought to major floods and extreme heat, El Nino will have a huge impact on the world's weather. In the Atlantic, it could mean a season without hurricanes.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/24/how-el-nino-is-shaping-tropical-storms-worldwide-0922</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 24 Sep 2026 01:22:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924020912/48a369c27128b89372d351c18c2868c72198f6c1d03c6321d057fb3c0e49637b.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Typhoon Dujuan leaves two dead, 46,000 houses without power in Japan</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/22/typhoon-dujuan-leaves-two-dead-46-000-houses-without-power-in-japan-1058</link>
+      <description>Typhoon Dujuan left at least two people dead and five injured in Japan, while thousands of houses near Tokyo remained without power after the storm swept through the region, authorities said Tuesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/22/typhoon-dujuan-leaves-two-dead-46-000-houses-without-power-in-japan-1058</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 22 Sep 2026 02:58:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260922030956/d1b09fcba7a513ac0670309c8b323912fbf7efc8523e501e3808c4e40ab05967.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Weak Habagat to bring scattered rains over western PH this weekend – PAGASA</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/18/weak-habagat-to-bring-scattered-rains-over-western-ph-this-weekend-pagasa-1328</link>
+      <description>A weak southwest monsoon or Habagat may return and bring rainy weather over the western sections of southern Luzon, Visayas, and Mindanao this weekend, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/18/weak-habagat-to-bring-scattered-rains-over-western-ph-this-weekend-pagasa-1328</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Fri, 18 Sep 2026 05:28:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260918060924/4f346498ac36259e609e01436a57991d0792384794197de13ec67c72b460273c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>LPA to drench Southern Luzon, Visayas, and parts of Mindanao</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/17/lpa-to-drench-southern-luzon-visayas-and-parts-of-mindanao-1724</link>
+      <description>A low pressure area that formed over the Sulu Sea early Thursday will continue to bring rainy weather over the central and southern parts of the country, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/17/lpa-to-drench-southern-luzon-visayas-and-parts-of-mindanao-1724</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 17 Sep 2026 09:24:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260917100920/832133e895766c088357450fa1539d51db7e725da3daaa70f5aa644e22a205f8.gif" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'No doubt' of climate change role in deadly China-Nepal flood: scientists</title>
+      <link>https://www.abs-cbn.com/news/world/2026/9/17/-no-doubt-of-climate-change-role-in-deadly-china-nepal-flood-scientists-0924</link>
+      <description>Climate change was a core factor in last month's deadly glacial mountain collapse on the China-Nepal border that killed more than 1,400 people and left at least 6,600 missing, scientists said Thursday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/9/17/-no-doubt-of-climate-change-role-in-deadly-china-nepal-flood-scientists-0924</guid>
+      <category>World</category>
+      <pubDate>Thu, 17 Sep 2026 01:24:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260917020916/05525e750538665f0817cd7d71aa67f06b47a895c9c99e6c995f58f85853b655.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Dizon orders immediate repair of damaged tail dike in flood-hit Minalin, Pampanga</title>
+      <link>https://www.abs-cbn.com/news/regions/2026/9/14/dizon-orders-immediate-repair-of-damaged-tail-dike-in-flood-hit-minalin-pampanga-1752</link>
+      <description>Department of Public Works and Highways (DPWH) Secretary Vince Dizon on Monday ordered the immediate repair of a damaged tail dike in Minalin, Pampanga, warning that a breach could send water and lahar rushing toward the town proper.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/regions/2026/9/14/dizon-orders-immediate-repair-of-damaged-tail-dike-in-flood-hit-minalin-pampanga-1752</guid>
+      <category>Regions</category>
+      <pubDate>Mon, 14 Sep 2026 09:52:25 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260914100944/6f4b24ddbae47fd61103be725e9a1684c8d79ea5b9af29551caf89d6c6d3041a.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Researchers eye AI revolution in natural disaster forecasts</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/11/researchers-eye-ai-revolution-in-natural-disaster-forecasts-1139</link>
+      <description>A revolution in forecasting natural disasters is underway, say researchers in Switzerland who are training AI models on vast troves of NASA climate data to produce potentially-lifesaving data at lightning speed.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/11/researchers-eye-ai-revolution-in-natural-disaster-forecasts-1139</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Fri, 11 Sep 2026 03:39:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260911040936/839cc665747fab74b2e9d1d198cb607b145540489d10bf94ab24b848fa237a3e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>August hottest month ever recorded globally as huge El Nino emerges</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/11/august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges-1004</link>
+      <description>Europe's climate monitor said Thursday that August was the hottest month ever recorded around the world and warned of worse to come, as an unprecedented El Nino pattern grows stronger.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/11/august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges-1004</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Fri, 11 Sep 2026 02:04:30 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260911020912/a03da1ad00b1e3d60f0cce3433c381beef986fd680f603fe2886928e80d21b28.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Mount Fuji ends hiking season with landslide, two rescues</title>
+      <link>https://www.abs-cbn.com/news/world/2026/9/10/mount-fuji-ends-hiking-season-with-landslide-two-rescues-1259</link>
+      <description>A landslide struck a car park on Japan's Mount Fuji, with the final day of the volcano's summer climbing season on Thursday marred by downpours and dense mist.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/9/10/mount-fuji-ends-hiking-season-with-landslide-two-rescues-1259</guid>
+      <category>World</category>
+      <pubDate>Thu, 10 Sep 2026 04:59:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260910050956/674bcdf8f60e22a674ef2ce03f30c39c6dac91d994f10322bf61cdd665f87f5f.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Govt ready to respond to ‘very strong’ El Niño — Palace</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/9/govt-ready-to-respond-to-very-strong-el-ni-o-palace-1556</link>
+      <description>The government is well-positioned to respond to the effects of El Niño , which is forecast by the United Nations' climate agency to be the strongest since comparable records began four decades ago.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/9/govt-ready-to-respond-to-very-strong-el-ni-o-palace-1556</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Wed, 09 Sep 2026 07:56:38 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260909080952/2ff3f8b50e2af33dae0c2bbbdcf9a17b6cc48f4da71bfa28fdc508ee4378695d.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>LIST: Flooded Metro Manila roads on Sept. 9</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/9/list-flooded-metro-manila-roads-on-sept-9-0920</link>
+      <description>Heavy rains spawned floods along some roads in Metro Manila on Wednesday, Sept. 9.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/9/list-flooded-metro-manila-roads-on-sept-9-0920</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Wed, 09 Sep 2026 01:20:18 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260909020916/3f420f6bfc7ddf48d78c370bcaf908ffbfd8bf4593f00c9a7d7395fb0c4cbd0e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Praying for rain as fires, haze plague Indonesian Borneo</title>
+      <link>https://www.abs-cbn.com/news/world/2026/9/8/praying-for-rain-as-fires-haze-plague-indonesian-borneo-0949</link>
+      <description>Wildfires ravaging the Indonesian part of Borneo island are choking communities as far away as Malaysia with putrid haze, testing the resources and resolve of those having to endure them.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/9/8/praying-for-rain-as-fires-haze-plague-indonesian-borneo-0949</guid>
+      <category>World</category>
+      <pubDate>Tue, 08 Sep 2026 01:49:13 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260908020944/c00bee19c8036ac0334c2eeedaa84c2606fc6d761fd87da5c5597a3ea33a727d.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Wildfires, heatwaves endanger air quality, health: UN</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/7/wildfires-heatwaves-endanger-air-quality-health-un-1347</link>
+      <description>Wildfires and heatwaves, which generate microscopic airborne pollutants, risk undermining international efforts to improve air quality, protect human health and safeguard nature, the World Meteorological Organization (WMO) said on Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/7/wildfires-heatwaves-endanger-air-quality-health-un-1347</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Mon, 07 Sep 2026 05:47:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260907060944/3af5f03e7fb76393d1732bf8e76700130b9c9ccefddb3eb6bd723003509c4b1e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Volunteers fight uphill battle against Indonesian fires</title>
+      <link>https://www.abs-cbn.com/news/world/2026/9/4/volunteers-fight-uphill-battle-against-indonesian-fires-1652</link>
+      <description>Indonesia has been battling for weeks to contain fires that have left thick smog blanketing parts of Borneo and Sumatra, with haze also drifting across the border to Malaysia, Singapore and the Philippines.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/9/4/volunteers-fight-uphill-battle-against-indonesian-fires-1652</guid>
+      <category>World</category>
+      <pubDate>Fri, 04 Sep 2026 08:52:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260904090948/be9030470f06d89c8bb1fb15daf9d0398c24cab53e02da5f3007c9934faca77b.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Two trapped tunnel workers rescued in Nepal 'miracle'</title>
+      <link>https://www.abs-cbn.com/news/world/2026/9/4/two-trapped-tunnel-workers-rescued-in-nepal-1303</link>
+      <description>Two hydropower workers were pulled from a tunnel buried by debris in Nepal on Friday, more than a week after catastrophic flooding swept through the area, government ministers said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/9/4/two-trapped-tunnel-workers-rescued-in-nepal-1303</guid>
+      <category>World</category>
+      <pubDate>Fri, 04 Sep 2026 05:03:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260904050956/d07b693de9606734eca935b9205d587921b32695bd4bbb840d5eb13a7d974930.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Nino to be 'very strong', last until February, UN warns</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/3/el-nino-to-be-very-strong-last-until-february-un-warns-1729</link>
+      <description>El Nino is set to become "very strong" in the months ahead, with the weather phenomenon near certain to persist through to February, the United Nations' climate agency warned Thursday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/3/el-nino-to-be-very-strong-last-until-february-un-warns-1729</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 03 Sep 2026 09:29:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026090310098/297674f095de2463fbe6855d408a11ae5eebe7752f14e42f14bfb3f0cd3758de.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DILG: LGU disaster preparations improving, deaths not due to gov't neglect</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/9/3/dilg-lgu-disaster-preparations-improving-deaths-not-due-to-gov-t-neglect-1345</link>
+      <description>The Department of the Interior and Local Government (DILG) on Thursday said local government units' (LGUs) preparations for recent disasters have improved and that the government cannot be blamed over the deaths.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/9/3/dilg-lgu-disaster-preparations-improving-deaths-not-due-to-gov-t-neglect-1345</guid>
+      <category>Nation</category>
+      <pubDate>Thu, 03 Sep 2026 05:45:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260903060912/ba99bc605a21decbc0cfaaee6222cb8064a9f8eed1c9876261efc5c93a981138.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Marcos: Temporary steel bridge in Tarlac to open to light vehicles in two weeks</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/2/marcos-temporary-steel-bridge-in-tarlac-to-open-to-light-vehicles-in-two-weeks-1340</link>
+      <description>A temporary steel bridge connecting the damaged sections of the Agana Bridge in Tarlac City could be opened to light vehicles within two weeks, President Ferdinand Marcos Jr. said Wednesday as he personally inspected ongoing repair works by the Department of Public Works and Highways (DPWH).</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/2/marcos-temporary-steel-bridge-in-tarlac-to-open-to-light-vehicles-in-two-weeks-1340</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Wed, 02 Sep 2026 05:40:43 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260902060932/9045f13c5830454cf21e405d5637355bc8d8ec757a652df039610001606b879d.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Funerals in Nepal for missing, a week after deadly floods</title>
+      <link>https://www.abs-cbn.com/news/world/2026/9/2/funerals-in-nepal-for-missing-a-week-after-deadly-floods-1254</link>
+      <description>Nepali families were holding symbolic funeral ceremonies to "liberate the souls" of loved ones missing since deadly flash floods swept away their villages and homes in the Himalayan region a week ago.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/9/2/funerals-in-nepal-for-missing-a-week-after-deadly-floods-1254</guid>
+      <category>World</category>
+      <pubDate>Wed, 02 Sep 2026 04:54:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260902050948/03fc81e1034c0c486fab48ffd4dd90d64b30e5f90474688accf12b689dbf7386.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>NLEX directed to issue SMS flood warnings</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/2/nlex-directed-to-issue-sms-flood-warnings-0947</link>
+      <description>The Toll Regulatory Board (TRB) said Wednesday it had directed the North Luzon Expressway (NLEX) Corporation to issue advisories and rerouting options three hours before expected rainfall and traffic closures.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/2/nlex-directed-to-issue-sms-flood-warnings-0947</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Wed, 02 Sep 2026 01:47:56 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260902020944/13db440b6bd587c949134638cfd9f46dbdd56eda0db516b86c35cda645dddc20.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Occidental Mindoro placed under state of calamity</title>
+      <link>https://www.abs-cbn.com/news/regions/2026/9/1/occidental-mindoro-placed-under-state-of-calamity-1750</link>
+      <description>Occidental Mindoro has been placed under a state of calamity following the widespread damage left by the southwest monsoon.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/regions/2026/9/1/occidental-mindoro-placed-under-state-of-calamity-1750</guid>
+      <category>Regions</category>
+      <pubDate>Tue, 01 Sep 2026 09:50:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260901100940/232cf4dc85a0dec7882f6147098215da17e49dfdb1b5673cd79041927670e8cc.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>P1-B agri damage, P2-B infra damage in Central Luzon due to habagat, cyclones – OCD</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/1/p1-b-agri-damage-p2-b-infra-damage-in-central-luzon-due-to-habagat-cyclones-ocd-1526</link>
+      <description>Central Luzon, where farming is a main livelihood, has suffered more than a P1-billion damage in agriculture due to the impact of the southwest monsoon and recent tropical cyclones, the region’s Office of Civil Defense reported on Tuesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/1/p1-b-agri-damage-p2-b-infra-damage-in-central-luzon-due-to-habagat-cyclones-ocd-1526</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 01 Sep 2026 07:26:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260901080920/c8b5efafaaf9ac6ff1c59042d1a1041d1c3bb903d023f868f0fdf67881bd0abb.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Retarding basin reduces flooding in Imus, set as model for planned Central Luzon detention basins</title>
+      <link>https://www.abs-cbn.com/news/regions/2026/9/1/retarding-basin-reduces-flooding-in-imus-set-as-model-for-planned-central-luzon-detention-basins-1456</link>
+      <description>Once regularly submerged by severe flooding, Imus City was spared from major inundation during last week’s onslaught of the southwest monsoon, thanks to a massive retarding basin built by the Japan International Cooperation Agency (JICA) in Barangay Anabu 1-G, Mayor Alex Advincula said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/regions/2026/9/1/retarding-basin-reduces-flooding-in-imus-set-as-model-for-planned-central-luzon-detention-basins-1456</guid>
+      <category>Regions</category>
+      <pubDate>Tue, 01 Sep 2026 06:56:40 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260901070952/eb929e42f044cb417ab5a7c092f727be5188f363324c07fb272362d9fc1add80.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>China-Nepal flood toll tops 1,000 as tunnel rescue offers last hope</title>
+      <link>https://www.abs-cbn.com/news/world/2026/9/1/nepal-says-death-toll-rises-to-987-bringing-total-killed-past-1-000-1408</link>
+      <description>The death toll from devastating Himalayan glacial floods crossed the grim 1,000 mark on Tuesday, as Chinese and Nepali teams searched for survivors including dozens feared trapped in hydropower tunnels.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/9/1/nepal-says-death-toll-rises-to-987-bringing-total-killed-past-1-000-1408</guid>
+      <category>World</category>
+      <pubDate>Tue, 01 Sep 2026 06:08:06 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026090107094/b4d300a254dd3dca151f596109e65e424f9bfd9e16a9098cfd41a1a464a58232.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>2 die in Grand Canyon flash flood, only 1 person unaccounted for</title>
+      <link>https://www.abs-cbn.com/news/world/2026/9/1/2-die-in-grand-canyon-flash-flood-only-1-person-unaccounted-for-1133</link>
+      <description>The number of people unaccounted for after a deadly flash flood hit part of the Grand Canyon fell to one Monday as US Park Rangers said they had managed to make contact with over a dozen who had been missing.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/9/1/2-die-in-grand-canyon-flash-flood-only-1-person-unaccounted-for-1133</guid>
+      <category>World</category>
+      <pubDate>Tue, 01 Sep 2026 03:33:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260901040928/90ab66767ce37d46be728d747edf7a00bfea448e9c4c0a3ba5e09f3f4d537015.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>14 deaths in 2nd round of habagat up for verification — OCD</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/8/31/14-deaths-in-2nd-round-of-habagat-up-for-verification-ocd-1709</link>
+      <description>The OCD is verifying 14 deaths reported in Central Luzon following the second round of the southwest monsoon or habagat that began on August 26.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/8/31/14-deaths-in-2nd-round-of-habagat-up-for-verification-ocd-1709</guid>
+      <category>Nation</category>
+      <pubDate>Mon, 31 Aug 2026 09:09:57 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026083111080/ba99bc605a21decbc0cfaaee6222cb8064a9f8eed1c9876261efc5c93a981138.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Parish, city workers try to clear flooded Valenzuela church</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/8/31/parish-city-workers-try-to-clear-flooded-valenzuela-church-1628</link>
+      <description>As of Monday morning, the flood at the patio of Parokya ni San Diego de Alcala is still at knee level, or about two feet high. Flooding inside the church is less than a foot high.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/8/31/parish-city-workers-try-to-clear-flooded-valenzuela-church-1628</guid>
+      <category>Nation</category>
+      <pubDate>Mon, 31 Aug 2026 08:28:18 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026083109088/2d91a660c2ce705771eec66d0a60f6d762ac53e917ada925007aab8102073112.png" medium="image"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>

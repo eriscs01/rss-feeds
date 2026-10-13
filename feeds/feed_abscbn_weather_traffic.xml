@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ABS-CBN News Weather &amp; Traffic</title>
+    <link>https://www.abs-cbn.com/news/weather-traffic</link>
+    <description>Latest weather and traffic news from ABS-CBN</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_abscbn_weather_traffic.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://od2-image-api.abs-cbn.com/prod/newsfavicon.webp</url>
+      <title>ABS-CBN News Weather &amp; Traffic</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2026 12:04:33 +0000</lastBuildDate>
+    <item>
+      <title>MMDA begins talks with LGUs for El Niño preparations</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/13/mmda-begins-talks-with-lgus-for-el-ni-o-preparations-1304</link>
+      <description>The Metropolitan Manila Development Authority (MMDA) said on Tuesday that it was meeting with local government units (LGUs) to prepare for the possible impacts of El Niño.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/13/mmda-begins-talks-with-lgus-for-el-ni-o-preparations-1304</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 13 Oct 2026 05:04:29 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026101306100/fb3d52f0e7921c882a9675abf5f4c1b9e348cca6d1d9615f5656c80dc52b8c98.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Nino Watch: The impacts around the world this week</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/13/el-nino-watch-the-impacts-around-the-world-this-week-1025</link>
+      <description>Food security concerns, wildfires and power warnings are among the impacts around the world this week from an exceptionally strong El Nino weather cycle.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/13/el-nino-watch-the-impacts-around-the-world-this-week-1025</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 13 Oct 2026 02:25:48 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261013031020/41103bf64b562777494d8cf8a042ad2c29493651edbf2152ba1d13cf862cf4a3.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Niño drought threatens crops, water supply in Oriental Mindoro town</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/13/el-ni-o-drought-threatens-crops-water-supply-in-oriental-mindoro-town-0954</link>
+      <description>A worsening drought due to El Niño is threatening agricultural production and drinking water supply in Bulalacao, as farmers struggle to irrigate drying rice fields and residents face severe water shortages.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/13/el-ni-o-drought-threatens-crops-water-supply-in-oriental-mindoro-town-0954</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 13 Oct 2026 01:54:55 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261013021052/3ed1ba70044171fc374cb29c16ddaf6467dc19580247aba9fad4c9f9f17a0952.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Nino sets temperature record in key Pacific zone: EU monitor</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/12/el-nino-sets-temperature-record-in-key-pacific-zone-eu-monitor-1041</link>
+      <description>An intensifying El Nino broke a temperature record in a key zone of the Pacific in September, the EU's climate monitor said Monday, in another sign the weather pattern is gaining exceptional strength.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/12/el-nino-sets-temperature-record-in-key-pacific-zone-eu-monitor-1041</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 12 Oct 2026 02:41:30 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012031036/297674f095de2463fbe6855d408a11ae5eebe7752f14e42f14bfb3f0cd3758de.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>ITCZ, easterlies, northeasterly winds to affect Philippines</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/12/itcz-easterlies-northeasterly-winds-to-affect-ph-1032</link>
+      <description>Three weather systems will bring rains in vast swaths of the country, PAGASA said Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/12/itcz-easterlies-northeasterly-winds-to-affect-ph-1032</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 12 Oct 2026 02:32:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012031028/4eda6832051e7347ae8666ab8ac750bc5d41e31074854ea32fe08fe646e23c47.gif" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>LPA, ITCZ, northeasterly winds to bring rains over PH this weekend</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/9/lpa-itcz-northeasterly-winds-to-bring-rains-over-ph-this-weekend-1716</link>
+      <description>Three weather systems will bring rains across many parts of the country this weekend, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/9/lpa-itcz-northeasterly-winds-to-bring-rains-over-ph-this-weekend-1716</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Fri, 09 Oct 2026 09:16:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261009101012/233ffacd88953afe6f4095f9d4d1a490c6c1a315c0379960be4ab8be77dd73b9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Water agency: Meteorological drought does not mean water supply will run out</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/9/water-agency-meteorological-drought-does-not-mean-water-supply-will-run-out-1648</link>
+      <description>The drought expected to hit the entire country under a strong El Niño does not mean the Philippines will run out of water, the head of the Local Water Utilities Administration said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/9/water-agency-meteorological-drought-does-not-mean-water-supply-will-run-out-1648</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Fri, 09 Oct 2026 08:48:06 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261009091044/026c3960a9f87411e41cc28a8f534255fa6b0d28be63ed551d916e0603f4259c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Niño set to intensify, last until February 2027: UN weather body</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/9/el-ni-o-set-to-intensify-last-until-february-2027-un-weather-body-0724</link>
+      <description>This year's El Niño will intensify before peaking in December and is nearly 100% certain to last until February 2027, the World Meteorological Organization said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/9/el-ni-o-set-to-intensify-last-until-february-2027-un-weather-body-0724</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 08 Oct 2026 23:24:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261009001016/63c7690b763c32811c26df418f1c016db4795b48414e99a279c5530d1760f337.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Nino will intensify, then peak in December: UN</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/8/el-nino-will-intensify-then-peak-in-december-un-1212</link>
+      <description>El Nino will intensify even more before peaking in December, the United Nations said Thursday, warning it could be among the strongest witnessed since at least 1950.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/8/el-nino-will-intensify-then-peak-in-december-un-1212</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 08 Oct 2026 04:12:27 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100805108/a03da1ad00b1e3d60f0cce3433c381beef986fd680f603fe2886928e80d21b28.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>ITCZ to bring rains in Palawan, VisMin; northeasterly winds to affect Batanes, Babuyan</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/6/itcz-to-bring-rains-in-palawan-vismin-northeasterly-winds-to-affect-batanes-babuyan-1013</link>
+      <description>Two weather systems will bring rains over some parts of the country Tuesday, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/6/itcz-to-bring-rains-in-palawan-vismin-northeasterly-winds-to-affect-batanes-babuyan-1013</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 06 Oct 2026 02:13:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261006021044/5c5853eaefbb63dc09b916eb60b9491a6dc4cebb8b9fd28d86e6d9c13dc3bd09.gif" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>106 areas under state of calamity due to El Niño: NDRRMC</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/6/106-areas-under-state-of-calamity-due-to-el-ni-o-ndrrmc-1008</link>
+      <description>A total of 106 areas have declared a state of calamity due to El Niño, the National Disaster Risk Reduction and Management Council (NDRRMC) said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/6/106-areas-under-state-of-calamity-due-to-el-ni-o-ndrrmc-1008</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 06 Oct 2026 02:08:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100603104/dc0e35b4049d7eda2bd66ebbb71ea5ecad1ff27401956d54ae4ee2b66703ba8d.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>All provinces to experience ‘drought’ by end of March 2027 — Solidum</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/5/all-provinces-to-experience-drought-by-end-of-march-2027-solidum-2031</link>
+      <description>All 82 provinces in the country will experience drought by the end of March next year with the anticipated ‘very strong’ El Niño, Department of Science and Technology Secretary Renato Solidum said Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/5/all-provinces-to-experience-drought-by-end-of-march-2027-solidum-2031</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 05 Oct 2026 12:31:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261005131028/e9409174a1e427caaf60bcf3401169ee1ca6a6182d2db49cf2a69afb00eb9ab5.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Stricter rules for pedestrian-related incidents effective Oct. 5 — LTO</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/5/stricter-rules-for-pedestrian-related-incidents-effective-oct-5-lto-1742</link>
+      <description>The Land Transportation Office's (LTO) September 29 memorandum imposing stricter sanctions on motorists involved in incidents on pedestrian lanes officially took effect on Monday, October 5.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/5/stricter-rules-for-pedestrian-related-incidents-effective-oct-5-lto-1742</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 05 Oct 2026 09:42:55 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261005101028/addeed24ca0a8587ebd48d1f448ec4dd1dcf4c9d4005fea9bbb607681176d764.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Habagat season ends — PAGASA</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/5/habagat-season-ends-pagasa-1452</link>
+      <description>The southwest monsoon or habagat season is over, PAGASA said Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/5/habagat-season-ends-pagasa-1452</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 05 Oct 2026 06:52:12 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261005071044/dcb60f0c1f8c91451d08cf3d7d7f6db07ded2be2fc6e212f44f5d702f2a44d58.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Trough of super typhoon Choi-wan to continue bringing rains in Visayas, Mindanao</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/5/trough-of-super-typhoon-choi-wan-to-continue-bringing-rains-in-vismin-1106</link>
+      <description>The trough or extension of super typhoon Choi-wan outside the Philippine area of responsibility will continue to bring rains over the central and southern Philippines on Monday, PAGASA said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/5/trough-of-super-typhoon-choi-wan-to-continue-bringing-rains-in-vismin-1106</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 05 Oct 2026 03:06:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261005031048/72c99df2586eeec368556813101584f65f34160ad6d3acc86c5ef79baa5ffad5.gif" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Public urged to conserve water as 'super' El Niño looms</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/1/public-urged-to-conserve-water-as-super-el-ni-o-looms-1823</link>
+      <description>The National Water Resources Board (NWRB) is urging the public to conserve water and be mindful of consumption as the country prepares for possible effects of a super El Niño.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/1/public-urged-to-conserve-water-as-super-el-ni-o-looms-1823</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 01 Oct 2026 10:23:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261001111020/31d2a701c3f707c1e4ab8c402428cf85b27a901869a15e740909175e64c5748e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Palace tells public: Don’t panic, hoard water over El Niño</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/1/palace-tells-public-don-t-panic-hoard-water-for-el-ni-o-1554</link>
+      <description>There is no need to panic and hoard water as the threat of a historic El Niño looms, Malacañang told the public on Thursday, as it emphasized that the government is ready to mitigate its potential impacts.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/1/palace-tells-public-don-t-panic-hoard-water-for-el-ni-o-1554</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 01 Oct 2026 07:54:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261001081048/2ff3f8b50e2af33dae0c2bbbdcf9a17b6cc48f4da71bfa28fdc508ee4378695d.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Nino: A deadly 'postcard from the future'</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/1/el-nino-a-deadly-postcard-from-the-future-1037</link>
+      <description>The current El Nino could cause 451,000 excess heat deaths. Researchers warn it offers a glimpse of temperatures that may become normal within 20 years.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/1/el-nino-a-deadly-postcard-from-the-future-1037</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 01 Oct 2026 02:37:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261001031028/ce740b4a5fb80f6c977a5a043edabd2e91f1aacd75b540975247605cfd252ac6.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Habagat, rainy season may end in first week of October – PAGASA</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/10/1/habagat-rainy-season-may-end-in-first-week-of-october-pagasa-0956</link>
+      <description>The southwest monsoon or Habagat may end within the first week of October, signaling the end of the rainy season in the western part of the country, PAGASA said Thursday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/10/1/habagat-rainy-season-may-end-in-first-week-of-october-pagasa-0956</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 01 Oct 2026 01:56:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261001021052/c50cf15d5983ad560c2a6a5d02d9dd675545f8d8d0f46b8d63587c1d6975e7e2.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How can you prepare for El Niño? Climate Change Commission suggests measures</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/29/how-can-you-prepare-for-el-ni-o-climate-change-commission-suggests-measures-1445</link>
+      <description>The public has been warned to prepare for the upcoming El Niño which is forecasted to be strong. But how, exactly?</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/29/how-can-you-prepare-for-el-ni-o-climate-change-commission-suggests-measures-1445</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 29 Sep 2026 06:45:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260929070936/a33311c22633ce5d974136de4997923f868c7c9cabb55a429b007d948d389e32.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>ITCZ rains to persist in Palawan, Visayas, Mindanao</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/28/itcz-rains-to-persist-in-palawan-visayas-mindanao-0856</link>
+      <description>The ITCZ is the region where clouds and thunderstorms form as winds from the northern and southern hemispheres meet.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/28/itcz-rains-to-persist-in-palawan-visayas-mindanao-0856</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 28 Sep 2026 00:56:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260928010952/8e04369537a2478c6d5d57d9eee0a7f1b76d7b625c49c18d5fa095851543734d.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'Queenie' nearing typhoon strength</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/26/-queenie-nearing-typhoon-strength-1220</link>
+      <description>Severe tropical cyclone Queenie (international name: Surigae) is nearing typhoon strength, the state weather bureau said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/26/-queenie-nearing-typhoon-strength-1220</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Sat, 26 Sep 2026 04:20:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260926050912/1950729250858a1a8302f080b0af6c6fba49b8d3bdabbf0ccb5b6a947ab57ccd.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'Queenie' maintains strength, may intensify into a typhoon</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/26/-queenie-maintains-strength-may-intensify-into-a-typhoon-0644</link>
+      <description>Severe Tropical Storm Queenie (international name: Surigae) has maintained its strength while decelerating over the Philippine Sea, the state weather bureau said on Saturday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/26/-queenie-maintains-strength-may-intensify-into-a-typhoon-0644</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Fri, 25 Sep 2026 22:44:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260925230928/6b40782adfe2810a3067e78378c291f931f3b24f24ef21ba7185e5d3ddad9d8d.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Queenie now east of Batanes; ITCZ to bring rains over Mindanao, parts of Visayas</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/25/queenie-now-east-of-batanes-itcz-to-bring-rains-over-mindanao-parts-of-visayas-0707</link>
+      <description>At 4 a.m. Friday, Tropical Storm Queenie was located 1,065 kilometers east of Extreme Northern Luzon.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/25/queenie-now-east-of-batanes-itcz-to-bring-rains-over-mindanao-parts-of-visayas-0707</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 24 Sep 2026 23:07:18 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026092500094/b942b4c0d4f5a9c5e427d176140f0d0d84eb877e7d5ffe2e6028b77a8ade57c5.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Nino could cause 451,000 extra heat deaths: research</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/24/el-nino-could-cause-451-000-extra-heat-deaths-research-1453</link>
+      <description>This year's powerful El Nino weather pattern could lead to 451,000 additional heat-related deaths worldwide through February as it turbocharges global temperatures, according to projections published on Wednesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/24/el-nino-could-cause-451-000-extra-heat-deaths-research-1453</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 24 Sep 2026 06:53:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924070948/a03da1ad00b1e3d60f0cce3433c381beef986fd680f603fe2886928e80d21b28.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Queenie enters PAR, no direct effects expected – PAGASA</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/24/queenie-enters-par-may-strengthen-into-typhoon-1142</link>
+      <description>Tropical storm Surigae entered the Philippine area of responsibility on Thursday morning and was assigned the local name Queenie, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/24/queenie-enters-par-may-strengthen-into-typhoon-1142</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 24 Sep 2026 03:42:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924040940/bf3c42d59166e0a5bd8f9e278e143f5d3ac959401781e2f75456bde209184d0a.gif" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How El Nino is shaping tropical storms worldwide</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/24/how-el-nino-is-shaping-tropical-storms-worldwide-0922</link>
+      <description>From drought to major floods and extreme heat, El Nino will have a huge impact on the world's weather. In the Atlantic, it could mean a season without hurricanes.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/24/how-el-nino-is-shaping-tropical-storms-worldwide-0922</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 24 Sep 2026 01:22:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924020912/48a369c27128b89372d351c18c2868c72198f6c1d03c6321d057fb3c0e49637b.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'Surigae' slightly intensifies ahead of PAR entry</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/24/surigae-slightly-intensifies-ahead-of-par-entry-thursday-morning-0740</link>
+      <description>Tropical Storm Surigae slightly intensified ahead of its Philippine area of responsibility entry Thursday morning, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/24/surigae-slightly-intensifies-ahead-of-par-entry-thursday-morning-0740</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Wed, 23 Sep 2026 23:40:29 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924000936/77a89744348502c293bd9903266aedd2feec592eb556d5e03da20fb78742a613.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Tropical depression outside PAR intensifies into tropical storm</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/24/tropical-depression-outside-par-intensifies-into-tropical-storm-0031</link>
+      <description>The tropical depression outside the Philippine area of responsibility intensified into a tropical storm Wednesday evening, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/24/tropical-depression-outside-par-intensifies-into-tropical-storm-0031</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Wed, 23 Sep 2026 16:31:31 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260923170924/e62732ba0b68898701c8f95a0bd469468556d0bd5f2e6666fbba50912eb5f6e9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Strong El Niño to intensify to 'very strong' by year-end — PAGASA</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/23/strong-el-ni-o-to-intensify-to-very-strong-by-year-end-pagasa-1620</link>
+      <description>The Philippines is bracing for a potentially more intense El Niño as the state weather bureau said the current strong El Niño may develop into a "very strong" event by the last quarter of 2026 and persist until early 2027.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/23/strong-el-ni-o-to-intensify-to-very-strong-by-year-end-pagasa-1620</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Wed, 23 Sep 2026 08:20:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260923090916/17b44eddd3de44f395e8c964beed002ea11e5cf805b040f056f76809218a264c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Strengthening El Niño poses growing global health threat, UN warns</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/22/strengthening-el-ni-o-poses-growing-global-health-threat-un-warns-2244</link>
+      <description>The World Health Organization (WHO) and the World Meteorological Organization (WMO) warned on Tuesday that a rapidly strengthening El Nino weather pattern poses growing risks to global health.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/22/strengthening-el-ni-o-poses-growing-global-health-threat-un-warns-2244</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 22 Sep 2026 14:44:18 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260922140944/e08a8ca96b213dedf577ff38e58a5aafe24b8046bddae019bd050f291c495ebf.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>LPA east of PH develops into tropical depression, to enter PAR on Thursday</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/22/lpa-east-of-ph-develops-into-tropical-depression-to-enter-par-on-thursday-1934</link>
+      <description>It may approach the Extreme Northern Luzon by weekend, when it may also begin pulling the southwest monsoon or Habagat over the western sections of the country.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/22/lpa-east-of-ph-develops-into-tropical-depression-to-enter-par-on-thursday-1934</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 22 Sep 2026 11:34:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260922120928/0cb519628512c75d24ec99fd4d8985d75048cf16b64511e7156e5166997113d7.gif" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Typhoon Dujuan leaves two dead, 46,000 houses without power in Japan</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/22/typhoon-dujuan-leaves-two-dead-46-000-houses-without-power-in-japan-1058</link>
+      <description>Typhoon Dujuan left at least two people dead and five injured in Japan, while thousands of houses near Tokyo remained without power after the storm swept through the region, authorities said Tuesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/22/typhoon-dujuan-leaves-two-dead-46-000-houses-without-power-in-japan-1058</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 22 Sep 2026 02:58:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260922030956/d1b09fcba7a513ac0670309c8b323912fbf7efc8523e501e3808c4e40ab05967.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Niño weather pattern enters record territory—scientist</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/22/el-nino-weather-pattern-enters-record-territory-scientist-0823</link>
+      <description>The strengthening El Niño weather pattern has tied for the most intense on record on a widely-used metric, a senior scientist told AFP Monday, even as its influence is already being felt from Central America to Indonesia.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/22/el-nino-weather-pattern-enters-record-territory-scientist-0823</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 22 Sep 2026 00:23:01 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260922010920/ead9ffabe2ed430ef31719cc4a5c76b4f251c569778dd3ddf48a23d6858fe3c2.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Brewing storm east of the country may enter PAR before weekend–PAGASA</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/21/brewing-storm-east-of-the-country-may-enter-par-before-weekend-pagasa-1132</link>
+      <description>It will be assigned the local name Queenie once it enters the PAR.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/21/brewing-storm-east-of-the-country-may-enter-par-before-weekend-pagasa-1132</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 21 Sep 2026 03:32:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260921040920/74e50a785ad9e4a00c3527c0533d9938092af8b13d8fdf342a6f86384faa7477.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Weak Habagat to bring scattered rains over western PH this weekend – PAGASA</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/18/weak-habagat-to-bring-scattered-rains-over-western-ph-this-weekend-pagasa-1328</link>
+      <description>A weak southwest monsoon or Habagat may return and bring rainy weather over the western sections of southern Luzon, Visayas, and Mindanao this weekend, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/18/weak-habagat-to-bring-scattered-rains-over-western-ph-this-weekend-pagasa-1328</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Fri, 18 Sep 2026 05:28:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260918060924/4f346498ac36259e609e01436a57991d0792384794197de13ec67c72b460273c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>LPA to drench Southern Luzon, Visayas, and parts of Mindanao</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/17/lpa-to-drench-southern-luzon-visayas-and-parts-of-mindanao-1724</link>
+      <description>A low pressure area that formed over the Sulu Sea early Thursday will continue to bring rainy weather over the central and southern parts of the country, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/17/lpa-to-drench-southern-luzon-visayas-and-parts-of-mindanao-1724</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 17 Sep 2026 09:24:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260917100920/832133e895766c088357450fa1539d51db7e725da3daaa70f5aa644e22a205f8.gif" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Easterlies, thunderstorms to bring rains amid monsoon break</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/14/easterlies-thunderstorms-to-bring-rains-amid-monsoon-break-0000</link>
+      <description>In the absence of the southwest monsoon or Habagat, afternoon or evening rains may still affect many parts of the country due to Easterlies and thunderstorms, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/14/easterlies-thunderstorms-to-bring-rains-amid-monsoon-break-0000</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Sun, 13 Sep 2026 16:00:59 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260913160948/4572c9ee8f35cf3ef62d708a8d4f27b695a7a0409fb8363d0d7e19b94bed9768.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>#WalangPasok: Class suspensions in Pampanga for September 14, 2026 due to floods caused by habagat</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/13/-walangpasok-class-suspensions-in-pampanga-for-september-14-2026-2235</link>
+      <description>A couple of local government units in Pampanga announced the suspension of classes in several public and private schools on Monday, September 9, due to flooding caused by the southwest monsoon or habagat.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/13/-walangpasok-class-suspensions-in-pampanga-for-september-14-2026-2235</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Sun, 13 Sep 2026 14:35:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260913150928/c65632efc77e66dd472770a446ea184f353edb1983a13c46b668cf6b105151ed.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Researchers eye AI revolution in natural disaster forecasts</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/11/researchers-eye-ai-revolution-in-natural-disaster-forecasts-1139</link>
+      <description>A revolution in forecasting natural disasters is underway, say researchers in Switzerland who are training AI models on vast troves of NASA climate data to produce potentially-lifesaving data at lightning speed.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/11/researchers-eye-ai-revolution-in-natural-disaster-forecasts-1139</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Fri, 11 Sep 2026 03:39:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260911040936/839cc665747fab74b2e9d1d198cb607b145540489d10bf94ab24b848fa237a3e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>August hottest month ever recorded globally as huge El Nino emerges</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/11/august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges-1004</link>
+      <description>Europe's climate monitor said Thursday that August was the hottest month ever recorded around the world and warned of worse to come, as an unprecedented El Nino pattern grows stronger.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/11/august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges-1004</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Fri, 11 Sep 2026 02:04:30 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260911020912/a03da1ad00b1e3d60f0cce3433c381beef986fd680f603fe2886928e80d21b28.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Walang Pasok: Face-to-face classes suspended in several cities in NCR</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/11/walang-pasok-face-to-face-classes-suspended-in-several-cities-in-ncr-0646</link>
+      <description>Here is the list of local governments in Metro Manila that have declared suspension of classes,Friday, September 11, 2026 due to the rainfall caused by #Habagat.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/11/walang-pasok-face-to-face-classes-suspended-in-several-cities-in-ncr-0646</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 10 Sep 2026 22:46:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260910230944/936eeca0e1c7b4294496edb3a21e01867dfedba31a46f555092809e70c965b6b.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>No Filipino affected in Nagoya flooding – envoy</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/10/no-filipino-affected-in-nagoya-flooding-envoy-1428</link>
+      <description>No Filipino was affected by the record rainfall that lashed Nagoya earlier this week, Philippine Ambassador to Japan Mylene Albano said Thursday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/10/no-filipino-affected-in-nagoya-flooding-envoy-1428</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Thu, 10 Sep 2026 06:28:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260910070924/4cccf772c1038a707bd9bf7d09d02b62dc44fcbb84a5396b86d44d0f2d22dc02.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Govt ready to respond to ‘very strong’ El Niño — Palace</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/9/govt-ready-to-respond-to-very-strong-el-ni-o-palace-1556</link>
+      <description>The government is well-positioned to respond to the effects of El Niño , which is forecast by the United Nations' climate agency to be the strongest since comparable records began four decades ago.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/9/govt-ready-to-respond-to-very-strong-el-ni-o-palace-1556</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Wed, 09 Sep 2026 07:56:38 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260909080952/2ff3f8b50e2af33dae0c2bbbdcf9a17b6cc48f4da71bfa28fdc508ee4378695d.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>LIST: Flooded Metro Manila roads on Sept. 9</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/9/list-flooded-metro-manila-roads-on-sept-9-0920</link>
+      <description>Heavy rains spawned floods along some roads in Metro Manila on Wednesday, Sept. 9.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/9/list-flooded-metro-manila-roads-on-sept-9-0920</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Wed, 09 Sep 2026 01:20:18 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260909020916/3f420f6bfc7ddf48d78c370bcaf908ffbfd8bf4593f00c9a7d7395fb0c4cbd0e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>#WalangPasok: Class suspensions for September 9, 2026 due to habagat rains, floods</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/9/-walangpasok-class-suspensions-for-september-9-2026-due-to-habagat-rains-floods-0901</link>
+      <description>Several local government units announced the suspension of classes in their respective areas on Wednesday, September 9, due to inclement weather brought by the southwest monsoon or habagat.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/9/-walangpasok-class-suspensions-for-september-9-2026-due-to-habagat-rains-floods-0901</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Wed, 09 Sep 2026 01:01:01 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260909010952/6a4b1dbe740b643e06fa3237630c9cd0c0a6cab558603f129ecff22e0cbc3f11.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Record-breaking temperatures possible due to El Niño, PAGASA says</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/8/record-breaking-temperatures-possible-due-to-el-ni-o-pagasa-says-1600</link>
+      <description>Record-breaking temperatures and high heat index are possible because of the ongoing El Niño, a PAGASA official said on Tuesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/8/record-breaking-temperatures-possible-due-to-el-ni-o-pagasa-says-1600</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Tue, 08 Sep 2026 08:00:27 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026090809090/04719809686f6da598e6aadeb909686923b3311c37cccfac13ccb81141bc6a59.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>House leader calls for inquiry into recurring floods at NLEX</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/7/house-leader-calls-for-inquiry-into-recurring-floods-at-nlex-2320</link>
+      <description>House Senior Deputy Speaker and South Cotabato 2nd District Rep. Ferdinand Hernandez has called for a House inquiry into the ”recurring flooding” on a part of the North Luzon Expressway, which caused severe traffic congestion.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/7/house-leader-calls-for-inquiry-into-recurring-floods-at-nlex-2320</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 07 Sep 2026 15:20:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260907160916/8e2a7b731888c1cca254f2eb82861ba4de1aa60eb4c44a619da79b95d9533bcf.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>#WalangPasok: Class suspensions for September 8, 2026 due to habagat rains, floods</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/7/-walangpasok-class-suspensions-for-september-8-2026-due-to-habagat-rains-floods-2120</link>
+      <description>Several local government units announced the suspension of classes in their respective areas on Tuesday, September 8, due to inclement weather brought by the southwest monsoon or habagat.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/7/-walangpasok-class-suspensions-for-september-8-2026-due-to-habagat-rains-floods-2120</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Mon, 07 Sep 2026 13:20:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260907140912/c65632efc77e66dd472770a446ea184f353edb1983a13c46b668cf6b105151ed.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Habagat rains to persist this week</title>
+      <link>https://www.abs-cbn.com/news/weather-traffic/2026/9/7/habagat-rains-to-persist-this-week-0745</link>
+      <description>The southwest monsoon or Habagat will continue to affect Luzon and Visayas this week, according to PAGASA.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/weather-traffic/2026/9/7/habagat-rains-to-persist-this-week-0745</guid>
+      <category>Weather &amp; Traffic</category>
+      <pubDate>Sun, 06 Sep 2026 23:45:59 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260907000940/5901807e7670d50fd473aeb98ac23e0ea3f76dc8e7baaf31b2c666e671d22f0c.jpg" medium="image"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>

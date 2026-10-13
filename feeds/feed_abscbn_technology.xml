@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ABS-CBN News Technology</title>
+    <link>https://www.abs-cbn.com/news/technology</link>
+    <description>Latest technology news from ABS-CBN</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_abscbn_technology.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://od2-image-api.abs-cbn.com/prod/newsfavicon.webp</url>
+      <title>ABS-CBN News Technology</title>
+      <link>https://www.abs-cbn.com/news/technology</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2026 12:04:33 +0000</lastBuildDate>
+    <item>
+      <title>Globe pushes to make telecom restoration a national priority during disasters</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/13/globe-pushes-to-make-telecom-restoration-national-priority-during-disasters-1636</link>
+      <description>Globe said restoring network services should not be the responsibility of telco operators alone, as communications are vital during disasters.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/13/globe-pushes-to-make-telecom-restoration-national-priority-during-disasters-1636</guid>
+      <category>Technology</category>
+      <pubDate>Tue, 13 Oct 2026 08:36:12 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261013091012/62eedbbc198896ba8a7b1f2ce77e92459cad12e9c19a9b868949fd1c8cf3851c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>SSS chief is new interim DICT secretary</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/13/sss-chief-is-new-dict-secretary-1446</link>
+      <description>SSS President and CEO Robert Joseph Montes De Claro is the new head of the Department of Information and Communications Technology.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/13/sss-chief-is-new-dict-secretary-1446</guid>
+      <category>Technology</category>
+      <pubDate>Tue, 13 Oct 2026 06:46:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261013071044/cb775208da215cfc65e544b6c3f8175b5beca77141b10fed8a62cbab7cea6f88.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Aguda thanks Marcos as he exits DICT</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/12/aguda-thanks-marcos-as-he-exits-dict-1749</link>
+      <description>Marcos confirmed on Sunday that he had accepted the resignation of Aguda. This was after Ombudsman Crispin Remulla said on a radio show that Aguda had resigned.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/12/aguda-thanks-marcos-as-he-exits-dict-1749</guid>
+      <category>Technology</category>
+      <pubDate>Mon, 12 Oct 2026 09:49:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012101048/be73cdaeb49cd7086cafa6018c13ae8770d9b18dc161a168776472e0e6d91190.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cyberattacks most imminent AI threat—Bill Gates</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/12/cyberattacks-most-imminent-ai-threat-bill-gates-0901</link>
+      <description>Bill Gates on Sunday warned that unregulated artificial intelligence poses a growing threat and predicted an escalation in AI-powered cyberattacks in the coming year.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/12/cyberattacks-most-imminent-ai-threat-bill-gates-0901</guid>
+      <category>Technology</category>
+      <pubDate>Mon, 12 Oct 2026 01:01:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026101202100/b632e9c648f40da5a1b01ba9f9586175757e5e299474e19ade9c05de5afac986.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Marcos Jr. 'studying really hard' proposed blanket social media ban among minors</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/12/marcos-jr-studying-really-hard-proposed-blanket-social-media-ban-among-minors-0237</link>
+      <description>President Ferdinand Marcos Jr. said the government is "studying really hard" a proposed bill restricting social media use among minors, citing potential repercussions.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/12/marcos-jr-studying-really-hard-proposed-blanket-social-media-ban-among-minors-0237</guid>
+      <category>Technology</category>
+      <pubDate>Sun, 11 Oct 2026 18:37:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261011191032/a5feed0a1c763fed655c41f9b47f4bfdf72cd2921e61ca7335f1580ce21dec0f.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>UP graduates develop exoskeleton to help stroke patients’ rehabilitation</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/10/up-graduates-develop-exoskeleton-to-help-stroke-patients-rehabilitation-1236</link>
+      <description>For a stroke patient living in rural communities, recovering movement can come with a heavy financial burden.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/10/up-graduates-develop-exoskeleton-to-help-stroke-patients-rehabilitation-1236</guid>
+      <category>Technology</category>
+      <pubDate>Sat, 10 Oct 2026 04:36:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261010041040/94ec79de4a5c23e705e496c85c3a6fdaf141f879a9a20beac5e3f1d6de52d11e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Get 10,000 mAh smartphone for all-day use</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/9/get-10-000-mah-smartphone-for-all-day-use-1814</link>
+      <description>No more excuses as vivo introduces a smartphone with 10,000 mAh battery.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/9/get-10-000-mah-smartphone-for-all-day-use-1814</guid>
+      <category>Technology</category>
+      <pubDate>Fri, 09 Oct 2026 10:14:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261009101036/d92b0e8f018ad31456a425363448d3b7425f0fc9f9bbab7139805a98f8fe5921.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DICT calls for faster transformation to bridge 'digital divide'</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/9/dict-calls-for-faster-transformation-to-bridge-digital-divide-1346</link>
+      <description>The DICT also highlighted the Philippine AI Infrastructure Master Plan for 2026 to 2033.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/9/dict-calls-for-faster-transformation-to-bridge-digital-divide-1346</guid>
+      <category>Technology</category>
+      <pubDate>Fri, 09 Oct 2026 05:46:38 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261009061044/c17c352c052dd68de8c75fb6fc60e57a70f1338bba2d691014a1ceae17ac6f59.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>REVIEW: REDMI Note 17 Pro Max’s massive battery makes it a ‘charge and forget’ gadget</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/8/review-redmi-note-17-pro-max-s-massive-battery-makes-it-a-charge-and-forget-gadget-1607</link>
+      <description>It is to the REDMI Note 17 Pro Max's credit that it is easy to forget that you have it. Not because it is unremarkable but because it slots easily into busy lifestyles that you don't even have to think about it until you need it.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/8/review-redmi-note-17-pro-max-s-massive-battery-makes-it-a-charge-and-forget-gadget-1607</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 08 Oct 2026 08:07:21 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261008091056/14013b67b3ddf36a02e949be97bac6b2664d62377b051dd0984ad5b0750118ea.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Senate OKs bill restricting social media use among minors</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/8/senate-oks-bill-restricting-social-media-use-among-minors-1405</link>
+      <description>Senate Bill No. 2424 or the Safe Media Access and Responsible Technology For Kids in Digital Spaces prohibits the creation of social media accounts for children below 18 years old.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/8/senate-oks-bill-restricting-social-media-use-among-minors-1405</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 08 Oct 2026 06:05:56 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100806100/0980f285cde3ea146c15458e080e39c9dfce780fc677805f5dc89267fb264cb3.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Microsoft pushes AI vision with new, expensive Surface laptop</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/8/microsoft-pushes-ai-vision-with-new-expensive-surface-laptop-0748</link>
+      <description>Microsoft is pushing a "hybrid intelligence" future with a new Surface Ultra laptop that runs on Nvidia artificial intelligence (AI) chips and will cost more than $2,500, the company announced Wednesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/8/microsoft-pushes-ai-vision-with-new-expensive-surface-laptop-0748</guid>
+      <category>Technology</category>
+      <pubDate>Wed, 07 Oct 2026 23:48:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261008001044/17d43a1d6eb807852f8835ac109ac03e75dee15cf860b9c82cb6b2a32b2e53ee.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DICT chief Aguda denies resignation rumors</title>
+      <link>https://www.abs-cbn.com/news/nation/2026/10/7/dict-chief-aguda-denies-resignation-rumors-1144</link>
+      <description>DICT Secretary Henry Aguda has denied rumors that he is quitting his post.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/nation/2026/10/7/dict-chief-aguda-denies-resignation-rumors-1144</guid>
+      <category>Technology</category>
+      <pubDate>Wed, 07 Oct 2026 03:44:58 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261007041040/83ba6e18662f5cde46a0894c0427a0da6f21c9932e9396070545357ed638c99b.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'Reckless' AI firms can't control models, says whistleblower</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/6/-reckless-ai-firms-can-t-control-models-says-whistleblower-0830</link>
+      <description>Leading artificial intelligence companies do not know how to keep AI systems from pursuing objectives their developers did not assign, whistleblower Jacob Coxon, a former OpenAI and Anthropic employee, warned Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/6/-reckless-ai-firms-can-t-control-models-says-whistleblower-0830</guid>
+      <category>Technology</category>
+      <pubDate>Tue, 06 Oct 2026 00:30:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261006011028/8125c83199494b3d47f3d6b4f4ed61b5890fa4ca57df9a32bcad3933a896c742.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>REVIEW: Samsung Galaxy Z Fold8 just feels right, lots of fun for content consumption</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/5/review-samsung-galaxy-z-fold8-just-feels-right-lots-of-fun-for-content-consumption-1530</link>
+      <description>The Samsung Z Fold8 may just be the most sensible foldable phone right now. It's very pocketable and is excellent for reading, watching videos and playing games</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/5/review-samsung-galaxy-z-fold8-just-feels-right-lots-of-fun-for-content-consumption-1530</guid>
+      <category>Technology</category>
+      <pubDate>Mon, 05 Oct 2026 07:30:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261005081028/b374aaf4cb28bc841b62b75fbb837cb44b87bcc281df775df1b8d1d1e25fa67e.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>REVIEW: UGREEN rolls out new Apple-ready chargers, but how well do they work?</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/5/review-ugreen-rolls-out-new-apple-ready-chargers-but-how-well-do-they-work-1251</link>
+      <description>UGREEN is expanding its charging lineup with new accessories designed for use at home, at work, or on the go, as Apple rolls out its latest generation of devices, including the iPhone Duo.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/5/review-ugreen-rolls-out-new-apple-ready-chargers-but-how-well-do-they-work-1251</guid>
+      <category>Technology</category>
+      <pubDate>Mon, 05 Oct 2026 04:51:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261002051052/8f3361456dd6a333e1d612520d28f8a17fa7b61ab73f8e083d4ab288f733b6ec.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Trump confirms national intelligence chief as new AI czar</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/5/trump-confirms-national-intelligence-chief-as-new-ai-czar-0734</link>
+      <description>US President Donald Trump on Sunday confirmed national intelligence chief Jay Clayton as head of a new White House task force on artificial intelligence, amid increasingly vocal warnings from researchers about the technology's potential dangers.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/5/trump-confirms-national-intelligence-chief-as-new-ai-czar-0734</guid>
+      <category>Technology</category>
+      <pubDate>Sun, 04 Oct 2026 23:34:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261005001028/b93000387b56570d565bd11ebe809b055f0c75954b2bacd7959d274a38bcb00b.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>V of BTS is the new ambassador of Nothing</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/2/v-of-bts-is-the-new-ambassador-of-nothing-1334</link>
+      <description>BTS' member V becomes the global ambassador for fast growing smartphone and consumer audio brand, Nothing.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/2/v-of-bts-is-the-new-ambassador-of-nothing-1334</guid>
+      <category>Technology</category>
+      <pubDate>Fri, 02 Oct 2026 05:34:59 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261002051044/589da4de7d84d2115930fc413cecdbe96cb1e1e4cd7193286e03d88f7f5a1c70.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>HONOR launches 600S midrange phone with massive battery, AI image-to-video</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/2/honor-launches-600s-midrange-phone-with-massive-battery-ai-image-to-video-0022</link>
+      <description>The brand said the HONOR 600S was developed as the most affordable member of HONOR’s 600 family of midrange phones.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/2/honor-launches-600s-midrange-phone-with-massive-battery-ai-image-to-video-0022</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 01 Oct 2026 16:22:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261001171020/f5168b6295da7f0a31223ad49bb7553fe041da1efcb7c9f1e69fe1f60b709523.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Lawyers are now using AI in their work, but the real battle is trust</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/1/lawyers-are-now-using-ai-in-their-work-but-the-real-battle-is-trust-1338</link>
+      <description>AI adoption in legal work is exploding across Asia, but the real bottleneck is trust: authoritative data, verification, governance and measurable value.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/1/lawyers-are-now-using-ai-in-their-work-but-the-real-battle-is-trust-1338</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 01 Oct 2026 05:38:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261001061020/980994df56cfc9466aafd8440212fbaef09c63d871c8389ed1fda5e8e6b2c377.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Google restricts access to new AI model over safety concerns</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/1/google-restricts-access-to-new-ai-model-over-safety-concerns-1011</link>
+      <description>Google on Wednesday said it would withhold its most powerful artificial intelligence model from the public for now, releasing Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/1/google-restricts-access-to-new-ai-model-over-safety-concerns-1011</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 01 Oct 2026 02:11:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100103108/5aa6737491239b887176b11a42cc67de720d855ed5f167098003a394799441d7.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>US regulator probes Anthropic and OpenAI over AI safety: report</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/10/1/us-regulator-probes-anthropic-and-openai-over-ai-safety-report-0812</link>
+      <description>The Federal Trade Commission has launched a broad investigation into artificial intelligence safety practices at Anthropic and OpenAI, the Washington Post reported on Wednesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/10/1/us-regulator-probes-anthropic-and-openai-over-ai-safety-report-0812</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 01 Oct 2026 00:12:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261001011012/34557b98c28e18d21ff0f5cfa851d96905fab660d40945739e733c2a6ebe38df.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>PREVIEW: Samsung intends to stay king of Android tablets with Galaxy Tab S12 Ultra</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/30/preview-samsung-intends-to-stay-king-of-android-tablets-with-galaxy-tab-s12-ultra-2100</link>
+      <description>Whether as a standalone tablet or clipped to its Pro Keyboard cover, this S-tier device looks and feels like it belongs in the C-suite.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/30/preview-samsung-intends-to-stay-king-of-android-tablets-with-galaxy-tab-s12-ultra-2100</guid>
+      <category>Technology</category>
+      <pubDate>Wed, 30 Sep 2026 13:00:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026093014090/21ab7a120b1b1d9db961e71a44b2b3d3bcbf534224b27abd531d7576eda42c8d.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Print's not dead! PH still one of leading markets for inkjets in SE Asia — HP</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/30/print-s-not-dead-ph-still-one-of-leading-markets-for-inkjets-in-se-asia-hp-1824</link>
+      <description>The Philippines remains one of Southeast Asia's leading markets for inkjet printers, computer giant HP said Wednesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/30/print-s-not-dead-ph-still-one-of-leading-markets-for-inkjets-in-se-asia-hp-1824</guid>
+      <category>Technology</category>
+      <pubDate>Wed, 30 Sep 2026 10:24:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260930110920/bdf5e50bb3894e688504e4693d397889d99e55751cd80d94b00d7704732deaa8.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>AI can never replace teachers — Marcos</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/30/ai-can-never-replace-teachers-marcos-1645</link>
+      <description>MANILA— President Ferdinand Marcos Jr. on Wednesday highlighted the role of teachers in the age of artificial intelligence—while imploring them to shape students as critical thinkers.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/30/ai-can-never-replace-teachers-marcos-1645</guid>
+      <category>Technology</category>
+      <pubDate>Wed, 30 Sep 2026 08:45:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260930090940/0901ae791bf5ad8284cac4190848d7af78073d20251ec1feafd49587a803c3dd.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>OpenAI unveils low-cost AI model, a day after shelving Astra upgrade</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/30/openai-unveils-low-cost-ai-model-a-day-after-shelving-astra-upgrade-1030</link>
+      <description>OpenAI launched a new mid-range artificial intelligence model Tuesday at one-fifth the cost of its flagship offering, one day after scrapping an upgraded version deemed unreliable.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/30/openai-unveils-low-cost-ai-model-a-day-after-shelving-astra-upgrade-1030</guid>
+      <category>Technology</category>
+      <pubDate>Wed, 30 Sep 2026 02:30:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260930030924/87e96d55f420261c5d618593d98b585e74f400748643e9f0003f67ff829186e6.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>AI bosses head to White House as safety pressure builds</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/29/ai-bosses-head-to-white-house-as-safety-pressure-builds-1052</link>
+      <description>The lunch meeting, not yet confirmed by the White House, will feature Meta CEO Mark Zuckerberg, Google CEO Sundar Pichai, and OpenAI President Greg Brockman, according to CNN.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/29/ai-bosses-head-to-white-house-as-safety-pressure-builds-1052</guid>
+      <category>Technology</category>
+      <pubDate>Tue, 29 Sep 2026 02:52:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260929030948/5031aaef3318f0b16eaa61e2a8913ec54dc46ca5069fd4aa03ee228d43827473.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>OpenAI cancels release of newest model due to safety concerns</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/29/openai-cancels-release-of-newest-model-due-to-safety-concerns-0840</link>
+      <description>OpenAI will not release its newest artificial intelligence model, known as Astra 6.1, after internal testing by the ChatGPT-maker revealed it did not meet safety standards, the company confirmed Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/29/openai-cancels-release-of-newest-model-due-to-safety-concerns-0840</guid>
+      <category>Technology</category>
+      <pubDate>Tue, 29 Sep 2026 00:40:38 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260929010936/ecbe5b1182d064d30b2f40b4ce2381812891ac4d2738472c879c568ac3935916.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>SpaceX aims to put Starship in orbit for the first time</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/28/spacex-aims-to-put-starship-in-orbit-for-the-first-time-1336</link>
+      <description>Three years after its first test flight, SpaceX's Starship rocket will attempt Monday to enter Earth's orbit.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/28/spacex-aims-to-put-starship-in-orbit-for-the-first-time-1336</guid>
+      <category>Technology</category>
+      <pubDate>Mon, 28 Sep 2026 05:36:06 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260928060932/79d252e2e4a4c3ff43625316ace9f44fd5d26530d3adf12b734a6d3ba79bbba5.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>REVIEW: Huawei Watch GT 7 Pro gets serious about fitness, health tracking</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/28/review-huawei-watch-gt7-pro-gets-serious-about-health-tracking-0800</link>
+      <description>This smartwatch can track your fitness and even warn you of possible health risks like heart disease and diabetes.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/28/review-huawei-watch-gt7-pro-gets-serious-about-health-tracking-0800</guid>
+      <category>Technology</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260927140952/3dd8be8c642867e46d42867830a56fd116c8df5d9b1161b5b6a5141f042e276d.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Marcos: PH to expand support for Industry 4.0 firms after robotics facility visit</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/26/marcos-ph-to-expand-support-for-industry-4-0-firms-after-robotics-facility-visit-1402</link>
+      <description>President Ferdinand Marcos Jr. on Saturday said the government would expand its support for companies adopting Industry 4.0 technologies after inspecting a DOST-assisted robotics-driven manufacturing facility in Laguna.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/26/marcos-ph-to-expand-support-for-industry-4-0-firms-after-robotics-facility-visit-1402</guid>
+      <category>Technology</category>
+      <pubDate>Sat, 26 Sep 2026 06:02:59 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260926060936/4d8daf90e4e1384921e3e00cbde4abaecbcac0f88796a0c5b78d91726708b350.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DICT says probing potential data exposure affecting 48 accredited tech firms</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/25/dict-says-probing-potential-data-exposure-affecting-48-accredited-tech-firms-2030</link>
+      <description>Initial information indicates that approximately 410 files linked to 48 companies participating in the DTAP program may have been exposed, the DICT said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/25/dict-says-probing-potential-data-exposure-affecting-48-accredited-tech-firms-2030</guid>
+      <category>Technology</category>
+      <pubDate>Fri, 25 Sep 2026 12:30:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260925130928/0f53466c81326032db4eda4ee54759762b2055c77ede0100451dffb2e0e59d61.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How to prevent your TikTok feed from being flooded with AI slop</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/25/how-to-prevent-your-tiktok-feed-from-being-flooded-with-ai-slop-1903</link>
+      <description>As AI-generated content becomes easier to produce at scale, detection and platform integrity measures are increasingly important to help protect users from misleading or low-quality content, TikTok said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/25/how-to-prevent-your-tiktok-feed-from-being-flooded-with-ai-slop-1903</guid>
+      <category>Technology</category>
+      <pubDate>Fri, 25 Sep 2026 11:03:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026092512090/a7577e9c02aa400264008ab4fec58b6922b9bde9d5404e770372fca04df8a8ec.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Marcos ready to show 'strong political will' in ban on select social media apps—Palace</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/25/marcos-to-show-strong-political-will-in-ban-on-select-social-media-apps-palace-1617</link>
+      <description>While bans could affect some users, the Palace says protecting young people and preventing violence should remain the priority.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/25/marcos-to-show-strong-political-will-in-ban-on-select-social-media-apps-palace-1617</guid>
+      <category>Technology</category>
+      <pubDate>Fri, 25 Sep 2026 08:17:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260925090916/61de7b7a89ee3ef5f0a0558d553b6f749e8ddd56861f4f2f908596c824fb5db3.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DICT claims 'success' in temporary ban as Discord, Reddit agree to safeguards</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/25/dict-claims-success-in-temporary-ban-as-discord-reddit-agree-to-safeguards-1444</link>
+      <description>The DICT said it "successfully compelled both tech giants to establish binding, operational commitments."</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/25/dict-claims-success-in-temporary-ban-as-discord-reddit-agree-to-safeguards-1444</guid>
+      <category>Technology</category>
+      <pubDate>Fri, 25 Sep 2026 06:44:12 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260925070940/58c41f9f71cfa1c64dce35abcdd135896d5595f45904df973275a8ec470b7fab.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Meta shares soar after launch of Muse AI</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/25/meta-shares-soar-after-launch-of-muse-ai-0907</link>
+      <description>Meta shares bounced back to their summer 2025 highs this week, riding a wave of investor excitement about Muse, the social media giant's AI agent which presents an opportunity to generate revenue beyond advertising.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/25/meta-shares-soar-after-launch-of-muse-ai-0907</guid>
+      <category>Technology</category>
+      <pubDate>Fri, 25 Sep 2026 01:07:04 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026092502094/9aab074fb21108fd85d769fbc6baf9a66200b7b3c41cf6b017bd2a9be6fbd68e.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DICT chief says matter with Facebook may be brought to court</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/24/dict-chief-says-matter-with-facebook-may-be-brought-to-court-1904</link>
+      <description>The DICT said it may bring Facebook to court if the social media giant does not cooperate with local authorities.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/24/dict-chief-says-matter-with-facebook-may-be-brought-to-court-1904</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 24 Sep 2026 11:04:29 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026092412094/443ba2ea7b37ced65ec2f867b1e57779fff911242bbc0bed40e4be8c16a5eef4.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>IT groups question basis, authority for Discord ban</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/24/it-groups-question-basis-authority-for-discord-ban-1813</link>
+      <description>Digital rights and safety groups on Thursday cast doubt on the government's basis for blocking access to apps, a move that agencies said are meant to protect children from dangerous influences.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/24/it-groups-question-basis-authority-for-discord-ban-1813</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 24 Sep 2026 10:13:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924100952/ba0aff923ddb1078399933420706dc24e389596b1c83f59b2b11d0944a6577e1.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Discord ban lifted after ‘successful negotiations’ – DICT</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/24/discord-ban-lifted-after-successful-negotiations-dict-1812</link>
+      <description>The ban on tech platform Discord was lifted after “successful negotiations,” DICT Secretary Henry Aguda said on Thursday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/24/discord-ban-lifted-after-successful-negotiations-dict-1812</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 24 Sep 2026 10:12:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026092411098/2200d36d92cc970c19f155ca8868c755507e2b0d3b9eab263721b60700123314.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How foldable phones fit every lifestyle</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/24/how-foldable-phones-fit-every-lifestyle-1451</link>
+      <description>As our lives move between work, play, entertainment, and everything in between, the right smartphone may help make every moment feel a little more at ease.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/24/how-foldable-phones-fit-every-lifestyle-1451</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 24 Sep 2026 06:51:48 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260923090920/feb2c2265881b54d776c6cb682f1acf2ec50c56500c4773de1b51861e1b868b7.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>At UN, tech chiefs urge caution in AI development</title>
+      <link>https://www.abs-cbn.com/news/world/2026/9/24/at-un-tech-chiefs-urge-caution-in-ai-development-0857</link>
+      <description>Leaders of major AI firms told the UN Security Council on Wednesday that the technology calls for heightened vigilance, with Anthropic's CEO pledging to slow down where needed to ensure the safety of new releases.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/9/24/at-un-tech-chiefs-urge-caution-in-ai-development-0857</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 24 Sep 2026 00:57:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924010952/13207b274b1c503bdfe764d96222d9b69aee1920fad905921f17b70e5e280518.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Meta launches camera-free AI glasses amid privacy pushback</title>
+      <link>https://www.abs-cbn.com/news/world/2026/9/24/meta-launches-camera-free-ai-glasses-amid-privacy-pushback-0848</link>
+      <description>Meta unveiled several new wearables powered by its artificial intelligence (AI) models on Wednesday, including an audio-only, camera-free version of its smart glasses, amid global concerns about privacy and the filming of women and girls without their consent.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/9/24/meta-launches-camera-free-ai-glasses-amid-privacy-pushback-0848</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 24 Sep 2026 00:48:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924010940/b62b3339fac549968210804339cb948787d932d0016ec02eb1f50aac3408716e.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Australia says OpenAI hacked government health website</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/24/australia-says-openai-hacked-government-health-website-0828</link>
+      <description>The artificial intelligence agent accessed public and non-public files of the health statistics service, he told reporters in New York on Wednesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/24/australia-says-openai-hacked-government-health-website-0828</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 24 Sep 2026 00:28:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924010924/ecbe5b1182d064d30b2f40b4ce2381812891ac4d2738472c879c568ac3935916.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DICT seeks P1.8 billion to boost government digitalization</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/23/dict-seeks-p1-8-billion-to-boost-government-digitalization-2048</link>
+      <description>The Department of Information and Communications Technology is proposing a P1.8-billion allocation in its 2027 budget for the government’s digitalization program through the implementation of the E-Governance Act.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/23/dict-seeks-p1-8-billion-to-boost-government-digitalization-2048</guid>
+      <category>Technology</category>
+      <pubDate>Wed, 23 Sep 2026 12:48:13 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260923130936/24622a0ffaffbe46b384e9bec4062c259904cc9db359e4ad34af107e6931d2a1.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Government brings cyber safety campaign to senior citizens amid scam risks</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/23/government-brings-cyber-safety-campaign-to-senior-citizens-amid-scam-risks-1457</link>
+      <description>The country's elderly population continues to grow with 11.42 million older persons now accounting for about one in every 10 Filipinos</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/23/government-brings-cyber-safety-campaign-to-senior-citizens-amid-scam-risks-1457</guid>
+      <category>Technology</category>
+      <pubDate>Wed, 23 Sep 2026 06:57:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260923070956/c6fbb67894f440508e15a910e1d17c5f93b4baa5309633b8c31069c4e4982118.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Reddit agrees to set up PH office–Cybercrime agency</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/23/reddit-discord-agree-to-set-up-ph-office-cybercrime-agency-1335</link>
+      <description>The Cybercrime Investigation and Coordinating Agency said Reddit agreed to follow the agency's order to have a Philippine office to facilitate coordination with authorities.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/23/reddit-discord-agree-to-set-up-ph-office-cybercrime-agency-1335</guid>
+      <category>Technology</category>
+      <pubDate>Wed, 23 Sep 2026 05:35:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260923110924/d4446e0e6496ba8ab0b333a9520d0fdc7610b3635451ea4bf9f12546b230c2e1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Anthropic, OpenAI release cheaper AI even as safety fears grow</title>
+      <link>https://www.abs-cbn.com/news/world/2026/9/23/anthropic-openai-release-cheaper-ai-even-as-safety-fears-grow-0839</link>
+      <description>Anthropic and OpenAI on Tuesday released new, cheaper artificial intelligence models within hours of each other, days after the heads of both companies called for a slowdown in AI development.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/9/23/anthropic-openai-release-cheaper-ai-even-as-safety-fears-grow-0839</guid>
+      <category>Technology</category>
+      <pubDate>Wed, 23 Sep 2026 00:39:27 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260923010936/bbebfe194d452cf622bdbb0da6e1eab5cf720a6001c703f66596703b774b1156.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Trump renames AI 'super intelligence,' rejects international oversight</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/23/trump-renames-ai-super-intelligence-rejects-international-oversight-0150</link>
+      <description>US President Donald Trump on Tuesday announced that the US government would rename artificial intelligence "super intelligence" in official communications.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/23/trump-renames-ai-super-intelligence-rejects-international-oversight-0150</guid>
+      <category>Technology</category>
+      <pubDate>Tue, 22 Sep 2026 17:50:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260922180936/4c18273a886c3e6077bcd021f79ed91a45e379e171294113e07d069c54d29ef3.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DILG seeks regulation to limit children’s access to social media</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/22/dilg-seeks-regulation-to-limit-children-s-access-to-social-media-1912</link>
+      <description>The Department of the Interior and Local Government is seeking regulation to limit children’s access to social media amid the recent campus shooting incidents.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/22/dilg-seeks-regulation-to-limit-children-s-access-to-social-media-1912</guid>
+      <category>Technology</category>
+      <pubDate>Tue, 22 Sep 2026 11:12:40 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026092212098/a5feed0a1c763fed655c41f9b47f4bfdf72cd2921e61ca7335f1580ce21dec0f.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Privacy watchdog issues show cause to Meta, Reddit, Roblox, Discord</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/22/privacy-watchdog-issues-show-cause-to-meta-reddit-roblox-discord-1644</link>
+      <description>The National Privacy Commission said the social media platforms are not following the country's data privacy laws.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/22/privacy-watchdog-issues-show-cause-to-meta-reddit-roblox-discord-1644</guid>
+      <category>Technology</category>
+      <pubDate>Tue, 22 Sep 2026 08:44:01 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260922090940/3d72f1fe135edc4444d3f9000243bcccca6d49bd82aa8d7eb1bd2d7891b21d87.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Smart, Amihan launch AI service for P49 per week</title>
+      <link>https://www.abs-cbn.com/news/technology/2026/9/22/smart-amihan-launch-ai-service-for-p49-per-week-1615</link>
+      <description>The platform allows Smart and TNT mobile subscribers to purchase AI access directly through prepaid load or postpaid accounts.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/technology/2026/9/22/smart-amihan-launch-ai-service-for-p49-per-week-1615</guid>
+      <category>Technology</category>
+      <pubDate>Tue, 22 Sep 2026 08:15:29 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260922090912/e8011923984ab33863abef81f4872476bde982d9097d803efc1278fc30a875c6.jpg" medium="image"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>

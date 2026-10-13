@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ABS-CBN News World</title>
+    <link>https://www.abs-cbn.com/news/world</link>
+    <description>Latest world news from ABS-CBN</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_abscbn_world.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://od2-image-api.abs-cbn.com/prod/newsfavicon.webp</url>
+      <title>ABS-CBN News World</title>
+      <link>https://www.abs-cbn.com/news/world</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2026 12:04:32 +0000</lastBuildDate>
+    <item>
+      <title>US roller coaster 'incident' kills one, injures several</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/13/us-roller-coaster-incident-kills-one-injures-several-1515</link>
+      <description>One person was killed and several were injured after an "incident" on a roller coaster at a theme park in the US state of Georgia on Monday, officials said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/13/us-roller-coaster-incident-kills-one-injures-several-1515</guid>
+      <category>World</category>
+      <pubDate>Tue, 13 Oct 2026 07:15:03 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261013081012/2c7f72f52c0e1f6848d933ea68d7447ae6097dee6101a63d7a03f3465ffa7bda.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Getty Images to go private under 'prepackaged' bankruptcy</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/13/getty-images-to-go-private-under-prepackaged-bankruptcy-1340</link>
+      <description>US photography company Getty Images announced Monday it reached an agreement with major lenders to restructure its debt, take the company private and undertake a "pre-packaged" bankruptcy.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/13/getty-images-to-go-private-under-prepackaged-bankruptcy-1340</guid>
+      <category>World</category>
+      <pubDate>Tue, 13 Oct 2026 05:40:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261013061040/a011987af5c695f1a335bf49913b7349d830563e017a6387fb82b2cb2b789908.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>North Korea fires ballistic missiles into Sea of Japan</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/13/north-korea-fires-ballistic-missiles-into-sea-of-japan-1333</link>
+      <description>North Korea on Monday fired multiple ballistic missiles off its east coast, Seoul's military said, after weeks of mounting friction over a landmine explosion along their heavily fortified border.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/13/north-korea-fires-ballistic-missiles-into-sea-of-japan-1333</guid>
+      <category>World</category>
+      <pubDate>Tue, 13 Oct 2026 05:33:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261013061032/467800b86ec6882d3b5ab0a78fecc8717012a343020439520a3e202ee254fe07.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pope to be admitted to hospital for lung operation</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/13/pope-to-be-admitted-to-hospital-for-lung-operation-1006</link>
+      <description>Pope Leo XIV was due to be admitted to hospital in Rome on Tuesday for surgery to remove a nodule on his lung, an operation experts say is generally low-risk.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/13/pope-to-be-admitted-to-hospital-for-lung-operation-1006</guid>
+      <category>World</category>
+      <pubDate>Tue, 13 Oct 2026 02:06:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026101303100/9b1ec9784e655722406225317131e90022df3337e8620a3ec6582c6e0ebec0a5.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Fury as US federal agents search anti-Trump lawmaker's home</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/13/fury-as-us-federal-agents-search-anti-trump-lawmaker-s-home-0150</link>
+      <description>US federal agents searched the Washington home of Democratic congresswoman Ilhan Omar on Monday as part of a criminal investigation, officials said, marking a dramatic escalation in President Donald Trump's confrontation with the outspoken lawmaker.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/13/fury-as-us-federal-agents-search-anti-trump-lawmaker-s-home-0150</guid>
+      <category>World</category>
+      <pubDate>Mon, 12 Oct 2026 17:50:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012181024/8e8683f6949f0a632a182e0eb921e6fb006c4e34f293f48654beb7e46b17eed1.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Saudi says resilience tested, vows response after deadly airport attacks</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/13/saudi-says-resilience-tested-vows-response-after-deadly-airport-attacks-0110</link>
+      <description>Saudi Arabia's energy minister on Monday said the country had been tested but would mount a "serious" response after a string of attacks on Riyadh's international airport by Yemen's Houthis that left 18 people dead.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/13/saudi-says-resilience-tested-vows-response-after-deadly-airport-attacks-0110</guid>
+      <category>World</category>
+      <pubDate>Mon, 12 Oct 2026 17:10:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012171052/19d6818a2dc0464543fd8e6d7d7fe86a459bd46701f18a6c69993bd97a6f4667.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Back to the future: Retro concept cars take spotlight at Paris auto show</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/13/back-to-the-future-retro-concept-cars-take-spotlight-at-paris-auto-show-0101</link>
+      <description>From Citroen's humble 2CV to Peugeot's rally-bred 205 T16, some of France's best-known cars of the past are getting an electric-age makeover at the Paris auto show.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/13/back-to-the-future-retro-concept-cars-take-spotlight-at-paris-auto-show-0101</guid>
+      <category>World</category>
+      <pubDate>Mon, 12 Oct 2026 17:01:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012171032/ab0855b546a035347534df28071c559e8778505903f63c983118df9930312ce0.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Americans Hall and Woodford win economics Nobel for stabilisation models</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/12/americans-hall-and-woodford-win-economics-nobel-for-stabilisation-models-2325</link>
+      <description>Americans Robert Hall and Michael Woodford were awarded the Nobel economics prize Monday for their work on how monetary and fiscal policy can better stabilise disruptive economic fluctuations.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/12/americans-hall-and-woodford-win-economics-nobel-for-stabilisation-models-2325</guid>
+      <category>World</category>
+      <pubDate>Mon, 12 Oct 2026 15:25:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026101216104/fd66f0c88cebff1d78fdebe04f51d4f2c4f1a342f2a44383bcdb747888f9f4b5.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pope to enter hospital on Tuesday for lung operation</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/12/pope-to-enter-hospital-on-tuesday-for-lung-operation-2234</link>
+      <description>Pope Leo XIV will be admitted to hospital on Tuesday morning for an operation to remove a lump from his lung, the Vatican said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/12/pope-to-enter-hospital-on-tuesday-for-lung-operation-2234</guid>
+      <category>World</category>
+      <pubDate>Mon, 12 Oct 2026 14:34:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012151020/5fd2bcc632818c314dcfb6f94acbceb66dd22985d66069b05dbe8fd8b587beb9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>What we know about Pope Leo XIV's upcoming lung operation</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/12/what-we-know-about-pope-leo-xiv-s-upcoming-lung-operation-1745</link>
+      <description>Pope Leo XIV has said he will have an operation to remove a lump on his lung this week, the first time a pope has made a personal medical announcement of this kind.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/12/what-we-know-about-pope-leo-xiv-s-upcoming-lung-operation-1745</guid>
+      <category>World</category>
+      <pubDate>Mon, 12 Oct 2026 09:45:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012101040/1e199d3336255e9145ef8c415a528412005159515f6bd92b3c96b8fec593ae4e.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Global poverty index rises for first time since its 2010 creation</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/12/global-poverty-index-rises-for-first-time-since-its-2010-creation-1312</link>
+      <description>A UN global poverty index has risen for the first time since its creation in 2010, bringing the number of people affected to 1.2 billion, the United Nations Development Programme reported Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/12/global-poverty-index-rises-for-first-time-since-its-2010-creation-1312</guid>
+      <category>World</category>
+      <pubDate>Mon, 12 Oct 2026 05:12:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026101206108/ba7fb623b922926353f9027bd56bc157f7682d09bb6a4f139f2dc5be03cf8167.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Riyadh airport hit by fresh Houthi strike day after deadly attack</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/12/riyadh-airport-hit-by-fresh-houthi-strike-day-after-deadly-attack-1021</link>
+      <description>A fresh Houthi strike hit Riyadh's international airport on Sunday, killing one person and wounding 11 others, a day after a deadly attack claimed by the Yemeni group forced authorities to suspend operations there.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/12/riyadh-airport-hit-by-fresh-houthi-strike-day-after-deadly-attack-1021</guid>
+      <category>World</category>
+      <pubDate>Mon, 12 Oct 2026 02:21:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026101203108/19d6818a2dc0464543fd8e6d7d7fe86a459bd46701f18a6c69993bd97a6f4667.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Netanyahu demands probe into sources of award-winning Gaza film</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/12/netanyahu-demands-probe-into-sources-of-award-winning-gaza-film-0817</link>
+      <description>Israeli Prime Minister Benjamin Netanyahu called on Sunday for an investigation into the anonymous sources featured in the award-winning Gaza war documentary "NAZA".</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/12/netanyahu-demands-probe-into-sources-of-award-winning-gaza-film-0817</guid>
+      <category>World</category>
+      <pubDate>Mon, 12 Oct 2026 00:17:58 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012011016/cc5e566b6eafd71e719e6e94d353edc8e2c1dd75e7f9b3c2f755b35f7c57290a.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Houthis issue new threat to Saudi airspace after deadly airport attack</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/12/houthis-issue-new-threat-to-saudi-airspace-after-deadly-airport-attack-0048</link>
+      <description>Yemen's Houthis issued a new threat to Saudi Arabia's airspace on Sunday after an attack on the kingdom's international airport in Riyadh killed 12 people and wounded hundreds, forcing authorities to stop operations.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/12/houthis-issue-new-threat-to-saudi-airspace-after-deadly-airport-attack-0048</guid>
+      <category>World</category>
+      <pubDate>Sun, 11 Oct 2026 16:48:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261011171032/5b6f9e478bf99a83100b5543ef9a8997c7df47ca9f229ea068912418b1fe9ceb.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Nepal Army aerial footage shows flood-hit village as authorities urge evacuation</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/11/nepal-army-aerial-footage-shows-flood-hit-village-as-authorities-urge-evacuation-1910</link>
+      <description>Aerial footage released by the Nepali Army on Sunday (October 11) showed a village in Gandaki province inundated after floodwaters tore through central Nepal.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/11/nepal-army-aerial-footage-shows-flood-hit-village-as-authorities-urge-evacuation-1910</guid>
+      <category>World</category>
+      <pubDate>Sun, 11 Oct 2026 11:10:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026101112108/b2b5c6d853426057310d3168831f6954fb7d9d42316ded231c55e713be1401b2.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pope says he will be operated on in 'coming days' for a nodule in lung</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/11/pope-says-he-will-be-operated-on-in-coming-days-for-a-nodule-in-lung-1845</link>
+      <description>Pope Leo XIV on Sunday announced he would be operated "in the coming days" for a lump on his lung, saying it had been located "at a very early stage".</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/11/pope-says-he-will-be-operated-on-in-coming-days-for-a-nodule-in-lung-1845</guid>
+      <category>World</category>
+      <pubDate>Sun, 11 Oct 2026 10:45:39 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261011111044/a168fed30b1155387bca0527ec1292a6f99ff0373e1ae746dfd4ceaab1009c16.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>US Justice Department probes TV networks over pool coverage — media</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/11/us-justice-department-probes-tv-networks-over-pool-coverage-media-1535</link>
+      <description>The US Department of Justice is investigating five television networks after they briefly suspended their pool coverage of President Donald Trump, US media reported on Saturday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/11/us-justice-department-probes-tv-networks-over-pool-coverage-media-1535</guid>
+      <category>World</category>
+      <pubDate>Sun, 11 Oct 2026 07:35:12 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261011081032/30fa5d44dface9813962263c7ce42892857c8c40f98aaed1b7598dee40923a26.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Trump urges Zelensky replacement as diesel row rages</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/11/trump-urges-zelensky-replacement-as-diesel-row-rages-1122</link>
+      <description>Donald Trump called on Saturday for Ukraine to "get a new leader" after Volodymyr Zelensky slammed Washington's easing of Russian diesel sanctions, as the US president faces fuel price pressure weeks before midterm elections.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/11/trump-urges-zelensky-replacement-as-diesel-row-rages-1122</guid>
+      <category>World</category>
+      <pubDate>Sun, 11 Oct 2026 03:22:04 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261011041012/5196e3cf078395c04e9b6e11b12c773b9ea17e0e7904a95b2c55899291614e8b.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Is China seeking to restrict Taiwan's cultural presence?</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/11/is-china-seeking-to-restrict-taiwan-s-cultural-presence-0857</link>
+      <description>From coffee competitions to literature awards, Beijing appears to be working to limit Taiwan's international cultural and political impact.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/11/is-china-seeking-to-restrict-taiwan-s-cultural-presence-0857</guid>
+      <category>World</category>
+      <pubDate>Sun, 11 Oct 2026 00:57:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261011011052/f8ebf4d7746f66920ae57e1baf0d5e3f77823f4512dc1c1c4d17115b6a976392.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>At least 12 dead in Riyadh airport attack — Saudi officials</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/11/at-least-12-dead-in-riyadh-airport-attack-saudi-officials-0803</link>
+      <description>At least 12 people were killed and 309 others wounded Saturday in a strike on Riyadh's international airport, Saudi Arabia's civil aviation officials said — an attack that a diplomatic source blamed on Yemen's Houthis.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/11/at-least-12-dead-in-riyadh-airport-attack-saudi-officials-0803</guid>
+      <category>World</category>
+      <pubDate>Sun, 11 Oct 2026 00:03:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261011001056/ea569d74a69c843c51868e037d5bb0be8407e09a92c06cb0dd0ccde9be91438c.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Taiwan's leader says increasing defense spending to 'deter war'</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/10/taiwan-s-leader-says-increasing-defense-spending-to-deter-war-1559</link>
+      <description>Taiwan aims to "deter war" by increasing its defense spending, the democratic island's leader said on Saturday, as China uses military pressure to assert its territorial claims.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/10/taiwan-s-leader-says-increasing-defense-spending-to-deter-war-1559</guid>
+      <category>World</category>
+      <pubDate>Sat, 10 Oct 2026 07:59:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261010081036/28c02e9e24cfcfaf0637bfa399cc68bd03b8d3b290315f328f19057ee503709b.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Trump calls Nobel Peace Prize pick 'disgraceful'</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/10/trump-calls-nobel-peace-prize-pick-disgraceful-1147</link>
+      <description>US President Donald Trump slammed the "disgraceful" Nobel Peace Prize choice on Friday as leaving an "indelible stain" on Norway, arguing that the award should have gone to him.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/10/trump-calls-nobel-peace-prize-pick-disgraceful-1147</guid>
+      <category>World</category>
+      <pubDate>Sat, 10 Oct 2026 03:47:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026101004108/40e77bd8b2c96ff4aac134d1ea41a6144a0308eb5e74c2a3b99e66ef618303fe.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Powerful waves lash California coast as storm threatens more damage</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/10/powerful-waves-lash-california-coast-as-storm-threatens-more-damage-0845</link>
+      <description>Powerful waves thrashed communities along California's southern coast Friday, damaging homes and sending water cascading through streets as residents braced for more potential damage wrought by Tropical Storm Rachel.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/10/powerful-waves-lash-california-coast-as-storm-threatens-more-damage-0845</guid>
+      <category>World</category>
+      <pubDate>Sat, 10 Oct 2026 00:45:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261010011016/78c0bb9d82dfda00948013dcaa3451c5192682c2afbf597869e2e44c0a7dae4f.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Attorney seeks release of man shot by ICE in New York, says bullet remains in his body</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/10/attorney-seeks-release-of-man-shot-by-ice-in-new-york-0832</link>
+      <description>A New York City man shot and wounded by a federal immigration agent with his 5-year-old son in the back seat of his car still had a bullet in his body nearly 24 hours later, his attorney said on Friday, as US immigration officials defended the shooting.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/10/attorney-seeks-release-of-man-shot-by-ice-in-new-york-0832</guid>
+      <category>World</category>
+      <pubDate>Sat, 10 Oct 2026 00:32:46 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261010001056/0ebf8ad6e75a316c4e6764522f91c7b44ab8020b80cedd65f37342ca78552d10.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Major earthquake destroys buildings, roads in Panama</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/10/7-7-magnitude-quake-rocks-panama-triggers-tsunami-warning-0711</link>
+      <description>A magnitude 7.7 earthquake rocked Panama on Friday, unleashing panic in the high-rise capital city and causing buildings to collapse in the center of the country but produced no immediate reports of casualties.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/10/7-7-magnitude-quake-rocks-panama-triggers-tsunami-warning-0711</guid>
+      <category>World</category>
+      <pubDate>Fri, 09 Oct 2026 23:11:07 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261009231048/4ef6f229775469bee735c14bccf5d5f56a987b6629f4edc1435f24315508e8f2.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>US sanctions ICC, hours after Nobel award to former judge</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/10/us-sanctions-icc-hours-after-nobel-award-to-former-judge-0008</link>
+      <description>The United States on Friday imposed sanctions on the International Criminal Court, vowing to cripple the tribunal's operations just hours after the Nobel Peace Prize went to a former ICC judge who warned of mounting political attacks on the court.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/10/us-sanctions-icc-hours-after-nobel-award-to-former-judge-0008</guid>
+      <category>World</category>
+      <pubDate>Fri, 09 Oct 2026 16:08:04 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100917104/0101365e5209f05db2fd0a04705ed99c29360cb9f943ca9add3de387a8a06163.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Navi Pillay, South African rights champion, wins Nobel Peace Prize</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/9/navi-pillay-south-african-rights-champion-wins-nobel-peace-prize-1807</link>
+      <description>The Nobel Peace Prize was awarded Friday to South Africa's Navi Pillay, the judge who headed the Rwanda genocide tribunal and who last year presided over a UN commission which accused Israel of genocide in Gaza.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/9/navi-pillay-south-african-rights-champion-wins-nobel-peace-prize-1807</guid>
+      <category>World</category>
+      <pubDate>Fri, 09 Oct 2026 10:07:04 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100911104/59eaae7a9d99ec4ac9b4ebb76aa264c55841c97261802c426c00c3af3e229ad4.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Trump rules out new Iran attack before US midterm elections</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/9/trump-rules-out-new-iran-attack-before-us-midterm-elections-1458</link>
+      <description>President Donald Trump ruled out Thursday attacking Iran before the US midterms on November 3, saying Washington was holding "productive discussions" with Tehran.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/9/trump-rules-out-new-iran-attack-before-us-midterm-elections-1458</guid>
+      <category>World</category>
+      <pubDate>Fri, 09 Oct 2026 06:58:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261009071056/219189fd1f2af9439a60771bd745e81d573f96f2da8ef3eab868f98a113659d6.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Man shot during reported ICE operation in New York</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/9/man-shot-during-reported-ice-operation-in-new-york-0835</link>
+      <description>A man was shot Thursday during an interaction with federal agents in New York, city police said, with US media reporting that Immigration and Customs Enforcement (ICE) was involved.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/9/man-shot-during-reported-ice-operation-in-new-york-0835</guid>
+      <category>World</category>
+      <pubDate>Fri, 09 Oct 2026 00:35:07 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261009011032/2a992537516e263b0f50e295142909a119b1b0b31dcd0190b88fe85e96820e8c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>USS Abraham Lincoln returns after 'epic' 10-month deployment</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/9/uss-abraham-lincoln-returns-after-epic-10-month-deployment-0752</link>
+      <description>The USS Abraham Lincoln is the flagship of a carrier strike group that saw eight suicide attempts among US sailors during its 10-month deployment, according to the Navy. Its deployment included more than 260 continuous days without a port call.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/9/uss-abraham-lincoln-returns-after-epic-10-month-deployment-0752</guid>
+      <category>World</category>
+      <pubDate>Thu, 08 Oct 2026 23:52:18 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261009001044/26024f2e52bb1732781f69637ba08fec49fb5a1cec73c9b3602abf6fd14398eb.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Yemen's Houthis say struck airport in Saudi capital</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/8/yemen-s-houthis-say-struck-airport-in-saudi-capital-1155</link>
+      <description>Yemen's Houthis said Thursday that they struck the Saudi capital's main international airport with a ballistic missile, in another attack on the kingdom claimed by the Iran-backed group.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/8/yemen-s-houthis-say-struck-airport-in-saudi-capital-1155</guid>
+      <category>World</category>
+      <pubDate>Thu, 08 Oct 2026 03:55:22 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261008041052/b5eab417da59c216c8d6276df0b8f5a9360e61be1a4d04882cdafa73b1757fd8.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Trump to give Musk top US science medal</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/8/trump-to-give-musk-top-us-science-medal-0915</link>
+      <description>Space X and Tesla tycoon Musk has returned to Trump’s good graces after they fell out last year over his role heading the cost-cutting Department of Government Efficiency.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/8/trump-to-give-musk-top-us-science-medal-0915</guid>
+      <category>World</category>
+      <pubDate>Thu, 08 Oct 2026 01:15:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261008021012/45d8d0bfa1ec3eaa4dde44de578cd93ac9d74b4868101e758c01a08d92822299.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Platform that sold stolen sexual images of women and girls shut</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/8/platform-that-sold-stolen-sexual-images-of-women-and-girls-shut-0906</link>
+      <description>A joint French-US operation has shut down several websites associated with an online platform that sold private sexual content stolen from over 17,000 women worldwide, law enforcement authorities in both countries said Wednesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/8/platform-that-sold-stolen-sexual-images-of-women-and-girls-shut-0906</guid>
+      <category>World</category>
+      <pubDate>Thu, 08 Oct 2026 01:06:03 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100802104/52d928cb3320796fef2b526c87bc428a44b8bb450eed03bdbf359742144b8a52.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pope says church must review attitude to 'sexuality and intimacy'</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/8/pope-says-church-must-review-attitude-to-sexuality-and-intimacy-0833</link>
+      <description>Pope Leo XIV on Wednesday called on the Roman Catholic Church to revise the way it helps families and handles failed marriages as he opened a major weeklong religious assembly.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/8/pope-says-church-must-review-attitude-to-sexuality-and-intimacy-0833</guid>
+      <category>World</category>
+      <pubDate>Thu, 08 Oct 2026 00:33:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261008011028/291527489a463542263af9aac52f14e979ecf4d6fc19a8427aade4856126773e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>After botched execution, US woman was nearly taken off life support before revival</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/8/after-botched-execution-us-woman-was-nearly-taken-off-life-support-before-revival-0828</link>
+      <description>A convicted US killer who survived a botched execution was almost taken off life support before she regained consciousness, her lawyer said Wednesday, as a court ordered prison authorities to preserve evidence in the case.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/8/after-botched-execution-us-woman-was-nearly-taken-off-life-support-before-revival-0828</guid>
+      <category>World</category>
+      <pubDate>Thu, 08 Oct 2026 00:28:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261008011016/edc8ea60e6cb5b1c9d4200c275db246ffbc201e5f14d48ccb72ca38e0d7a72f1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'God willing, we will return': Gazan longs for home following three years of displacement</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/8/gazan-longs-for-home-following-three-years-of-displacement-0203</link>
+      <description>Sitting beside a small fire outside a tent in Gaza City, 62-year-old Fatima Abdel-Majid Abu Ouda looks at a photograph of the home she fled nearly three years ago in Beit Hanoun, a town in northern Gaza now largely reduced to rubble.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/8/gazan-longs-for-home-following-three-years-of-displacement-0203</guid>
+      <category>World</category>
+      <pubDate>Wed, 07 Oct 2026 18:03:44 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100718100/a9e0f7292d241a6262a5c465ab7245f105a6ad6b0489f7ddfc58a8df19bde62e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pope Leo opens Vatican meeting likely to discuss remarriage, gay Catholics</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/8/pope-leo-opens-vatican-meeting-likely-to-discuss-remarriage-gay-catholics-0133</link>
+      <description>Pope Leo on Wednesday urged an assembly of some 150 bishops from around the world to find renewed ways of helping modern families at the start of a week-long meeting at the Vatican, his biggest gathering of Church leaders so far.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/8/pope-leo-opens-vatican-meeting-likely-to-discuss-remarriage-gay-catholics-0133</guid>
+      <category>World</category>
+      <pubDate>Wed, 07 Oct 2026 17:33:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261007171028/dbe269850b3ad5b7280d2f34d96365c69a773c023b524d1f95c6384481d397ab.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Russia warns of 'false' information as second plague case reported</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/8/russia-warns-of-false-information-as-second-plague-case-reported-0118</link>
+      <description>Russia warned Wednesday against "false" information as reports emerged of a second suspected case of plague in Siberia, with Washington and Brussels calling for transparency and neighbouring Mongolia tightening health surveillance.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/8/russia-warns-of-false-information-as-second-plague-case-reported-0118</guid>
+      <category>World</category>
+      <pubDate>Wed, 07 Oct 2026 17:18:57 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261007161056/add90f9255a545a82f590b809f9860471bab88675cf4b2888e138a92d36ae8a4.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Israel marks three years since Hamas's October 7 attack</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/7/israel-marks-three-years-since-hamas-s-october-7-attack-1019</link>
+      <description>Israel marks the third anniversary of Hamas's October 7, 2023 attack on Wednesday, just weeks before an election in which the deadliest day in the country's history will be front and centre.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/7/israel-marks-three-years-since-hamas-s-october-7-attack-1019</guid>
+      <category>World</category>
+      <pubDate>Wed, 07 Oct 2026 02:19:25 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261007031012/f6295e7c27010871fba7ce7e61e9100026f5136a6a6b1f3820c4d537a20479e8.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'2026 is the new 1789': French students take school anger to Paris streets</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/7/-2026-is-the-new-1789-french-students-take-school-anger-to-paris-streets-0859</link>
+      <description>Across France, students and teachers have blocked the entrances to hundreds of high schools for 15- to 17-year-olds, protesting against teacher shortages, overloaded timetables, ill-equipped classrooms and buildings not designed to cope with rising temperatures.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/7/-2026-is-the-new-1789-french-students-take-school-anger-to-paris-streets-0859</guid>
+      <category>World</category>
+      <pubDate>Wed, 07 Oct 2026 00:59:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261007011056/1d7e7fed3f811860efa01f8a4abbfc5edb5fdfd35dbcfb2c19e7d9f067e12c2e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Trump to speak to Putin on plague as US, UN urge transparency</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/7/trump-to-speak-to-putin-on-plague-as-us-un-urge-transparency-0842</link>
+      <description>US President Donald Trump said Tuesday he would speak very soon with Russian President Vladimir Putin over the reported plague death of a laboratory technician, as Washington and the United Nations called for transparency from Moscow.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/7/trump-to-speak-to-putin-on-plague-as-us-un-urge-transparency-0842</guid>
+      <category>World</category>
+      <pubDate>Wed, 07 Oct 2026 00:42:03 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261007011040/7d79855cae6078f5ce3801b03edbfa3818a940bfa669398615a7fa7b8ca7db28.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>US woman who survived botched execution is conscious, speaking: lawyers</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/7/us-woman-who-survived-botched-execution-is-conscious-speaking-lawyers-0812</link>
+      <description>The female inmate who survived a failed execution in a US prison last week is now conscious and speaking, but her prognosis remains unclear, her lawyers said Tuesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/7/us-woman-who-survived-botched-execution-is-conscious-speaking-lawyers-0812</guid>
+      <category>World</category>
+      <pubDate>Wed, 07 Oct 2026 00:12:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100701108/edc8ea60e6cb5b1c9d4200c275db246ffbc201e5f14d48ccb72ca38e0d7a72f1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>EXPLAINER: How is the Nobel Peace Prize decided?</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/6/explainer-how-is-the-nobel-peace-prize-decided-2305</link>
+      <description>The winner of the 2026 Nobel Peace Prize will be announced on October 9 in Oslo. There are 287 candidates in the running.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/6/explainer-how-is-the-nobel-peace-prize-decided-2305</guid>
+      <category>World</category>
+      <pubDate>Tue, 06 Oct 2026 15:05:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100615108/d3438d39548a4c3d23d219fce1d5c1bc6c71ceaf013dfe873f897dba61a9686c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'Gen Z has risen up': Tens of thousands demand better education in France</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/6/-gen-z-has-risen-up-tens-of-thousands-demand-better-education-in-france-2248</link>
+      <description>Tens of thousands of demonstrators took to the streets across France on Tuesday, as unions and teachers joined high school students who for days have been demanding better learning conditions in protests punctuated by violent confrontations.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/6/-gen-z-has-risen-up-tens-of-thousands-demand-better-education-in-france-2248</guid>
+      <category>World</category>
+      <pubDate>Tue, 06 Oct 2026 14:48:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261006151028/8b23de2f4e9b77177fdfcbc33288a135a0783e86a35ea9786c6e3504c36c0f7a.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Nobel physics prize honors work on 'ghostly messengers' from outer space</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/6/nobel-physics-prize-honors-work-on-ghostly-messengers-from-outer-space-2201</link>
+      <description>Belgian physicist Francis Halzen on Tuesday won the Nobel physics prize for groundbreaking work using South Pole ice to capture particles originating in the distant cosmos, providing insight into the far reaches of space.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/6/nobel-physics-prize-honors-work-on-ghostly-messengers-from-outer-space-2201</guid>
+      <category>World</category>
+      <pubDate>Tue, 06 Oct 2026 14:01:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261006141028/b0fcb41d38cb8dd368a7c64d4b6943966c151dca41baf548d9586576da65eb70.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>OpenAI sorry for Australia hack, wants to rebuild trust</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/6/openai-sorry-for-australia-hack-wants-to-rebuild-trust-1432</link>
+      <description>OpenAI conceded Tuesday it botched the handling of a hacking incident in Australia, vowing to rebuild trust in a nation it is courting to host massive data centers.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/6/openai-sorry-for-australia-hack-wants-to-rebuild-trust-1432</guid>
+      <category>World</category>
+      <pubDate>Tue, 06 Oct 2026 06:32:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261006071028/9e42b76adab8f5fc19d3a27dac31fc5d906f5cba581eeba52f94397cde50e3cc.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>South Korea warns of possible AI use in banking hacks</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/6/south-korea-warns-of-possible-ai-use-in-banking-hacks-1423</link>
+      <description>Artificial intelligence may have been used in a string of cyberattacks targeting South Korea's financial sector, the president said Tuesday as police announced the launch of an investigation.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/6/south-korea-warns-of-possible-ai-use-in-banking-hacks-1423</guid>
+      <category>World</category>
+      <pubDate>Tue, 06 Oct 2026 06:23:18 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261006071020/a3f8ffb1f54d39615a3d3042bfe79d7f49716389e4ccca0c89acbc18a5b93c22.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Grappling with 'homework scams,' US universities shun AI detectors</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/6/grappling-with-homework-scams-us-universities-shun-ai-detectors-1405</link>
+      <description>AI chatbots have made large-scale cheating among students — what some educators call "homework scams"—easier than ever, allowing them to generate credible solutions to almost any written assignment within seconds.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/6/grappling-with-homework-scams-us-universities-shun-ai-detectors-1405</guid>
+      <category>World</category>
+      <pubDate>Tue, 06 Oct 2026 06:05:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100607104/98f0ee7e2dc8af0addfca223b1d4c717ccc1fa1b3f502468ded3e319a5021e6a.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Trump moves to cut diesel costs with order on tax-free fuel</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/6/trump-moves-to-cut-diesel-costs-with-order-on-tax-free-fuel-1353</link>
+      <description>US President Donald Trump on Monday signed an executive order allowing drivers to use tax-exempt red-dyed diesel, a fuel normally reserved for farm machinery and other off-road equipment, on public roads.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/6/trump-moves-to-cut-diesel-costs-with-order-on-tax-free-fuel-1353</guid>
+      <category>World</category>
+      <pubDate>Tue, 06 Oct 2026 05:53:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261006061052/222f4c809cbf327f82accf82afcc08b09e3ed2daaea7cea39436a433338591b6.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ready, set, snooze: Sleep-deprived Japanese compete for best-rested</title>
+      <link>https://www.abs-cbn.com/news/world/2026/10/6/ready-set-snooze-sleep-deprived-japanese-compete-for-best-rested-1257</link>
+      <description>In diligent, exhausted Japan, self-described elite "competitive sleepers" vied to lie down, relax and nap the fastest and deepest in a contest organised by a mattress company.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/world/2026/10/6/ready-set-snooze-sleep-deprived-japanese-compete-for-best-rested-1257</guid>
+      <category>World</category>
+      <pubDate>Tue, 06 Oct 2026 04:57:27 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261006051052/7a0d62940e473766525c4a34d9b281897e4908b0633089e42b8626648942f5af.jpg" medium="image"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>

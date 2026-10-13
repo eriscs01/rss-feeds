@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ABS-CBN News Health &amp; Science</title>
+    <link>https://www.abs-cbn.com/news/health-science</link>
+    <description>Latest health and science news from ABS-CBN</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_abscbn_health_science.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://od2-image-api.abs-cbn.com/prod/newsfavicon.webp</url>
+      <title>ABS-CBN News Health &amp; Science</title>
+      <link>https://www.abs-cbn.com/news/health-science</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2026 12:04:32 +0000</lastBuildDate>
+    <item>
+      <title>Child rights advocates push for smoke, vape-free environments as bill eyes expanded restrictions</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/12/child-rights-advocates-push-for-smoke-vape-free-environments-as-bill-eyes-expanded-restrictions-2015</link>
+      <description>Six in 10 Filipino students aged 13 to 15 are exposed to secondhand cigarette smoke in outdoor and enclosed public spaces, raising concerns among health and child rights advocates about the effects of smoking on young people.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/12/child-rights-advocates-push-for-smoke-vape-free-environments-as-bill-eyes-expanded-restrictions-2015</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Mon, 12 Oct 2026 12:15:56 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261012121056/e2e00f6d218bbf00a35b018a9feb3b9dfd94a7ab320e6b8d5d74007761560b2e.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Plague outbreak in PH unlikely, expert says</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/9/plague-outbreak-in-ph-unlikely-expert-says-1725</link>
+      <description>An outbreak of plague in the Philippines is unlikely amid reports of a suspected pneumonic plague case in Russia, an infectious disease expert said.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/9/plague-outbreak-in-ph-unlikely-expert-says-1725</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Fri, 09 Oct 2026 09:25:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261009101024/0cb4efd8894f9e4a57bf4e50e0eaf1838c04d2d06be718295f8bcb3a8aa5eb29.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Beyond the myths: Understanding suicide and how it can be prevented</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/8/beyond-the-myths-understanding-suicide-and-how-it-can-be-prevented-1850</link>
+      <description>The DOH has identified several myths surrounding suicide and offered ways at how public discourse can still happen without contributing to stigma and encouraging the possibility of copycat incidents or what professionals refer to as the Werther effect.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/8/beyond-the-myths-understanding-suicide-and-how-it-can-be-prevented-1850</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Thu, 08 Oct 2026 10:50:31 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261008111036/58e7bf5e3957192bfa28d3fe8af9e954afa2a2fcb2ec3eddc40e82ac21f7e8fe.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Russia's plague scare: What we know</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/8/russia-s-plague-scare-what-we-know-1001</link>
+      <description>The death of a plague laboratory worker in Siberia last week has made global headlines, with Russian media suggesting hundreds were under quarantine and US President Donald Trump expressing concern.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/8/russia-s-plague-scare-what-we-know-1001</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Thu, 08 Oct 2026 02:01:56 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261008021056/7a9bbbd4b421edfcfb0ecff364b11c1c1d164cdf636690238bc3ec368a4902f0.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>WHO says cannot conduct full risk assessment on Russia plague reports</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/8/who-says-cannot-conduct-full-risk-assessment-on-russia-plague-reports-0932</link>
+      <description>The World Health Organization said Wednesday it could not produce a full risk assessment as it did not have the whole picture from Russia on the suspected plague death of a laboratory technician.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/8/who-says-cannot-conduct-full-risk-assessment-on-russia-plague-reports-0932</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Thu, 08 Oct 2026 01:32:52 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261008021028/ce7fd2ec8376c7e9c4d57dda1da0eb8659ba36c01569be0a5785fdb9d92de96b.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>French-Japanese duo wins chemistry Nobel for solving molecular 'mystery'</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/8/french-japanese-duo-wins-chemistry-nobel-for-solving-molecular-mystery-0056</link>
+      <description>France's Henri Kagan and Japan's Kenso Soai on Wednesday won the Nobel Prize in Chemistry for solving the mystery of why only one form of certain molecules appears in nature, a discovery decisive for the manufacture of pharmaceuticals.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/8/french-japanese-duo-wins-chemistry-nobel-for-solving-molecular-mystery-0056</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Wed, 07 Oct 2026 16:56:40 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261007161040/375d988a5a8424bcbfbd721caf0a44ed37f0e31f6fd95f30a0dc3f048b65784c.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>PhilHealth eyes schools to boost YAKAP enrollment</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/7/philhealth-eyes-schools-to-boost-yakap-enrollment-1646</link>
+      <description>PhilHealth is looking to use schools as a major entry point to expand enrollment in its flagship preventive healthcare program YAKAP (Yaman sa Kalusuguan), as it works toward its goal of reaching 60 million Filipinos by 2027.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/7/philhealth-eyes-schools-to-boost-yakap-enrollment-1646</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Wed, 07 Oct 2026 08:46:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261007081056/a95391db7ce177e56cbd44c6f35094a89e9fa4e41915c17cb9747b68288a343d.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>‘Baka isisi pa rin sa pangulo’: Malacañang allays fears on Russian plague</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/7/malaca-ang-allays-fears-on-russian-plague-1548</link>
+      <description>Malacañang assured the public Wednesday that the government is keeping an eye on the reported Russian plague.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/7/malaca-ang-allays-fears-on-russian-plague-1548</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Wed, 07 Oct 2026 07:48:55 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261007071056/4d8daf90e4e1384921e3e00cbde4abaecbcac0f88796a0c5b78d91726708b350.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>EXPLAINER: What do we know about plague institute lab worker's death in Russia?</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/7/explainer-what-do-we-know-about-plague-institute-lab-worker-s-death-in-russia-0911</link>
+      <description>A laboratory worker at a plague research institute in Siberia fell ill and died in undisclosed circumstances on October 2, prompting authorities to quarantine about 200 people and causing public health fears on social media.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/7/explainer-what-do-we-know-about-plague-institute-lab-worker-s-death-in-russia-0911</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Wed, 07 Oct 2026 01:11:07 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100702108/cbb00aa6ce5dc12d230f99d54dd457876693e97a39088fea72078889370b865a.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>What is the plague in Russia and should the PH be worried?</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/6/who-says-low-risk-in-russia-following-plague-reports-1724</link>
+      <description>The World Health Organization said Tuesday that it deemed the public health risk in Russia to be low, following reports that a laboratory technician had died of plague in Siberia's Irkutsk region.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/6/who-says-low-risk-in-russia-following-plague-reports-1724</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 06 Oct 2026 09:24:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261006101020/a4550d69be1c1c36bbd153bf03401b482d253a24c0dca21dc962e16d14a92e9c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Health chief orders health units, LGUs to ramp up preparation for impact of 'Super El Niño'</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/6/health-chief-orders-health-units-lgus-to-ramp-up-preparation-for-impact-of-super-el-ni-o-1610</link>
+      <description>As the El Niño phenomenon further intensifies in the coming weeks, the Department of Health said it is working with other government agencies to ensure the public is equipped with the right knowledge to prepare for its potential impacts.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/6/health-chief-orders-health-units-lgus-to-ramp-up-preparation-for-impact-of-super-el-ni-o-1610</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 06 Oct 2026 08:10:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100609108/75f2fb1a0ccd730c1f77d06b9b8253a2a63d8d26de26620e4caaf4dc6df7301e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'Invisibility cloak', particle physics and astrophysics tipped for physics Nobel</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/6/-invisibility-cloak-particle-physics-and-astrophysics-tipped-for-physics-nobel-1346</link>
+      <description>Research in particle physics, astrophysics or the invention of an "invisibility cloak" are some of the achievements that could be honored when the Nobel physics prize is awarded Tuesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/6/-invisibility-cloak-particle-physics-and-astrophysics-tipped-for-physics-nobel-1346</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 06 Oct 2026 05:46:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261006061044/5ea7de2863f527c3fde8858d99c02a6c88b5c5c19a4970c30ad5f5944e006cf2.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Switching on brain cells: the Nobel-winning science of optogenetics</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/6/switching-on-brain-cells-the-nobel-winning-science-of-optogenetics-1249</link>
+      <description>In optogenetics, scientists control neurones by stimulating them with light -- potentially unlocking breakthroughs for conditions such as dementia, depression and blindness.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/6/switching-on-brain-cells-the-nobel-winning-science-of-optogenetics-1249</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 06 Oct 2026 04:49:52 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261006051044/23b35235914af8dfa10989005b125466cf9fd0e470f8fc9d4027dc4718fdcfc4.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Extreme heat putting pregnant women, newborns at risk: UN climate chief</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/5/extreme-heat-putting-pregnant-women-newborns-at-risk-un-climate-chief-0743</link>
+      <description>Extreme heat is putting pregnant mothers and their newborns at increasing risk, United Nations climate chief Simon Stiell will warn on Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/5/extreme-heat-putting-pregnant-women-newborns-at-risk-un-climate-chief-0743</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Sun, 04 Oct 2026 23:43:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261005001040/b1d83a0d8c57617afbc1d42f3dcefb7a993d8ca1c5f58bc9c2651ab3f57aee43.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DOH reminds public: Human organs are not for sale</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/2/doh-reminds-public-human-organs-are-not-for-sale-1814</link>
+      <description>The Department of Health reminded public that human organs are not for sale, highlighting the importance of undergoing existing proper channels and procedures.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/2/doh-reminds-public-human-organs-are-not-for-sale-1814</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Fri, 02 Oct 2026 10:14:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100211108/e4d4a68a0ad94e6ab90acf13649e9b0cb654bd85a684290e7c2872530cc9908a.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Viral anti-vax posts weaponize Philippine inoculation fears</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/2/viral-anti-vax-posts-weaponise-philippine-inoculation-fears-1050</link>
+      <description>The Philippines has struggled to restore routine childhood immunisation rates after years of plummeting coverage, which contributed to a polio resurgence in 2019 and recurring measles outbreaks.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/2/viral-anti-vax-posts-weaponise-philippine-inoculation-fears-1050</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Fri, 02 Oct 2026 02:50:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261002031044/b6ec4feed521dd39c31a3e52a6f0cfb024fffcaa2f877a06c0870cec64dfdeaf.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Indonesia haze chokes neighbors, but little legal recourse</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/1/indonesia-haze-chokes-neighbors-but-little-legal-recourse-1507</link>
+      <description>Haze from Indonesian wildfires has blanketed neighboring Malaysia and Singapore for more than a month, closing schools and sending respiratory complaints skyrocketing.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/1/indonesia-haze-chokes-neighbors-but-little-legal-recourse-1507</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Thu, 01 Oct 2026 07:07:38 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100108104/8987a8d2bbf71bdab199fc91d5987cd580b9446849579fd8c9b2b91997a1dddc.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Health experts urge stronger maternal care as climate risks grow</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/1/health-experts-urge-stronger-maternal-care-as-climate-risks-grow-1302</link>
+      <description>As extreme heat, flooding and changing weather patterns become more common, health experts are stressing the need to strengthen prenatal care, particularly for pregnant women who may face greater risks from infectious diseases and other climate-related health threats.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/1/health-experts-urge-stronger-maternal-care-as-climate-risks-grow-1302</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Thu, 01 Oct 2026 05:02:55 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261001051056/b1d83a0d8c57617afbc1d42f3dcefb7a993d8ca1c5f58bc9c2651ab3f57aee43.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Fifth measles-associated death reported in US</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/10/1/fifth-measles-associated-death-reported-in-us-1001</link>
+      <description>Authorities in Pennsylvania confirmed Wednesday a fifth death linked to measles, as thousands of cases spread in the worst US outbreak in 35 years.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/10/1/fifth-measles-associated-death-reported-in-us-1001</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Thu, 01 Oct 2026 02:01:59 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026100103100/d5416de20b5fbab55d41873b875f51bc06a6f5bd2c5e2c8218e5f7844c39cf2b.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>One third of world population exposed to harmful air pollution: monitor</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/30/one-third-of-world-population-exposed-to-harmful-air-pollution-monitor-1046</link>
+      <description>Heatwaves and wildfires combined with human-caused emissions this year combined to expose one third of the world's population to extremely high levels of ozone pollution, a European Union report said on Wednesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/30/one-third-of-world-population-exposed-to-harmful-air-pollution-monitor-1046</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Wed, 30 Sep 2026 02:46:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260930030940/4a1c221240d33469cbaef2e9c04fb6ddc62bfc9f1f379b7b2878235a1cc1d8a5.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Gender neutral interventions, development of national registry recommended to prevent HPV</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/29/gender-neutral-interventions-development-of-national-registry-recommended-to-prevent-hpv-2138</link>
+      <description>Gender neutral interventions including vaccination and treatment, as well as the development of a national registry, are among the recommendations for HPV prevention mentioned by Gabriela Rep. Sarah Elago.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/29/gender-neutral-interventions-development-of-national-registry-recommended-to-prevent-hpv-2138</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 29 Sep 2026 13:38:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260929120916/61037fac0a3167ba7c66ee9aaaadb0caa8f5548064a03a054873deb2ee0242f0.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Some children won’t ask for help; experts say adults must learn to notice</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/29/some-children-won-t-ask-for-help-experts-say-adults-must-learn-to-notice-1927</link>
+      <description>Child development experts and educators said protecting children from online harm and school violence requires more than monitoring devices, blocking harmful content or imposing rules.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/29/some-children-won-t-ask-for-help-experts-say-adults-must-learn-to-notice-1927</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 29 Sep 2026 11:27:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260929120924/50a05b4e8ca773699ab84187873f916029022aa0b7b3841fe17b598c57ac2761.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Regular heart checks recommended from 35 onwards—EU</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/29/regular-heart-checks-recommended-from-35-onwards-eu-1257</link>
+      <description>The European Union recommended on Monday that people under 35 are screened at least once for heart disease, and advised regular checks for those aged 35 and over.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/29/regular-heart-checks-recommended-from-35-onwards-eu-1257</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 29 Sep 2026 04:57:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260929050956/9be58bbb0be899c7fc331ccdf3462c4f1c37003a6fb9963a966fe37bd6ee16e7.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Camarines Sur declares state of calamity over dengue surge; cases top 1,200 with 18 deaths</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/29/camarines-sur-declares-state-of-calamity-over-dengue-surge-cases-top-1-200-with-18-deaths-0857</link>
+      <description>The Camarines Sur provincial government declared a state of calamity after recording 1,233 dengue cases and 18 deaths as of September 24, 2026.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/29/camarines-sur-declares-state-of-calamity-over-dengue-surge-cases-top-1-200-with-18-deaths-0857</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 29 Sep 2026 00:57:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260929010952/fc09e62e8a58b34b99df74023ab3ddfeedf6e0e5e7252f95dd49f25e56b66a8c.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>WHO analysis shows El Niño could trigger a chain of health risks in PH</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/26/who-analysis-shows-el-ni-o-could-trigger-a-chain-of-health-risks-in-ph-0043</link>
+      <description>El Niño's impact goes beyond water shortages and agricultural losses.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/26/who-analysis-shows-el-ni-o-could-trigger-a-chain-of-health-risks-in-ph-0043</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Fri, 25 Sep 2026 16:43:48 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260925170940/5f66ac0d37d4dcdd3338d7bb705946d9a7d3d4a391ed8c5899f62842b9caaebc.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DOH expecting vaccine delivery by October following delays – lawmaker</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/25/doh-expecting-vaccine-delivery-by-october-following-delays-lawmaker-0052</link>
+      <description>The Department of Health (DOH) is expecting a delivery of vaccines, including those against the flu and HPV, in October following delays, according to its budget sponsor, Bataan 2nd District Representative Albert Garcia.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/25/doh-expecting-vaccine-delivery-by-october-following-delays-lawmaker-0052</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Thu, 24 Sep 2026 16:52:44 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260924170940/1b07d8db850e479c428419218a8e4c95746048eac4c46795acede188e5092067.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Mental and emotional well-being of children must always be attended to, says expert</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/21/mental-and-emotional-well-being-of-children-must-always-be-attended-to-says-expert-1531</link>
+      <description>Adults should attend to children's mental and emotional well-being, especially after a traumatic incident, said Dr. Noel Reyes, medical center chief of the National Center for Mental Health.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/21/mental-and-emotional-well-being-of-children-must-always-be-attended-to-says-expert-1531</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Mon, 21 Sep 2026 07:31:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026092108098/89de4ac04bad2cc501fbbd74da0710a29b7f6ff83fe82aae297fcab419941eb4.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'Mental health matters': World Suicide Prevention Day event in QC calls for stronger mental health support, services</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/20/world-suicide-prevention-day-event-in-qc-calls-for-stronger-mental-health-support-services-0944</link>
+      <description>More than 400 participants gathered along Tomas Morato Avenue in Quezon City early Sunday morning to mark World Suicide Prevention Day through a run aimed at breaking the stigma surrounding mental health and expanding support services for Filipinos nationwide.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/20/world-suicide-prevention-day-event-in-qc-calls-for-stronger-mental-health-support-services-0944</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Sun, 20 Sep 2026 01:44:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260920020932/7906a514dc4bd40cb185413362a641914516c4bc989e8eddad6edba1a769623b.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'Breathing toxin every day': Indonesians choked by haze feel helpless</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/17/-breathing-toxin-every-day-indonesians-choked-by-haze-feel-helpless-1019</link>
+      <description>Indonesia, which shares Borneo with Malaysia and Brunei, is grappling with forest fires that have ravaged swathes of the island, partly caused by the El Niño climate phenomenon that has also affected other countries in Southeast Asia and beyond.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/17/-breathing-toxin-every-day-indonesians-choked-by-haze-feel-helpless-1019</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Thu, 17 Sep 2026 02:19:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260917030916/8987a8d2bbf71bdab199fc91d5987cd580b9446849579fd8c9b2b91997a1dddc.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>NASA scan discovers new, 'once in a century' Moon crater</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/17/nasa-scan-discovers-new-once-in-a-century-moon-crater-0827</link>
+      <description>A researcher at NASA has found a massive, recently-formed crater on the Moon, a rare occurrence that only happens "once in a century or even longer," according to scientists.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/17/nasa-scan-discovers-new-once-in-a-century-moon-crater-0827</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Thu, 17 Sep 2026 00:27:44 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260917010920/15c55f95ce730aa8190ce3d25570a31b6059c9059b2a4df3a39df66ff8d1fa06.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Doctors successfully separate conjoined twins after 25-hour surgery in Missouri</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/17/doctors-successfully-separate-conjoined-twins-after-25-hour-surgery-in-missouri-0654</link>
+      <description>Doctors in St. Louis have successfully separated Ethiopian two-year-old twin girls who were born joined at the head after a months-long series of complex operations culminating in a nearly 25-hour final procedure, doctors said on Wednesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/17/doctors-successfully-separate-conjoined-twins-after-25-hour-surgery-in-missouri-0654</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Wed, 16 Sep 2026 22:54:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260916230940/59b07b20712f922f465f5126d328008a0241f01fcc2840707d82fd0bd6a82ced.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>WHO eyes 'encouraging' signs in DR Congo fight against Ebola</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/17/who-eyes-encouraging-signs-in-drcongo-fight-against-ebola-0107</link>
+      <description>The Ebola epidemic in the Democratic Republic of Congo is still spreading but appears to be showing "encouraging" signs of improvement, the head of the World Health Organization said on Wednesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/17/who-eyes-encouraging-signs-in-drcongo-fight-against-ebola-0107</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Wed, 16 Sep 2026 17:07:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260916170936/e0f008d6041d4849c68f65b77781a1606ef1de101df3440d1466cda8c0f7f36f.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Inpatient admissions less than 24 hours to be covered by PhilHealth</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/16/inpatient-admissions-less-than-24-hours-to-be-covered-by-philhealth-1818</link>
+      <description>Patients admitted to a hospital as inpatients may still be covered by PhilHealth even if they stay for less than 24 hours, the state health insurer said Wednesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/16/inpatient-admissions-less-than-24-hours-to-be-covered-by-philhealth-1818</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Wed, 16 Sep 2026 10:18:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260916110916/01706553ae6f80af75e3c69c2a76eed812865688d5841bdfd8265d528f382231.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>QC widens access to doxycycline to curb leptospirosis cases</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/13/qc-widens-access-to-doxycycline-to-curb-leptospirosis-cases-1931</link>
+      <description>The Quezon City Government said it is expanding access to doxycycline across the city to boost the prevention of leptospirosis and ensure that residents exposed to floodwaters will receive timely intervention.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/13/qc-widens-access-to-doxycycline-to-curb-leptospirosis-cases-1931</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Sun, 13 Sep 2026 11:31:04 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260913120928/9ba869aa9916bd6957497c6fc4232db734e2738383531d228a966c1efa39a7f9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Filipinos projected to live longer over next decade</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/11/filipinos-projected-to-live-longer-over-next-decade-2026</link>
+      <description>Filipinos are projected to live longer over the next decade, with women continuing to outlive men by nearly seven years as the country moves further into its demographic transition, according to the Philippine Statistics Authority (PSA).</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/11/filipinos-projected-to-live-longer-over-next-decade-2026</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Fri, 11 Sep 2026 12:26:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260911130924/f87eb4277e7c3696428c6429b1602034a76eeadedbcd2e2d4fca17561b71a9b6.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Quezon City breaches epidemic threshold for leptospirosis</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/8/quezon-city-breaches-epidemic-threshold-for-leptospirosis-1201</link>
+      <description>Following days of heavy rainfall that inundated parts of Quezon City, the local government said the number of leptospirosis cases has breached the epidemic threshold.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/8/quezon-city-breaches-epidemic-threshold-for-leptospirosis-1201</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 08 Sep 2026 04:01:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260908040956/9ba869aa9916bd6957497c6fc4232db734e2738383531d228a966c1efa39a7f9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Second-hand smoke causes to nearly 1.7 million deaths globally: study</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/8/second-hand-smoke-causes-to-nearly-1-7m-deaths-globally-study-1022</link>
+      <description>More than 2.7 billion people including children have been exposed to second-hand smoke globally, contributing to nearly 1.7 million deaths in 2023, according to study published Tuesday in The Lancet.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/8/second-hand-smoke-causes-to-nearly-1-7m-deaths-globally-study-1022</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 08 Sep 2026 02:22:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026090803098/9ad579a22b05ef4fc80a3b78048a36887957c7ae10f495e590d56772fa011569.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Manila leptospirosis cases hit 'epidemic' levels</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/7/manila-leptospirosis-cases-hit-epidemic-levels-1704</link>
+      <description>Leptospirosis cases in Manila have breached the epidemic threshold, which means infections in the city have exceeded the expected number of cases for a specific period of the year, the Manila City Health Office said on Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/7/manila-leptospirosis-cases-hit-epidemic-levels-1704</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Mon, 07 Sep 2026 09:04:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260907090940/ac35d046e6e67e39bd8566bb4f58aad0ed3d467b92472ecfdb84220cbc1babe1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Wildfires, heatwaves endanger air quality, health: UN</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/7/wildfires-heatwaves-endanger-air-quality-health-un-1347</link>
+      <description>Wildfires and heatwaves, which generate microscopic airborne pollutants, risk undermining international efforts to improve air quality, protect human health and safeguard nature, the World Meteorological Organization (WMO) said on Monday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/7/wildfires-heatwaves-endanger-air-quality-health-un-1347</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Mon, 07 Sep 2026 05:47:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260907060944/3af5f03e7fb76393d1732bf8e76700130b9c9ccefddb3eb6bd723003509c4b1e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Can dogs sniff cancer? AI joins the hunt in India</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/7/can-dogs-sniff-cancer-ai-joins-the-hunt-in-india-1009</link>
+      <description>A growing body of global research suggests dogs can be trained to detect cancer and other human illnesses, from Parkinson's to Covid-19.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/7/can-dogs-sniff-cancer-ai-joins-the-hunt-in-india-1009</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Mon, 07 Sep 2026 02:09:32 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026090703094/775f2d33ad0fb6be3c9989ce9a4fbb7e3a33040416600f9fd2a5e3672e2b52ec.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DOH: Ideal ratio of healthcare workers to population will take 7 years</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/4/doh-ideal-ratio-of-healthcare-workers-to-population-will-take-7-years-1816</link>
+      <description>It will take seven years before the country reaches the ideal number of healthcare professionals, according to Department of Health (DOH) Secretary Edwin Mercado.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/4/doh-ideal-ratio-of-healthcare-workers-to-population-will-take-7-years-1816</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Fri, 04 Sep 2026 10:16:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026090411090/8ae38fdc7fa63310b53df4010281079630e037367418a16a276f410025264eb2.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>US study tests psilocybin to fight cancer side effects</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/4/us-study-tests-psilocybin-to-fight-cancer-side-effects-1427</link>
+      <description>Here's a novel idea for countering the painful side effects of chemotherapy: beforehand, take the hallucinogenic drug found in magic mushrooms.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/4/us-study-tests-psilocybin-to-fight-cancer-side-effects-1427</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Fri, 04 Sep 2026 06:27:22 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260904070924/5799f3e00c1a427382fbe552813079f93491352f26ff77c7b439ad2cd3b043c8.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DOH says fewer deaths from leptospirosis in 2026</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/4/doh-says-fewer-deaths-from-leptospirosis-in-2026-1421</link>
+      <description>Leptospirosis caused fewer deaths this year compared to last year, the Department of Health (DOH) said Friday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/4/doh-says-fewer-deaths-from-leptospirosis-in-2026-1421</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Fri, 04 Sep 2026 06:21:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260904070916/ba99bc605a21decbc0cfaaee6222cb8064a9f8eed1c9876261efc5c93a981138.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DOH exec sounds alarm over 'significant increase' of leptospirosis cases</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/3/doh-exec-sounds-alarm-over-significant-increase-of-leptospirosis-cases-1144</link>
+      <description>A senior official of the Department of Health on Thursday sounded the alarm over the fresh spike of leptospirosis cases in the country following severe habagat rains that spawned floods in Luzon last month.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/3/doh-exec-sounds-alarm-over-significant-increase-of-leptospirosis-cases-1144</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Thu, 03 Sep 2026 03:44:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260903040932/e7574426c11f239c62b9033cf01986f245e67fe4181784ec55d28cd93e9f046c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>House panel suspends consideration of proposed 2027 DOH budget, to resume Sept. 7</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/2/house-panel-suspends-consideration-of-proposed-2027-doh-budget-2148</link>
+      <description>MANILA — The House Committee on Appropriations has suspended consideration of the Department of Health’s (DOH) proposed 2027 budget after 10 hours of deliberations, with several House members still seeking to raise questions with the agency.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/2/house-panel-suspends-consideration-of-proposed-2027-doh-budget-2148</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Wed, 02 Sep 2026 13:48:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260902140936/81d40ffd329b5dab03afc9407c62dbdd2c6fd9c8bebe41b7f9baf50f25a28daf.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Expert sees second wave of leptospirosis surge by next week</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/2/expert-sees-second-wave-of-leptospirosis-surge-by-next-week-1804</link>
+      <description>Following the massive flooding that engulfed part of Metro Manila and Central Luzon over the weekend, a health expert says it may very well be possible for hospitals to observe a second surge of leptospirosis cases.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/2/expert-sees-second-wave-of-leptospirosis-surge-by-next-week-1804</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Wed, 02 Sep 2026 10:04:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026090211090/0a91a6d19464fb4b7015b74ea34b347bd837e82fafd20bf8b868aabee6089148.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DENR: Metro Manila air quality ‘slightly improved’; ‘Unhealthy’ air now affecting Visayas, Mindanao</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/2/denr-metro-manila-air-quality-slightly-improved-unhealthy-air-now-affecting-visayas-mindanao-1601</link>
+      <description>While the air quality in Metro Manila has “slightly improved” despite the transboundary haze due to the forest fires in Indonesia, the “unhealthy” air is now affecting Visayas and Mindanao, the Department of Environment and Natural Resources (DENR) said on Wednesday.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/2/denr-metro-manila-air-quality-slightly-improved-unhealthy-air-now-affecting-visayas-mindanao-1601</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Wed, 02 Sep 2026 08:01:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260902080948/2baf5c6ce1116b4ad905e6e458e633542f4c8cda49231cc5e113075f48dbb03c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Smoke from Indonesian forest fires: What is transboundary haze?</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/1/smoke-from-indonesian-forest-fires-what-is-transboundary-haze-1955</link>
+      <description>The hazy skies seen across parts of the Philippines over the past days are not caused by morning mist. They are, instead, a result of transboundary haze—air pollution that has traveled hundreds of kilometers from massive forest fires burning in Indonesia.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/1/smoke-from-indonesian-forest-fires-what-is-transboundary-haze-1955</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 01 Sep 2026 11:55:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260901140920/9b80b12cb0a7a618efc4f7e5ecc8cc2407c1d2aa5b6387bf23517899fef38047.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Public urged to stay indoors, mask up as haze persists in parts of PH</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/1/public-urged-to-stay-indoors-mask-up-as-haze-persists-in-parts-of-ph-1541</link>
+      <description>The Office of Civil Defense (OCD) on Tuesday urged residents in haze-affected areas to stay indoors as much as possible and take precautions against possible health effects from deteriorating air quality.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/1/public-urged-to-stay-indoors-mask-up-as-haze-persists-in-parts-of-ph-1541</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 01 Sep 2026 07:41:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260901080936/2a95f3ff83d7d4cff231adbd356498325f0807db4288525042df7e481920131e.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>In Japan's mountains, a different way to manage bears</title>
+      <link>https://www.abs-cbn.com/news/health-science/2026/9/1/in-japan-s-mountains-a-different-way-to-manage-bears-1256</link>
+      <description>As a sensor sounded, scientist Akiko Takii hurried to a bear trap deep in the forests of Nagano in Japan, where rising nationwide attacks have brought fear and resulted in the culling of thousands of the animals.</description>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/health-science/2026/9/1/in-japan-s-mountains-a-different-way-to-manage-bears-1256</guid>
+      <category>Health &amp; Science</category>
+      <pubDate>Tue, 01 Sep 2026 04:56:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20260901050956/362fad61b7293fe2f3cc5ba4d1d1765ee7eddbf594e02cad8ab7098ecb5404e7.jpg" medium="image"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>
