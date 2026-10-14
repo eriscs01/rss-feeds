@@ -4,6 +4,7 @@
     <title>ABS-CBN News Business</title>
     <link>https://www.abs-cbn.com/news/business</link>
     <description>Latest business news from ABS-CBN</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_abscbn_business.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -12,7 +13,95 @@
       <link>https://www.abs-cbn.com/news/business</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 02:55:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:16:01 +0000</lastBuildDate>
+    <item>
+      <title>More than half of Filipino families rate selves as poor—SWS</title>
+      <link>https://www.abs-cbn.com/news/business/2026/10/14/more-than-half-of-filipino-families-rate-selves-as-poor-sws-1524</link>
+      <description>Social Weather Stations (SWS) found that 55 percent of households—an estimated 16.8 million families—rated themselves as "mahirap" or poor.</description>
+      <content:encoded><![CDATA[<figure><img src="https://od2-image-api.abs-cbn.com/prod/editorImage/179196264685720261014081020_35c4d32b6c590afdc99162fba79bb55fdbb2c1920a886c8901a61bd9d6020249.jpg" alt="A person passes in front of a mural by the road in Navotas City depicting Filipinos living in poverty on May 21, 2024. Jonathan Cellona, ABS-CBN News"/><figcaption>A person passes in front of a mural by the road in Navotas City depicting Filipinos living in poverty on May 21, 2024. Jonathan Cellona, ABS-CBN News</figcaption></figure><p>Social Weather Stations (SWS) found that 55 percent of households—an estimated 16.8 million families—rated themselves as &quot;mahirap&quot; or poor.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/business/2026/10/14/more-than-half-of-filipino-families-rate-selves-as-poor-sws-1524</guid>
+      <category>Business</category>
+      <pubDate>Wed, 14 Oct 2026 07:24:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261014081020/e67407b25d277ab6c52e84067502da2257b7da0e6975068ac295f0c58cd4852c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Water concessionaires say stepping up readiness for super El Niño</title>
+      <link>https://www.abs-cbn.com/news/business/2026/10/14/water-concessionaires-say-stepping-up-readiness-for-super-el-ni-o-1508</link>
+      <description>Metro Manila’s water concessionaires said they are speeding up infrastructure expansion and supply diversification in preparation for an anticipated El Niño dry spell.</description>
+      <content:encoded><![CDATA[<figure><img src="https://od2-image-api.abs-cbn.com/prod/20261014081032/c9cae7222af10c15efd7959424629f764206061f4d91ee3713622059a5aa2f20.jpg" alt="Barren slopes and dead trees normally submerged below the tree line, which marks the reservoir&#x27;s normal capacity, become visible as water levels dropped to 151.45 masl in this photo taken on July 23, 2026.
+ 
+The level hit its lowest record at 150.60 masl on Saturday, July 25, nearly 10 meters below its critical level of 160 masl. This drop is nearly 30 meters below the 180 masl minimum operating level and over 6 meters below the lowest level recorded during the 2010 El Niño.  Gigie Cruz, ABS-CBN News"/><figcaption>Barren slopes and dead trees normally submerged below the tree line, which marks the reservoir&#x27;s normal capacity, become visible as water levels dropped to 151.45 masl in this photo taken on July 23, 2026.
+ 
+The level hit its lowest record at 150.60 masl on Saturday, July 25, nearly 10 meters below its critical level of 160 masl. This drop is nearly 30 meters below the 180 masl minimum operating level and over 6 meters below the lowest level recorded during the 2010 El Niño.  Gigie Cruz, ABS-CBN News</figcaption></figure><p>Metro Manila’s water concessionaires said they are speeding up infrastructure expansion and supply diversification in preparation for an anticipated El Niño dry spell.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/business/2026/10/14/water-concessionaires-say-stepping-up-readiness-for-super-el-ni-o-1508</guid>
+      <category>Business</category>
+      <pubDate>Wed, 14 Oct 2026 07:08:01 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261014081032/c9cae7222af10c15efd7959424629f764206061f4d91ee3713622059a5aa2f20.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Milkticulous moms take on the AceKid Activegro &amp; Altigro journey</title>
+      <link>https://www.abs-cbn.com/news/business/2026/10/14/milkticulous-moms-take-on-the-acekid-activegro-altigro-journey-1433</link>
+      <description>How milkticulous are you? Five moms travel to China to discover what really goes into their children's milk.</description>
+      <content:encoded><![CDATA[<figure><img src="https://od2-image-api.abs-cbn.com/prod/editorImage/1791453495967AceKid cover photo.png" alt="Five milkticulous moms visit the source of their children&#x27;s milk. Photo source: FEIHE"/><figcaption>Five milkticulous moms visit the source of their children&#x27;s milk. Photo source: FEIHE</figcaption></figure><p>How milkticulous are you? Five moms travel to China to discover what really goes into their children&#x27;s milk.</p><figure><img src="https://od2-image-api.abs-cbn.com/prod/editorImage/179145345309100 (6).jpg" alt="Red-crowned cranes take residence in Zhalong Wetland which has the ideal temperature, all-year round. Moreover, its lush greenery provides a good habitat for the national treasure. Photo source: Sunshine Mortel, ABS-CBN News"/><figcaption>Red-crowned cranes take residence in Zhalong Wetland which has the ideal temperature, all-year round. Moreover, its lush greenery provides a good habitat for the national treasure. Photo source: Sunshine Mortel, ABS-CBN News</figcaption></figure><figure><img src="https://od2-image-api.abs-cbn.com/prod/editorImage/179145338542600 (5).jpg" alt="The cows that produce milk are taken care of in a safe, clean, and stress-free environment for the best milk quality possible. Photo source: Sunshine Mortel, ABS-CBN News"/><figcaption>The cows that produce milk are taken care of in a safe, clean, and stress-free environment for the best milk quality possible. Photo source: Sunshine Mortel, ABS-CBN News</figcaption></figure><figure><img src="https://od2-image-api.abs-cbn.com/prod/editorImage/179145334426500 (4).jpg" alt="Spray drying the fresh milk at 60 degrees to 65 degrees helps enable the milk to keep most of its nutrients. Photo source: Sunshine Mortel, ABS-CBN News"/><figcaption>Spray drying the fresh milk at 60 degrees to 65 degrees helps enable the milk to keep most of its nutrients. Photo source: Sunshine Mortel, ABS-CBN News</figcaption></figure><figure><img src="https://od2-image-api.abs-cbn.com/prod/editorImage/1791453247404IMG_2026.png" alt="Milk-ticulous moms get a taste of the raw milk right from the farm. Photo source: FEIHE"/><figcaption>Milk-ticulous moms get a taste of the raw milk right from the farm. Photo source: FEIHE</figcaption></figure><figure><img src="https://od2-image-api.abs-cbn.com/prod/editorImage/179145320418400 (3).jpg" alt="FEIHE products are available in the Philippines through leading stores in Visayas and Mindanao, and e-commerce stores. Photo source: FEIHE"/><figcaption>FEIHE products are available in the Philippines through leading stores in Visayas and Mindanao, and e-commerce stores. Photo source: FEIHE</figcaption></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/business/2026/10/14/milkticulous-moms-take-on-the-acekid-activegro-altigro-journey-1433</guid>
+      <category>Business</category>
+      <pubDate>Wed, 14 Oct 2026 06:33:27 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261008101056/e6d2ce5a80fdcb7ee9ca8b1944c8b3358d8c9ca852badca87c8111b5ba5cbbf5.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Philippine hunger rate surges, surpasses pandemic peak: survey</title>
+      <link>https://www.abs-cbn.com/news/business/2026/10/14/philippine-hunger-rate-surges-surpasses-pandemic-peak-survey-1355</link>
+      <description>Hunger in Metro Manila jumped six percentage points to 27 percent, making it the most affected region in the country.</description>
+      <content:encoded><![CDATA[<figure><img src="https://od2-image-api.abs-cbn.com/prod/editorImage/179195729389920261014061044_6b971668f5e3c931f4d4d7062149aaa51ef2a6d137f4e8ff657868d74ebc5bef.jpg" alt="A homeless family takes shelter from heavy rains inside their makeshift home in Quezon City on Thursday. Jonathan Cellona, ABS-CBN News"/><figcaption>A homeless family takes shelter from heavy rains inside their makeshift home in Quezon City on Thursday. Jonathan Cellona, ABS-CBN News</figcaption></figure><p>Hunger in Metro Manila jumped six percentage points to 27 percent, making it the most affected region in the country.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/business/2026/10/14/philippine-hunger-rate-surges-surpasses-pandemic-peak-survey-1355</guid>
+      <category>Business</category>
+      <pubDate>Wed, 14 Oct 2026 05:55:07 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261014061044/94dc303289ff3799cfeed597fec71802b651939aa726d1e663f0e5fc0b10f730.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pork barrel insertions? Dizon says DPWH reviewing House-approved 2027 budget with watchdog</title>
+      <link>https://www.abs-cbn.com/news/business/2026/10/14/pork-barrel-insertions-dizon-says-dpwh-reviewing-house-approved-2027-budget-with-watchdog-1333</link>
+      <description>Public Works Secretary Vince Dizon on Wednesday said the Department of Public Works and Highways is reviewing the House-approved version of the proposed 2027 national budget with civil society group People’s Budget Coalition amid concerns on alleged pork barrel allocations.</description>
+      <content:encoded><![CDATA[<figure><img src="https://od2-image-api.abs-cbn.com/prod/20261014061028/0707fcf4effdf584006fe052ea8b5a816d9dfc40e9425273d712381b061568e2.png" alt="Public Works Secretary Vince Dizon and Baguio City Mayor Benjamin Magalong inspect the construction of concrete revetment in Jose Abad Santos, Davao Occidental on September 25, 2025. The project cost is estimated at P96.5M, while the contractor is St. Timothy Construction Corp. | Independent Commission for Infrastructure handout photo"/><figcaption>Public Works Secretary Vince Dizon and Baguio City Mayor Benjamin Magalong inspect the construction of concrete revetment in Jose Abad Santos, Davao Occidental on September 25, 2025. The project cost is estimated at P96.5M, while the contractor is St. Timothy Construction Corp. | Independent Commission for Infrastructure handout photo</figcaption></figure><p>Public Works Secretary Vince Dizon on Wednesday said the Department of Public Works and Highways is reviewing the House-approved version of the proposed 2027 national budget with civil society group People’s Budget Coalition amid concerns on alleged pork barrel allocations.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/business/2026/10/14/pork-barrel-insertions-dizon-says-dpwh-reviewing-house-approved-2027-budget-with-watchdog-1333</guid>
+      <category>Business</category>
+      <pubDate>Wed, 14 Oct 2026 05:33:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261014061028/0707fcf4effdf584006fe052ea8b5a816d9dfc40e9425273d712381b061568e2.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>What it takes for a PH edtech startup to scale from 120 schools to 600</title>
+      <link>https://www.abs-cbn.com/news/business/2026/10/14/what-it-takes-for-a-ph-edtech-startup-to-scale-from-120-schools-to-600-1212</link>
+      <description>A Philippine education technology startup is betting that bringing digital lessons, student records, grading, attendance and other school operations under one platform can help it win more schools.</description>
+      <content:encoded><![CDATA[<figure><img src="https://od2-image-api.abs-cbn.com/prod/2026101405108/cf6a4723396a0e2453a9e31e58fa2fd302cc68c4de75098575b307c5039fb005.jpg" alt="Students take part in their online classes inside their home in Parañaque on September 24, 2020. George Calvelo, ABS-CBN News"/><figcaption>Students take part in their online classes inside their home in Parañaque on September 24, 2020. George Calvelo, ABS-CBN News</figcaption></figure><p>A Philippine education technology startup is betting that bringing digital lessons, student records, grading, attendance and other school operations under one platform can help it win more schools.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/business/2026/10/14/what-it-takes-for-a-ph-edtech-startup-to-scale-from-120-schools-to-600-1212</guid>
+      <category>Business</category>
+      <pubDate>Wed, 14 Oct 2026 04:12:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/2026101405108/cf6a4723396a0e2453a9e31e58fa2fd302cc68c4de75098575b307c5039fb005.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>If Plan A fails, what's your Plan B?</title>
+      <link>https://www.abs-cbn.com/news/business/2026/10/14/if-plan-a-fails-what-s-your-plan-b-1200</link>
+      <description>When it comes to preparing for life's unexpected moments, having a Plan B can make all the difference.</description>
+      <content:encoded><![CDATA[<figure><img src="https://od2-image-api.abs-cbn.com/prod/editorImage/17918628735571791862870286.png" alt="Does the &quot;save and splurge&quot; benefit your future? Find out today. Photo source: Pexels"/><figcaption>Does the &quot;save and splurge&quot; benefit your future? Find out today. Photo source: Pexels</figcaption></figure><p>When it comes to preparing for life&#x27;s unexpected moments, having a Plan B can make all the difference.</p><figure><img src="https://od2-image-api.abs-cbn.com/prod/editorImage/17918629785791791862977387.png" alt="To learn more about BDO Life, go to any BDO branch to talk to a BDO Life Financial Advisor. Photo source: BDO Life website"/><figcaption>To learn more about BDO Life, go to any BDO branch to talk to a BDO Life Financial Advisor. Photo source: BDO Life website</figcaption></figure>]]></content:encoded>
+      <guid isPermaLink="false">https://www.abs-cbn.com/news/business/2026/10/14/if-plan-a-fails-what-s-your-plan-b-1200</guid>
+      <category>Business</category>
+      <pubDate>Wed, 14 Oct 2026 04:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261013041044/8ad6296245f6bb576e5eb0dd85ded0a3304939bb8bcc78e5b08a416b38301f72.png" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Pag-IBIG, Rockwell Land partner to make homes more accessible</title>
       <link>https://www.abs-cbn.com/news/business/2026/10/13/pag-ibig-rockwell-land-partner-to-make-homes-more-accessible-2122</link>
@@ -22,7 +111,7 @@
       <category>Business</category>
       <pubDate>Tue, 13 Oct 2026 13:22:09 +0000</pubDate>
       <media:group>
-        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261013121048/d4691086ba0aceb3c66f850c8a132fa04451f28881f411ef0a438cb2321f3632.jpg" medium="image"/>
+        <media:content url="https://od2-image-api.abs-cbn.com/prod/20261014041020/6d517aa63f63660b6022f5df297f4b38b70e7978e7b8aca15659c6017831845d.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
