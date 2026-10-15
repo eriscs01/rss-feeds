@@ -41,6 +41,13 @@ Fork of [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds).
 | [Quezon City Government Featured Stories](https://quezoncity.gov.ph/news-and-media/featured-stories/) | [feed_quezoncity_featured_stories.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_quezoncity_featured_stories.xml) |
 | [Quezon City Government Latest News](https://quezoncity.gov.ph/news-and-media/latest-news/) | [feed_quezoncity_latest_news.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_quezoncity_latest_news.xml) |
 
+### Companies
+
+| Company | Feed |
+| ------- | ---- |
+| [Philippine Airlines Press Releases & Statements](https://www.philippineairlines.com/ph/en/newsevent-listingpage.html) | [feed_philippineairlines_press_releases.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_philippineairlines_press_releases.xml) |
+| [Philippine Airlines Travel Advisory](https://www.philippineairlines.com/ph/en/newsevent-listingpage.html) | [feed_philippineairlines_travel_advisory.xml](https://raw.githubusercontent.com/eriscs01/rss-feeds/main/feeds/feed_philippineairlines_travel_advisory.xml) |
+
 ## Official Feeds
 
 Other Philippine news outlets publish their own RSS feeds, so no generator is needed for these.
