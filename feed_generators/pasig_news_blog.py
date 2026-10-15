@@ -18,6 +18,8 @@ from pathlib import Path
 import certifi
 import requests
 from bs4 import BeautifulSoup
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 from image_feeds import clean_text, collect_images, manila_date, run_feed
 from utils import DEFAULT_HEADERS, setup_logging
@@ -40,7 +42,10 @@ def make_ca_bundle():
 
 
 def fetch_listing(ca_bundle):
-    response = requests.get(BLOG_URL, headers=DEFAULT_HEADERS, timeout=30, verify=ca_bundle)
+    # The site's DNS occasionally fails to resolve from CI runners; retry connection errors with backoff.
+    session = requests.Session()
+    session.mount("https://", HTTPAdapter(max_retries=Retry(connect=3, backoff_factor=5)))
+    response = session.get(BLOG_URL, headers=DEFAULT_HEADERS, timeout=30, verify=ca_bundle)
     response.raise_for_status()
     return response.text
 

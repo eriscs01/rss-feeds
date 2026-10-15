@@ -123,4 +123,3 @@ feeds:
     script: pasig_news_blog.py
     type: requests
     blog_url: https://pasigcity.gov.ph/news-and-releases
-    enabled: false
