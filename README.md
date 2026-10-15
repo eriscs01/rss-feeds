@@ -54,7 +54,54 @@ Other Philippine news outlets publish their own RSS feeds, so no generator is ne
 
 | Outlet | Feed |
 | ------ | ---- |
-| GMA News | <https://data.gmanews.tv/gno/rss/news/feed.xml> |
+| GMA News | <https://data.gmanetwork.com/gno/rss/news/feed.xml> |
+| GMA News Community Bulletin Board | <https://data.gmanetwork.com/gno/rss/cbb/feed.xml> |
+| GMA News Lifestyle | <https://data.gmanetwork.com/gno/rss/lifestyle/feed.xml> |
+| GMA News Lifestyle Art and Culture | <https://data.gmanetwork.com/gno/rss/lifestyle/artandculture/feed.xml> |
+| GMA News Lifestyle Family and Relationships | <https://data.gmanetwork.com/gno/rss/lifestyle/familyandrelationships/feed.xml> |
+| GMA News Lifestyle Food | <https://data.gmanetwork.com/gno/rss/lifestyle/food/feed.xml> |
+| GMA News Lifestyle Health and Wellness | <https://data.gmanetwork.com/gno/rss/lifestyle/healthandwellness/feed.xml> |
+| GMA News Lifestyle Hobbies and Activities | <https://data.gmanetwork.com/gno/rss/lifestyle/hobbiesandactivities/feed.xml> |
+| GMA News Lifestyle Shopping and Fashion | <https://data.gmanetwork.com/gno/rss/lifestyle/shoppingandfashion/feed.xml> |
+| GMA News Lifestyle Travel | <https://data.gmanetwork.com/gno/rss/lifestyle/travel/feed.xml> |
+| GMA News Metro | <https://data.gmanetwork.com/gno/rss/news/metro/feed.xml> |
+| GMA News Money | <https://data.gmanetwork.com/gno/rss/money/feed.xml> |
+| GMA News Money Companies | <https://data.gmanetwork.com/gno/rss/money/companies/feed.xml> |
+| GMA News Money Economy | <https://data.gmanetwork.com/gno/rss/money/economy/feed.xml> |
+| GMA News Money Motoring | <https://data.gmanetwork.com/gno/rss/money/motoring/feed.xml> |
+| GMA News Money Personal Finance | <https://data.gmanetwork.com/gno/rss/money/personalfinance/feed.xml> |
+| GMA News Nation | <https://data.gmanetwork.com/gno/rss/news/nation/feed.xml> |
+| GMA News NewsTV | <https://data.gmanetwork.com/gno/rss/newstv/feed.xml> |
+| GMA News Opinion | <https://data.gmanetwork.com/gno/rss/news/opinion/feed.xml> |
+| GMA News Photo | <https://data.gmanetwork.com/gno/rss/photo/feed.xml> |
+| GMA News Pinoy Abroad | <https://data.gmanetwork.com/gno/rss/pinoyabroad/feed.xml> |
+| GMA News Pinoy Abroad Dispatch | <https://data.gmanetwork.com/gno/rss/pinoyabroad/dispatch/feed.xml> |
+| GMA News Pinoy Abroad Pinoy Achievers | <https://data.gmanetwork.com/gno/rss/pinoyabroad/pinoyachievers/feed.xml> |
+| GMA News Public Affairs | <https://data.gmanetwork.com/gno/rss/publicaffairs/feed.xml> |
+| GMA News Regions | <https://data.gmanetwork.com/gno/rss/news/regions/feed.xml> |
+| GMA News SciTech | <https://data.gmanetwork.com/gno/rss/scitech/feed.xml> |
+| GMA News SciTech Science and Research | <https://data.gmanetwork.com/gno/rss/scitech/science/feed.xml> |
+| GMA News SciTech Technology and Gadgets | <https://data.gmanetwork.com/gno/rss/scitech/technology/feed.xml> |
+| GMA News Serbisyo Publiko | <https://data.gmanetwork.com/gno/rss/serbisyopubliko/feed.xml> |
+| GMA News Serbisyo Publiko Missing Persons | <https://data.gmanetwork.com/gno/rss/serbisyopubliko/missingpersons/feed.xml> |
+| GMA News Serbisyo Publiko Transportation | <https://data.gmanetwork.com/gno/rss/serbisyopubliko/transportation/feed.xml> |
+| GMA News Serbisyo Publiko Walang Pasok | <https://data.gmanetwork.com/gno/rss/serbisyopubliko/walangpasok/feed.xml> |
+| GMA News Showbiz | <https://data.gmanetwork.com/gno/rss/showbiz/feed.xml> |
+| GMA News Showbiz Chika Minute | <https://data.gmanetwork.com/gno/rss/showbiz/chikaminute/feed.xml> |
+| GMA News Showbiz Pep | <https://data.gmanetwork.com/gno/rss/showbiz/pep/feed.xml> |
+| GMA News Showbiz Showbiz Abroad | <https://data.gmanetwork.com/gno/rss/showbiz/showbizabroad/feed.xml> |
+| GMA News Special Reports | <https://data.gmanetwork.com/gno/rss/news/specialreports/feed.xml> |
+| GMA News Sports | <https://data.gmanetwork.com/gno/rss/sports/feed.xml> |
+| GMA News Sports Basketball | <https://data.gmanetwork.com/gno/rss/sports/basketball/feed.xml> |
+| GMA News Sports Boxing | <https://data.gmanetwork.com/gno/rss/sports/boxing/feed.xml> |
+| GMA News Sports Football | <https://data.gmanetwork.com/gno/rss/sports/football/feed.xml> |
+| GMA News Sports NBA | <https://data.gmanetwork.com/gno/rss/sports/nba/feed.xml> |
+| GMA News Sports Other sports | <https://data.gmanetwork.com/gno/rss/sports/othersports/feed.xml> |
+| GMA News Sports Volleyball | <https://data.gmanetwork.com/gno/rss/sports/volleyball/feed.xml> |
+| GMA News Ulat Filipino | <https://data.gmanetwork.com/gno/rss/news/ulatfilipino/feed.xml> |
+| GMA News Video | <https://data.gmanetwork.com/gno/rss/video/feed.xml> |
+| GMA News Weather | <https://data.gmanetwork.com/gno/rss/weather/feed.xml> |
+| GMA News World | <https://data.gmanetwork.com/gno/rss/news/world/feed.xml> |
 | Inquirer Business | <http://business.inquirer.net/feed> |
 | Inquirer Cebu Daily News | <http://cebudailynews.inquirer.net/feed> |
 | Inquirer Entertainment | <http://entertainment.inquirer.net/feed> |
