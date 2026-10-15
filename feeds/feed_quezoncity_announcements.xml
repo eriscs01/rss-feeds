@@ -13,7 +13,7 @@
       <link>https://quezoncity.gov.ph/news-and-media/announcements/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 13:53:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:49:17 +0000</lastBuildDate>
     <item>
       <title>Quezon City Government Statement regarding Task Force Disiplina</title>
       <link>https://quezoncity.gov.ph/quezon-city-government-statement-regarding-task-force-disiplina/</link>
@@ -142,6 +142,19 @@
       <pubDate>Fri, 02 Oct 2026 23:42:00 +0000</pubDate>
       <media:group>
         <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/image-71-1024x1024.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Public Service Announcement: QC E-Services Scheduled Maintenance – October 3, 2026</title>
+      <link>https://quezoncity.gov.ph/public-service-announcement-qc-e-services-scheduled-maintenance-october-3-2026/</link>
+      <description>REMINDER: SCHEDULED MAINTENANCE Please be advised that the entire QC eServices platform will undergo maintenance and will be unavailable during...</description>
+      <content:encoded><![CDATA[<figure><img src="https://quezoncity.gov.ph/wp-content/uploads/2026/10/image-70-951x1024.jpeg" alt=""/></figure><p>REMINDER: SCHEDULED MAINTENANCE Please be advised that the entire QC eServices platform will undergo maintenance and will be unavailable during...</p>]]></content:encoded>
+      <guid isPermaLink="false">https://quezoncity.gov.ph/public-service-announcement-qc-e-services-scheduled-maintenance-october-3-2026/</guid>
+      <category>Media</category>
+      <category>Announcement</category>
+      <pubDate>Fri, 02 Oct 2026 11:37:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://quezoncity.gov.ph/wp-content/uploads/2026/10/image-70-951x1024.jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>
