@@ -123,3 +123,11 @@ feeds:
     script: pasig_news_blog.py
     type: requests
     blog_url: https://pasigcity.gov.ph/news-and-releases
+  philippineairlines_press_releases:
+    script: philippineairlines_press_releases_blog.py
+    type: requests
+    blog_url: https://www.philippineairlines.com/ph/en/newsevent-listingpage.html
+  philippineairlines_travel_advisory:
+    script: philippineairlines_travel_advisory_blog.py
+    type: requests
+    blog_url: https://www.philippineairlines.com/ph/en/newsevent-listingpage.html

@@ -204,3 +204,17 @@ feeds_pasig_news: ## Generate RSS feed for Pasig City Government News and Releas
 	$(Q)uv run feed_generators/pasig_news_blog.py
 	$(call print_success,Pasig City Government News and Releases feed generated)
 
+.PHONY: feeds_philippineairlines_press_releases
+feeds_philippineairlines_press_releases: ## Generate RSS feed for Philippine Airlines Press Releases & Statements
+	$(call check_venv)
+	$(call print_info,Generating Philippine Airlines Press Releases & Statements feed)
+	$(Q)uv run feed_generators/philippineairlines_press_releases_blog.py
+	$(call print_success,Philippine Airlines Press Releases & Statements feed generated)
+
+.PHONY: feeds_philippineairlines_travel_advisory
+feeds_philippineairlines_travel_advisory: ## Generate RSS feed for Philippine Airlines Travel Advisory
+	$(call check_venv)
+	$(call print_info,Generating Philippine Airlines Travel Advisory feed)
+	$(Q)uv run feed_generators/philippineairlines_travel_advisory_blog.py
+	$(call print_success,Philippine Airlines Travel Advisory feed generated)
+
