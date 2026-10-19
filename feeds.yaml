@@ -107,18 +107,22 @@ feeds:
     script: marikina_news_blog.py
     type: requests
     blog_url: https://marikina.gov.ph/news
+    enabled: false
   pasay_city_events:
     script: pasay_city_events_blog.py
     type: requests
     blog_url: https://pasay.gov.ph/balita/city-events/
+    enabled: false
   pasay_mayors_desk:
     script: pasay_mayors_desk_blog.py
     type: requests
     blog_url: https://pasay.gov.ph/category/mayors-desk/
+    enabled: false
   pasay_pio_advisory:
     script: pasay_pio_advisory_blog.py
     type: requests
     blog_url: https://pasay.gov.ph/category/pio-advisory/
+    enabled: false
   pasig_news:
     script: pasig_news_blog.py
     type: requests
