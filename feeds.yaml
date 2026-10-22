@@ -55,30 +55,37 @@ feeds:
     script: manilabulletin_philippines_blog.py
     type: requests
     blog_url: https://mb.com.ph/category/philippines
+    enabled: false
   manilabulletin_national:
     script: manilabulletin_national_blog.py
     type: requests
     blog_url: https://mb.com.ph/category/national
+    enabled: false
   manilabulletin_metro_manila:
     script: manilabulletin_metro_manila_blog.py
     type: requests
     blog_url: https://mb.com.ph/category/metro-manila
+    enabled: false
   manilabulletin_luzon:
     script: manilabulletin_luzon_blog.py
     type: requests
     blog_url: https://mb.com.ph/category/luzon
+    enabled: false
   manilabulletin_visayas:
     script: manilabulletin_visayas_blog.py
     type: requests
     blog_url: https://mb.com.ph/category/visayas
+    enabled: false
   manilabulletin_mindanao:
     script: manilabulletin_mindanao_blog.py
     type: requests
     blog_url: https://mb.com.ph/category/mindanao
+    enabled: false
   manilabulletin_world:
     script: manilabulletin_world_blog.py
     type: requests
     blog_url: https://mb.com.ph/category/world
+    enabled: false
   quezoncity_announcements:
     script: quezoncity_announcements_blog.py
     type: requests
